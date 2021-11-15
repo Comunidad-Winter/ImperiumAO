@@ -1,0 +1,4 @@
+[History]
+1=#P0#=mb	#P1#=Main	#P2#=ImperiumAOClient/modClient/Main	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20210826113450	#P7#=0	#P8#=23	.
+2=#P0#=mb	#P1#=ActualizarExp	#P2#=ImperiumAOClient/modTCP/ActualizarExp	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20210209172734	#P7#=0	#P8#=0	.
+3=#P0#=mb	#P1#=Label2_MouseMove	#P2#=ImperiumAOClient/frmMain/Label2_MouseMove	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20210209171426	#P7#=0	#P8#=27	.
