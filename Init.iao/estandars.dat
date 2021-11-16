@@ -1,0 +1,14 @@
+[INIT]
+NumStds=2
+
+[Std1]'Bodys
+Width=27
+Height=47
+Frames=6-6-5-5
+Speed=1
+
+[Std2]'Heads
+Width=27
+Height=32
+Frames=1-1-1-1
+Speed=1
