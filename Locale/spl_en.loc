@@ -1,0 +1,182 @@
+Cure Poison|Cures poisoning.|You have cured | has cured you from poisoning.|You have cured yourself from poisoning.|NIHIL VED
+Magic projectile|Inflicts 2 to 7 damage points to the victim.|You have casted magic projectile on | has casted magic projectile on you.||Rah'Za'Lu
+Heal minor wounds|Heals from 1 to 5 HP.|You have healed | has healed you some wounds.|You have healed some wounds.|CORP SANC
+Poison|Causes death if not cured with antidote in time.|You have poisoned | has poisoned you.|You have poisoned yourself.|SERP XON IN
+Heal deep wounds|Restores from 15 to 25 HP.|You have healed | has healed you.|You have healed |EN CORP SANCTIS
+Igneous Arrow|Inflicts 8 to 14 damage points to the victim.|You have casted Igneous Arrow on | has casted Igneous Arrow on you.|You have casted Igneous Arrow on yourself.|Fogûs Saex
+Electric Projectile|Inflicts 16 to 22 damage points to the victim.|You have casted Electric Projectile on | has casted Electric Projectile on you.|You have casted Electric Projectile on yourself.|SUN VAP
+Magic Bomb|Inflicts 20 to 30 damage points in a two tiles area.|You have casted Magic Bomb on | has casted Magic Bomb on you|You have casted Magic Bomb on yourself.|DRAC NE R 
+Paralyze|Fully stops the actions of a creature or the movements of a character.|You have paralyzed | has paralyzed you.|You have paralyzed yourself.|HOAX VORP
+Remove Paralysis|Removes paralysis from characters.|You have removed the paralysis from | has removed your paralysis.|You have removed you paralysis.|AN HOAX VORP
+Resurrect|Resurrects a dead player.|You have resurrected.| has resurrected you.|You resurrected yourself.|AHIL KNÄ XÄR
+Igôr's cry|Increases strength critically.|You have casted Igôr's howl on | has casted Igôr's howl on you.|You have casted Igôr's howl.|ÔL HÀX
+Uhkrul's rage|Increases target's strength and dexterity critically.|You have casted Uhkrul's rage on | has casted Uhkrul's rage on you.|You have casted Uhkrul's rage.|ÛX'ÔL'HIC
+Invisibility|Target becomes invisible. Temporary Effect.|You have casted Invisibility on | has casted Invisibility on you.||
+Firestorm|Causes 35 to 50 damage points on a 3 tile area.|You have casted Firestorm on | has casted Firestorm on you.|You have casted Firestorm on yourself.|RAX IN ZAR
+Musical Call|A bard will come to your aid.|You have summoned a bard.|||Impendere et worg
+Nature Call|Summon 1 wolf to help you.|You have summoned 1 wolf.|||Lupos Arcessere
+Celerity|Increases target's dexterity.|You have casted Celerity on | has casted Celerity on you.|You have casted Celerity on yourself.|YUP A'INC
+Blunder|Reduces target's dexterity.|You have casted Blunder on | has casted Blunder on you.|You have casted Blunder on yourself.|ASYNC YUP A'INC
+Strength|Increases target's strength.|You have casted Strength on | has casted Strength on you.|You have casted Strength on yourself.|Ar A'kron
+Weakness|Reduces target's strength.|You have casted Weakness on | has casted Weakness on you.|You have casted Weakness on yourself.|ASYNC AR A'KRON
+Disenchant|Removes all magic effects on target.|You have casted Disenchant on | has casted Disenchant on you.|You have casted Disenchant on yourself.|Nequita
+Electric Current|Causes 40 to 55 damage points in a two tile area.|You have casted Electric Current on | has casted Electric Current on you.|You have casted Electric Current on yourself.|T'HY KOOOL
+Immobilize|Prevents the target from moving.|You have immobilized | has immobilized you.|You have immobilized yourself.|Är Prop s'uo
+Apocalypse|Causes 102 to 124 damage points to the victim.|You have casted Apocalypse on | has casted Apocalypse on you.|You have casted Apocalypse on yourself.|Rahma Nañarak O'al
+Summon Fire Elemental|Summons a Fire Elemental.|You have summoned a Fire Elemental.|||Yur'rax
+Summon Water Elemental|Summons a Water Elemental.|You have summoned a Water Elemental.|||Mantra'rax
+Summon Earth Elemental|Summons an Earth Elemental.|You have summoned an Earth Elemental.|||Gor'rax
+Implore Help|Implore the Gods for aid, the ones bring you a Will-o'-the-wisp to fight along side you.|You have implored the Gods for aid! A Will-o'-the-wisp joins your battle!|||Ar'Cor'rax
+Blindness|Blinds a target| has blinded you.|You have blinded yourself.
+Stupidity|Makes the target move erratically and without control of itself.|You have casted Stupidity on | has casted Stupidity on you.|You have casted Stupidity on you.|OBSTUPEFACIO
+Restoration|Restores between 50 and 70 HP to target and removes all negative effects this may have.|You have been healed.| has healed you.|You have healed yourself.|Nihil Vitae
+Unleash the Wrath|Reduces target's strength and dexterity critically.|You have unleashed the wrath of | has unleashed your wrath.|You have unleashed your wrath.|Irascor
+Implosion |Causes 128 to 136 damage points to the victim.|You have casted Implosion on | has casted Implosion on you.|You have casted Implosion on yourself.|Nihil Mortem
+Mosquitoes Rain|Insects will blind and paralyze the victim.|You have casted Mosquitoes Rain on | has casted Mosquitoes Rain on you.|You have casted Mosquito's Rain on you.|Hut Inefectus
+Firestorm (Fire Elemental)|||| has casted Firestorm on you||RAX IN ZAR
+|||| has shot an Arrow against you.|
+Metamorphosis: Golem|Transforms you into a Golem. Temporary Effect. Creatures will not attack you if you seem stronger than them, and you gain a bonus in your attack and defense.|You have transformed him/her into a golem| has transformed you into a golem.|You have transformed into a golem.|
+Metamorphosis: Dragon |Transforms you into a Dragon. Temporary Effect. Creatures will not attack you if you seem stronger than them, and you gain a bonus in your attack and defense.|You have transformed him/her into a dragon | has transformed you into a dragon.|You have transformed into a dragon.|
+Metamorphosis: Wolf|Transforms you into a Wolf. Temporary Effect. Creatures will not attack you if you seem stronger than them, and you gain a bonus in your attack and defense.|You have transformed him/her into a wolf| has transformed you into a wolf.|You have transformed into a wolf.|
+Metamorphosis: Ogre|Transforms you into an Ogre. Temporary Effect. Creatures will not attack you if you seem stronger than them, and you gain a bonus in your attack and defense.|You have transformed him/her into an ogre| has transformed you into an ogre.|You have transformed into an ogre.|
+Metamorphosis: Wild Boar|Transforms you into a Wild boar. Temporary Effect. Creatures will not attack you if you seem stronger than them, and you gain a bonus in your attack and defense.|You have transformed him/her into a wild boar| has transformed you into a wild boar.|You have transformed into a wild boar.|
+Metamorphosis: Tree|Transforms you into a Tree. Temporary Effect. Creatures will not attack you if you seem stronger than them, and you gain a bonus in your attack and defense.|You have transformed him/her into a tree| has transformed you into a tree.|You have transformed into a tree.|
+Metamorphosis: Grizzly Bear|Transforms you into a Grizzly Bear. Temporary Effect. Creatures will not attack you if you seem stronger than them, and you gain a bonus in your attack and defense.|You have transformed him/her into a grizzly bear| has transformed you into a grizzly bear.|You have transformed into a grizzly bear.|
+Metamorphosis: Turtle|Transforms you into a Turtle. Temporary Effect. Creatures will not attack you if you seem stronger than them, and you gain a bonus in your attack and defense.|You have transformed him/her into a turtle| has transformed you into a turtle.|You have transformed into a turtle.|
+Metamorphosis: Spider|Transforms you into a Spider. Temporary Effect. Creatures will not attack you if you seem stronger than them, and you gain a bonus in your attack and defense.|You have transformed him/her into a spider| has transformed you into a spider.|You have transformed into a spider.|
+Metamorphosis: Demon |Transforms you into a Demon. Temporary Effect. Creatures will not attack you if you seem stronger than them, and you gain a bonus in your attack and defense.|You have transformed him/her into a Demon | has transformed you into a demon.|You have transformed into a demon.|
+Metamorphosis: Snake|Transforms you into a Snake. Temporary Effect. Creatures will not attack you if you seem stronger than them, and you gain a bonus in your attack and defense.|You have transformed him/her into a snake| has transformed you into a snake.|You have transformed into a snake.|
+Metamorphosis: Bat|Transforms you into a Bat. Temporary Effect. Creatures will not attack you if you seem stronger than them, and you gain a bonus in your attack and defense.|You have transformed him/her into a bat| has transformed you into a bat.|You have transformed into a bat.|
+Metamorphosis: Tiger|Transforms you into a Tiger. Temporary Effect. Creatures will not attack you if you seem stronger than them, and you gain a bonus in your attack and defense.|You have transformed him/her into a tiger| has transformed you into a tiger.|You have transformed into a tiger.|
+Electric Discharge (Fatuous)||| has casted Electric Discharge on you||T'HY KOOOL
+Final Judgment|Causes 142 to 150 damage points to the victim.|You have casted Final Judgment on | has casted Final Judgment on you.|You have casted Final Judgment on yourself.|Finis Mortem
+Planar Portal|Creates a teleport to Intermundia.|You have created a Planar Portal.|||Opercure Dimentia
+Resurrection|Resurrects a player with their HP at maximum.|You have resurrected| has resurrected you.|You have resurrected.|HÏC KNÄ XÄR
+Create: Food|Creation spells turn magic into materials. This spell can create food.|You have created some food.|||Alimentis Sunt
+Incinerate|A blaze will burn the target, causing considerable damage over time while the fire burns.Cooldown 9,2 seconds.|You have burned| has burned you.|You have burned yourself.|INCENDERE
+Acid Storm|Causes 40 a 50 damage points and poisons in a three tile area.|You have casted Acid Storm on | has casted Acid Storm on you.|You have casted Acid Storm on yourself.|VAX IN XORP
+Curse|Prevents victim from attacking.|You have cursed | has cursed you.|You have cursed yourself.|Mallum Est
+Call the familiar|Summons or withdraws your familiar.||||Familiare Asimis
+Create: Drink|Creation spells turn magic into materials. This spell can create drinks.|You have created something to drink.|||Aquae Sunt
+Call your pet|Summons or withdraws your pet.||||Pet Ad Signum
+Detect Invisibility|Detects invisible players in caster's sight range.|You focus to detect invisible presences.|||Fant Visiblî
+Banshee's Sorrow|Causes 132 to 145 damage points and it's not affected by MR. Ignores the aditional Magic Damage.|You have casted Banshee's Sorrow on | has casted Banshee's Sorrow on you.|You have casted Banshee's Sorrow on yourself.|V R NI MÉS
+Critical Poison |Causes quick death if not cure by an antidote.|You have critically poisoned| has critically poisoned you.|You have critically poisoned yourself.|Pestis Xôn In
+Tornado|Paralyzes victims in a two tiles area.|You have paralyzed| has paralyzed you.|You have paralyzed yourself.|Turbinis Vasti
+Resurrection (Priest)||| has resurrected you.||HÏC KNÄ XÄR
+Heal Critical Wounds|Restores between 45 and 55 HP.|You have critically healed| has healed you critically.|You have healed critically.|Sum Corp Sanctis
+Sacred Word|Sacred Word paralyzes and weakens target enemy.|You have casted Sacred Word on | has casted Sacred Word on you.|You have casted Sacred Word.|Feresdeth Averin
+Tempest|Punishes enemy with the might of heaven and seas, causing between 108 and 124 points of damage.|You have casted Tempest on | has casted Tempest on you.|You have casted Tempest on yourself.|Tempestatem aquae
+Holy Aura|The Gods will protect you with an aura.|||An aura protects you.|Elinethik
+God's Pray|Heals between 70 and 80 HP in a 5 tile area.|God's pray heals and strengthens| has healed you with God's pray|You have healed |Uere Ferethiele
+Accurate Hit|Target won't miss next strike.|You have casted Accurate Hit on | has casted Accurate Hit on you.|You won't miss your next strike!|Ar'Sen Benerim
+Divine Power|Target's power increases considerably.|You have casted Divine Power on | has casted Divine Power on you.|You feel stronger.|Anath Ekelnar
+Animate Nature|Brings a tree to life temporarily.|Nature protects you.|||In amari sÖpra T'ai
+Healing Circle|Restores between 45 and 50 HP in a 3 tiles area.|You have casted Healing Circle on | has healed you|You have healed |AMAÏRI SANCTIS
+Fire Seeds|Acorns and Berries turn into balls of fire, causing 105 to 118 damage points.|You have casted Fire Seeds on | has casted Fire seeds on you|You have casted Fire seeds on yourself.|Samarin Tar
+Solar Beam|Ray of light that causes 92 to 108 damage points and blinding the victim.|You have casted Solar Beam on | has casted Solar Beam on you|You have casted Solar Beam on yourself.|Alata AÜre
+Earthquake|Causes between 50 and 65 damage points in a 4 tiles area.|You have created an earthquake.| has caught you on an earthquake.|You have been caught on your own earthquake.|Undume Ken
+Revive Familiar or Pet|Resurrects target's familiar or pet.|| has resurrected your familiar.|You have resurrected your familiar.|Nature X r
+Invisible Servant||You have summoned an invisible servant.||Invisibilia Servus
+Penetrating Glance||You have casted Penetrating Glance on | has casted a Penetrating Glance on you.|You have been paralyzed.|Fulgor
+Spirit Intimidation |Intimidates target, reduces strength and defense.|You have intimidated| has intimidated you.|You have been intimidated.|Espiritus Exterrere
+Leomund's Secure Shelter|An invisible force grants you defense.|||You feel protected.|Uelare cum Uireso
+Soul's Wail|Causes between 108 and 120 damage points.|You have casted Soul's Sorrow on | has casted Soul's Sorrow on you.|You have casted Soul's Sorrow on you|Uita Subtrahere
+Inspiration |A source of inspiration cures your diseases and increases your dexterity.|You have inspired| has inspired you.|You have been inspired.|Mussas Apello
+Divine Assistance||Two Angels came to your aid.||Divinum Auxilium
+Divine Punishment|Causes from 80 to 95 damage points|You have casted Divine Punishment on | has casted Divine Punishment on you.|You have casted Divine Punishment on yourself.|Ekelnar Menie
+Fountain of Life|Heals between 30 and 45 damage points.|You have casted Fountain of Life on | has casted Fountain of Life on you.|You have casted Fountain of Life on yourself.|Kelne Benath
+Paladin's Honour|The Gods bless you by increasing your potential.|||You feel stronger.|Migen Kaeltar
+Evil Prevention ||| has attacked you.|Stealth will be your weapon.
+Magic Weapon |Divine Forces will provide you a temporary magic weapon.|||A magic weapon waves in your hand.|Lure Xil
+Magic Missile|Causes 25 to 35 damage points to the victim.|You have casted Magic Missile on | has casted Magic Missile on you.|You have casted Magic Missile on yourself.|INX TO R 
+Electric Discharge|Causes 60 to 70 damage points to the victim.|You have casted Electric Discharge on | has casted Electric Discharge on you.|You have casted Electric Discharge on yourself.|T'HY KOOOL
+Fire Discharge|Causes 88 to 102 damage points to the victim.|You have casted Fire Discharge on | has casted Fire Discharge on you.|You have casted Fire Discharge on yourself.|IGNÏS XAR
+Summon Skeleton |One Skeleton will come to your aid.|You have summoned 1 skeleton.|||MoÏ cÔrps
+Summon Zombie|Summon the dead. One zombie will come to your aid.|You have summoned 1 zombie.|||MoÏ cámus
+Restoration ||| has healed you.||Nihil Vitae
+||| has shot an Igneous Harpoon against you.|
+Foretelling|Detects invisible players in caster's sight range.|You have casted Foretelling.|||Vothaler Visibili
+Final Wail|Administrator's Spell. This spell is so powerful that we know that the server may crash if you use it.|You have casted Final Wail on | has casted Final Wail on you.|You have casted Final Wail on yourself.|Finis V R NI MÉS
+Direct Final Wail|Administrator's Spell. This spell is so powerful that we know that the server may crash if you use it.|You have casted Final Wail on | has casted Final Wail on you.|You have casted Final Wail on yourself.|
+Leviathan's Spirit|Increases your attributes.|||The spirit of the beast flows in your body.|Spiritus Draconis
+Temper|Raises your physical defense, but reduces your attack potential.|||You concentrate and defense strengthens.|Restinguendam
+Prayer|Restores health at the cost of your abilities.|||The gods heal your wounds|Orationis
+Impious Sacrifice|You concentrate all of your power in your attack, leaving yourself highly vulnerable.|||Your rage focuses in your next attack!|Impius Sacrificium
+Metamorphosis: Ent|Transforms you into an Ent. Temporary effect.|You have transformed him/her into an ent| has transformed you into an ent.|You have transformed into an ent.|
+Metamorphosis: Eagle|Transforms you into an eagle. Temporary effect.|You have transformed him/her into an eagle| has transformed you into an eagle.|You have transformed into an eagle.|
+||| has casted Elemental Flame on you||
+Aether’s Fury||| has casted Ahether’s Fury on you.||Aether'Für
+Dark Scourge||| has casted Dark Scourge on you.||Supplicium Câligo
+Spectral Sob||| has casted Spectral Sob on you.||Complorâtus esprectâ
+Illusory Punishment||| has casted Illusory Punishment on you.||Poenâ'captiö
+Remorse||| has casted Remorse on you.||Dêc'um Äcêms
+Hypnosis||| has casted a paralyzing Hypnosis on you.||Sômnus
+Tempest||| has casted Tempest on you.||Tempestâtis
+Blaze||| has casted Blaze on you.||Flâmmaë
+Tremor||| has casted Tremor on you.|| ndamë K'unhs
+Torrent||| has casted Torrent on you.||Fluentëm  he'rüs
+Divine Prophecy||| has casted Divine Prophecy on you.||Pröeftus Divein
+Igneous Furor|Speed up your attack power at the expense of your health.|||A hidden power increases your attack speed!|Furorem Igneous
+Remove Blindness|Removes blindness effect from characters.|You have removed blindness effect from| has removed your blindness effect.|You have removed you blindness effect.|An vides
+Heal Familiar or Pet|Resurrects target's familiar or pet.|| has healed your familiar.|You have healed your familiar.|Nature X r
+Arcane Thunder|Causes 40 to 55 damage points to the victim.|You have casted Arcane Thunder on | has casted Arcane Thunder on you|You have casted Arcane Thunder on you|X R NÏ RÔ
+Metamorphosis: Santa Claus|Transforms target into a Santa Claus. Temporary Effect. Creatures will not attack you if you seem stronger than them, and you gain a bonus in your attack and defense.|You have transformed into a Santa Claus to | has transformed you into a Santa Claus.|You have transformed into a Santa Claus.|Ho Ho Ho Ho Ho!
+Ethereal Plane|Transports the player to the Ethereal Plane, making him completely invisible to the Plain of the Living. Any attack will cancel this effect. Temporary Effect.|You sent to the Ethereal Plan |has sent you to the Ethereal Plane| you went to the Ethereal Plane.|Aeris
+Flaming Roar||| has casted Flaming Roar on you.||Fremitu Mortem
+Abrasive Blow||| has casted Abrasive Blow on you.||Abrasive Halitus
+Flaming Avalanche||| has casted Flaming Avalanche on you.||Damnum Flammeus
+Crackling Punishment||| has casted Crackling Punishment on you.||Crepitantibus Supliccium
+Metamorphosis: Headless Horseman|Transforms target into a Headless Horseman. Temporary Effect. Creatures will not attack you if you seem stronger than them, and you gain a bonus in your attack and defense.|You have transformed into a Headless Horseman to | has transformed you into a Headless Horseman.|You have transformed into a Headless Horseman.|J R ZHA NI
+Teleportation Rune|Returns you to your home. You can talk to any Priest at a neutral city or one from your faction and by typing /HOME you will change your home.|||You return to your home.|Teleportation Rune
+House Rune|This rune will take you inside your house. You must own one to use it.||| you have been teleported to your house.|House Rune
+Escape Rune|Returns you to your home. You can talk to any Priest at a neutral city or one from your faction and by typing /HOME you will change your home.|||You return to your home.|Escape Rune
+Cobweb|Avoids the victim from moving.|You have caught | has caught you with her cobweb.|You have caught your self.|Tar Nï'Xar
+Magic Shield||||You protect yourself from the attack of your enemies.|Magicae Clypeus
+Ocean's Cry||| has casted Ocean's Cry on you||Obscura Mortum
+Metamorphosis: Snowman!|Transforms target into a Snowman. Temporary Effect. Creatures will not attack you if you seem stronger than them, and you gain a bonus in your attack and defense.|You have transformed into a Snowman to | has transformed you into a Snowman.|You have transformed into a Snowman.|Ho Ho Ho Ho Ho!
+Metamorphosis: Mud!|Transforms target into a Mud. Temporary Effect. Creatures will not attack you if you seem stronger than them, and you gain a bonus in your attack and defense.|You have transformed into a Mud to | has transformed you into a Mud.|You have transformed into a Mud.|
+Lethal Poison||| has casted Lethal Poison on you.||Lethal Ostium
+Superior Invisibility|Makes the target invisible more efficiently due to a reduced cost. Temporary Effect.| has casted Superior Invisibility upon| has casted Superior Invisibility on you.||
+Supernova||| has casted Supernova on you||Hyacintho Stella
+Metamorphosis: Werewolf!|Transforms you into a Werewolf. Temporary Effect. Creatures will not attack you if you seem stronger than them, and you gain a bonus in your attack and defense.|You have transformed into a Werewolf to | has transformed you into a Werewolf.|You have transformed into a Werewolf.|
+Metamorphosis: Vampire!|Transforms you into a Vampire. Temporary Effect. Creatures will not attack you if you seem stronger than them, and you gain a bonus in your attack and defense.|You have transformed into a Vampire to | has transformed you into a Vampire.|You have transformed into a Vampire.|
+Metamorphosis: Vampiress!|Transforms you into a Vampiress. Temporary Effect. Creatures will not attack you if you seem stronger than them, and you gain a bonus in your attack and defense.|You have transformed into a Vampiress to | has transformed you into a Vampiress.|You have transformed into a Vampiress.|
+Metamorphosis: Demon!|Transforms you into a Demon. Temporary Effect. Creatures will not attack you if you seem stronger than them, and you gain a bonus in your attack and defense.|You have transformed into a Demon to | has transformed you into a Demon.|You have transformed into a Demon.|
+Metamorphosis: Captive Soul!|Transforms you  into a Captive Soul. Temporary Effect. Creatures will not attack you if you seem stronger than them, and you gain a bonus in your attack and defense.|You have transformed into a Captive Soul to | has transformed you into a Captive Soul.|You have transformed into a Captive Soul.|
+Metamorphosis: Ghost!|Transforms you into a Ghost. Temporary Effect. Creatures will not attack you if you seem stronger than them, and you gain a bonus in your attack and defense.|You have transformed into a Ghost to | has transformed you into a Ghost.|You have transformed into a Ghost.|BOO!
+Agility Ring||||You increase your agility.|
+Agility Boots||||You increase your agility.|
+Occultism Ring||||You become invisible.|
+Regeneration Ring||||A life shield protects you.|
+Warrior’s Ring||||You feel stronger.|
+Assassin’s Necklace||||Accelerates the speed of your attack by sacrificing your health points.|
+Archer’s Necklace||||Your next strike won’t miss!|
+Bard’s Ring||||Your armor is improved.|
+Knuckles||||Your strength increases.|
+Warrior’s Ring||||You feel stronger.|
+Thundering Howl|Removes the paralysis of the character.|You casted Thundering Howl upon | has casted Thundering Howl upon you.|You cast a howl that breaks the earth and removes your strings.|ÿrum Raeeeeeeeel
+Unleashed Wrath|Removes the paralysis of your character.| has casted Unleashed Wrath upon | has casted Unleashed Wrath upon you.|The unleashed wrath removes your strings.|ARGHHHHH!!!
+Thunder|Causes 85 to 95 points of damage to the target.|You casted Thunderbolt upon | has casted Thunderbolt upon |Has casted Thunderbolt upon you.|Arnak Sulum
+Ancestral Power|It grants you 25 strength and 25 agility.| has casted Ancestral Power upon | has casted Ancestral Power upon you.|The ancestral power of the Gods surrounds you.|Valhum Rashir
+Frenzy|Increases your attack speed for 6 seconds.| has casted Frenzy upon | has casted Frenzy upon you.|The Frenzy consumes you and you destroy everything in your path.|ARRGHHHH!!!
+Combustion|Causes 140 to 150 points of damage to the target.|You casted Combustion upon | has casted Combustion upon you.|For some reason you casted Combustion upon yourself.|Räkarlifûr
+Call of the Whelps|||||Vocavit Pullorum Grypium
+Burning Breath|||||Spiritus Calidus
+Ancestral Strike|Causes 65 to 75 points of damage to the target.|You casted Ancestral Strike upon | has casted Ancestral Strike upon you.|For some reason you casted Ancestral Strike upon yourself, and the Ancestors and equally as confused.|Aertikün
+Ignition|Causes 90 to 105 points of damage to the target.|You casted Ignition upon | has casted Ignition upon you.|For some reason you casted Ignition upon yourself.|Blurtarashk
+Igneous Torment|Causes 110 to 130 points of damage to the target.|You casted Igneous Torment upon | has casted Igneous Torment upon you.|For some reason you casted Igneous Torment upon yourself.|Ignuris Sinsi
+Atavistic Vortex|Causes 85 to 90 points of damage and immobilizes the target.|You casted Atavistic Vortex upon | has casted Atavistic Vortex upon you.|For some reason you casted Atavistic Vortex upon yourself.|Hoax Morten
+Cannonball|Causes 70 to 110 points of damage to the target.|You casted Cannonball upon | has casted Cannonball upon you.|For some reason you casted Cannonball upon yourself.|BOOM!
+Imaginaerum Plane||||You switch planes. Everything seems to be more mysterious and strange. No one seems to know what you are doing...|Imaginaerum
+Metamorphosis: Christmas El!|Transforms you into a Christmas Elf. Temporary Effect. Creatures will not attack you if you seem stronger than them, and you gain a bonus in your attack and defense.|You have transformed into a Christmas Elf to | has transformed you into a Chrstmas Elf.|You have transformed into a Christmas Elf.|Hee Hee Hee!
+0 Tolerance||| has casted 0 Tolerance on you.||Banned!
+Ivory Rune|Suitable to celebrate the 14th birthday of ImperiumAO.|||You cast a powerful magical rune with which you celebrate the 14th birthday of ImperiumAO.|14 years!
+Llamado a los Refuerzos|||||¡Soldados! ¡Aquí!
+Runa de Marfil|Apto para celebrar el cumpleaños Nº 15 de ImperiumAO.|||Conjuras una poderosa runa mágica con la cual celebras los 15 años de ImperiumAO.|¡15 años!
+Metamorfosis: ¡Conejo!|Transforma al usuario en un Conejo. Efecto temporal. Las criaturas no te atacarán si aparentas ser más poderoso que ellas, y obtendrás un bonificador en tu ataque y defensa ¡Felices Pascuas!|Has transformado en Conejo a | te ha transformado en Conejo.|Te has transformado en Conejo ¡Felices Pascuas!|
+Meditate|||||
+Destello Primigenio|Causa 115 a 130 puntos de daño a la víctima.|Has lanzado Destello Primigenio sobre | ha lanzado Destello Primigenio sobre ti|Has lanzado Destello Primigenio sobre ti.|Fulgur Veteris
+Invocar Sombra del Inframundo|Invoca un sirviente del Inframundo|Has invocado un sirviente del Inframundo.|||Gor'Shad
+Sentencia de la Muerte|Causa 95 a 105 puntos de daño a la víctima.|Has lanzado Sentencia de la muerte sobre | ha lanzado Sentencia de la muerte sobre ti.|Has lanzado Sentencia de la muerte sobre ti.|Damnationem Mortem
+Fuego Fatuo Luz|||||Ignis

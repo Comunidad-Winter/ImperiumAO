@@ -1,0 +1,954 @@
+Zombie Aullador||
+Gallo||
+Cerdo||
+Vaca||
+Sacerdote||Hola hijo mío. Soy un sacerdote. Si quieres ser resucitado, sólo pídelo. También puedo hacer de esta ciudad tu hogar, sólo escribe /HOGAR.
+Guerrero|Sagrada Orden|Protegeré la ciudad de cualquier amenaza.
+Herrero||Filosas, brillantes... Todo tipo de hojas con excelentes empuñaduras harán de cualquier combatiente un verdadero oponente.
+Comidas||¡Hola! Sólo aquí conseguirás las mejores provisiones de todas estas tierras.
+Cartez|Granjero|¡Bienvenido a mi huerta! Tengo las mejores frutas de la zona. No podrás encontrarlas de mejor calidad.
+Khalfistum Rostroscuro|Nigromante|
+Zombie Desquiciado||
+Sastre||Confeccionamos vestimentas para el ciudadano promedio. ¡Nuestros precios son los mejores!
+Guerrero|Fuerzas del Caos|¡Que las sombras reinen en estas tierras es nuestro deber!
+Alquimista||Todo aventurero necesita una buena dotación de pociones para un largo viaje. Aquí podrás encontrar las mejores.
+Tabernero||¡Bienvenido a mi taberna, viajero!
+Yuri|Herrero|Para un entrenamiento apropiado necesitarás un arma apropiada. Si usás algo inservible, nunca saldrás de aquí.
+Zafer|Sastre de Rinkel|¿De donde sacaste esas ropas? Quítatelas y compra aquí un atuendo nuevo y mucho mejor.
+Darrion|Herrero|Lleva el destino a tu enemigo utilizando estas armas malditas.
+Vasilios|Herrero|A menos que tengas un compañero que cubra tu espalda te recomiendo que compres una de estas armaduras.
+Cletus|Herrero|Tengo el arma perfecta para cada guerrero, no importa edad, raza o género. Derrotaras muchos enemigos, te lo aseguro.
+Eachael|Sastre de Banderbill|La realeza de Banderbill confía su apariencia en nuestros hilos y agujas. ¿No lo harás tú?
+Ramus|Herrero|Armamento. Eso te ofrezco yo. Ni más, ni menos. ¡Visítame seguido y puede que te haga una rebaja! *ríe entre dientes*
+Iphicros|Herrero|Nada... ¡Nada! ¡Nada podrá penetrar estas armaduras!
+Banquero|Finanzas Goliath|Bienvenido a la cadena de Finanzas Goliath. Somos la más grande cadena de Finanzas en estas tierras. Contamos con bancos en las ciudades más importantes. En nosotros puede confiar.
+Achel|Herrero|¡Ey! ¡Tú! ¡Sí, tú! ¿Acaso lo que veo que empuñas es una espada? Si fuera tú lo usaría más bien de bastón. Para sobrevivir en los Arrecifes, es mejor que renueves tu arsenal.
+Melan|Herrero|¿Qué clase de guerrero se defiende con un escudo de madera reseca? Apostaría todos mis bienes a que el sol de mediodía lo convertiría en fuego fácilmente. Ven aquí joven, te haré una rebaja solo por lástima.
+Laurid|Sastre de Tiama|No es fácil sobrevivir por estas tierras heladas sin un abrigo que te resguarde del frío atroz... échale un vistazo a mis túnicas y vestimentas hechas de la más pura piel de lobo invernal. Te protegerán y mantendrán tu cuerpo tibio.
+Uroylaf|Sastre de Arghâl|Los bandidos por fin han dejado de atacar mis caravanas, apúrate, tengo de todo.
+Sulay|Sastre de Lindos|¿Demasiado calor, eh? ¡Já! Hace años en Lindos hemos encontrado la manera de que nuestras vestimentas ya no conviertan en hierro fundido a quienes las portan.
+Yargs|Sastre|La maldad también sabe vestirse bien.
+Cashelm|Propiedades de Ullathorpe|¿Alguna propiedad de tu interés? Aparta la mirada de alguna que no puedas pagar. Elije una a un bajo costo.
+Steloc|Propiedades de Nix|Las propiedades de Nix se caracterizan por su amplitud y materiales de primer calidad. ¿Tienes el dinero? No te arrepentirás.
+Ixion|Herrero|Puedo asegurarte que cuando salgas de Lindos, la paz de la ciudad no te acompañará más... lleva un buen armamento; no querrás que te tomen por sorpresa.
+Herrero||¡Bienvenido a Dungeon Newbie! Aquí conseguirás el equipamiento que todo novato necesita para iniciar sus primeras aventuras. Los enanos sabemos trabajar el acero mejor que nadie en estas tierras.
+Ricso|Sastre de Nix|Nix no sería la misma sin nuestros atuendos. ¡Tenemos 135 años de experiencia!
+Practs|Pescador|¡Aquí conseguirás lo mejor que el mar puede ofrecer!
+Cretal|Comerciante|¡Hola aventurero! Si estás hambriento entontonces has venido al lugar apropiado. Tengo todo tipo de frutas.
+Malganm|Comerciante|¿¡Estás sediento!?
+Carpintero||¡Hola muchacho! Bienvenido a mi humilde carpintería.
+Cría de Dragón Verde||
+Rukto|Hechizos de Mago|Ullathorpe es bien conocida por sus excelentes Magos. ¿Acaso eres uno? ¡Compra aquí para demostrarlo!
+Yehor|Hechizos Superiores|Solo los más poderosos hechiceros pueden manipular los conocimientos que estos pergaminos esconden. Eres soberbio al acercarte a mi comercio.
+Minero||Poseo los mejores metales y herramientas de todas estas tierras.
+Cazador|Sagrada Orden|Protegeré la ciudad de cualquier amenaza.
+Halu|Tabernero|¡Bienvenido al prestigioso Mesón Hostigado! Durante años hemos servidos las mejores bebidas a nuestra gente. Sólo dime que deseas beber.
+Akates|Hechizos|¡Bienvenido, gran viajero! Aquí tienes todo lo que puedas necesitar para acabar con los más poderosos enemigos.
+Sanceo|Propiedades Banderbill|Desde las más pequeñas hasta las más grandes y confortables casas de la capital Imperial podrás pagar aquí, has una buena elección y no te arrepentirás.
+Helios|Sastre|Vestimentas tribales, de simples campesinos o bien elaboradas... ¡Da igual! Mis vestimentas te servirán para que no tengas la costumbre de no ir desnudo por ahí.
+Brino|Herrero|Sin filosas armas no podrás derrotar al enemigo, si deseas ayudar a nuestro Imperio contras las más terribles escorias, debes llevar un buen armamento.
+Altak|Herrero|¿Así deseas proteger a nuestra Emperatriz? Será mejor que lleves una buena armadura para defenderte de poderosos ataques, ¡adelante!
+Estuvis|Pescador|Muchos conocen a Nix como la Capital de la pesca por la gran cantidad de pescadores, pero no es solo por eso... ¡sino por la calidad de los pescados! ¡Compruébalo comprando mis deliciosos y frescos productos!
+Laktor|Entrenador|¡Hola amigo! Soy el maestro de armas de la Milicia de Banderbill. Si deseas que traiga una criatura sólo debes pedírmelo.
+Grondark|Gritos de Guerrero|Aprende a focalizar tu ira y controlar tu espíritu. Estos pergaminos te ayudarán a convertirte en el temor de tus adversarios.
+Sylred|Propiedades de Lindos|Mira a tu alrededor... paz, belleza. Un Oasis de la mayor categoría. ¡Todos quieren vivir en Lindos! ¿Por qué no le das una oportunidad a nuestros hogares?
+Gallo||
+Cerdo||
+Vaca||
+Liktos|Herrero|Sólo aquellos equipados con lo mejor podrán alcanzar la gloria. Desde dentro... y fuera. ¡Deja que nosotros nos preocupemos por tu exterior!
+Ckito|Herrero|Illiandor te ofrece las mejores armas de estas tierras. No podrás conseguir nada mejor al mismo precio.
+Jerek|Emperador|Bienvenido al Palacio Real. Soy Jerek, el Emperador. Líder y fundador de la Sagrada Orden. Si deseas enlistarte deberás jurar fidelidad a mi y a nuestro Dios. ¡Acompáñanos en nuestra lucha contra las fuerzas de Mhorkvel!
+Guardia Imperial||Protegeré la ciudad de cualquier amenaza.
+Águila||
+Cuervo||
+Hormiga||
+Rata||
+Oso Pardo||
+Tortuga Gigante||
+Mavak|Vendedor General|Variedad de objetos encontrarás aquí, acércate y veré que puedo hacer por ti.
+Clérigo|Sagrada Orden|¡Estoy aquí para mantener el orden en nombre del Consejo!
+Bardo|Sagrada Orden|¡Estoy aquí para mantener el orden en nombre del Consejo!
+Druida|Sagrada Orden|¡Estoy aquí para mantener el orden en nombre del consejo!
+Nigromante|Sagrada Orden|¡Estoy aquí para mantener el orden en nombre del consejo!
+Paladín|Sagrada Orden|¡Estoy aquí para mantener el orden en nombre del consejo!
+Mago|Sagrada Orden|¡Estoy aquí para mantener el orden en nombre del consejo!
+Asesino|Sagrada Orden|¡Estoy aquí para mantener el orden en nombre del consejo!
+Ely||
+Fuego Fatuo||
+Zombie Mordedor||
+Gran Águila||
+Elemental de Agua||
+Elemental de Fuego||
+Elemental de Tierra||
+Jabalí||
+Tigre||
+Cisne||
+Mhorkvel|Líder de las Hordas del Caos|¡Maldita escoria! Mi momento ha llegado al fin. De mi mano vienen las Hordas del Caos... ¿Acaso no comprendes, mortal? ¡El Caos es el comienzo! Seres como tú, susceptibles ante mi llamada, me servirán para cumplir mis designios...
+Jacktho|Sastre de Nueva Esperanza|¿Reconoces estas túnicas? Claro que sí, no digas más. Toda la ciudad sabe que los desterrados han asaltado mi comercio una y otra vez. Ya que te encuentras aquí, ¿podrías recuperarlas? Si no estás aquí para ayudarme entonces deberías comprar algo... te hace falta. ¡Ja!
+Guardia Imperial|Sagrada Orden|¡Te estoy vigilando detenidamente!
+Corbin|Sacerdote Malvado|¡Bienvenido al Infierno! Si quieres que levante de aquí tu apestoso cadáver, solo pídemelo.
+Wisecherd|Sastre de Illiandor|Las más finas sedas hacen de nuestras vestimentas las mejores. Sólo trabajamos en Illiandor.
+Damet|Herrero|Si eres un mediano... ¡Has venido al lugar indicado!
+Clakas|Hechizos de Druida|Bienvenido, joven aprendiz. Aquí encontrarás los mejores conjuros para relacionarte con la naturaleza.
+Caloem|Transporte|No encontrarás mejores embarcaciones por aquí que éstas que estás viendo, ¡las mismas que utilizan los más altos generales en sus asedios! Date prisa, joven, pronto partiremos.
+Agnon|Transporte|Estas embarcaciones son extremadamente seguras: el propio Mathel las revisa con frecuencia, quiere lo mejor de lo mejor para su pueblo. ¿A dónde pueden llevarte hoy?
+Nerheas|Transporte|Arghâl fue engullida por criminales y bandidos en los últimos siglos, ahora no es más que vestigios de lo que alguna vez fue. Ya nadie quiere quedarse por aquí, todos se marchan a mejores ciudades, al igual que tú.
+Trummel|Transporte|Puedo asegurarte que mis bestias son lo mas rápido que has visto, ¡no tienen nada que envidiarle a un bote! Tu solo relajate y disfruta el viaje, la carroza ni siquiera se sacudirá.
+Cazador|Fuerzas del Caos|¡El caos reinará en estas tierras!
+Clérigo|Fuerzas del Caos|¡El caos reinará en estas tierras!
+Cría de Dragón Rojo||
+Thorast|Propiedades de Arghâl|Ahora nuestro pueblo es un lugar seguro para vivir, sin bandidos acechando por doquier. Si deseas puedes alquilar una propiedad.
+Dinar|Carcelero|Puedo ofrecerte una fianza si lo que quieres es salir de aquí, escribe /CUANTO para saber el precio.
+Dunste|Propiedades de Rinkel|Costas, clima cálido, playas, vista al mar... ¿Qué más se puede pedir? ¡Estas propiedades lo tienen todo!
+Remonth|Transporte|Esta ciudad fue la sede de cientas de embarcaciones pirata y sus tripulantes, hoy en día son suyas en las que los viajeros parten de aquí hacia su próxima travesía. Y tú, ¿a dónde deseas partir el día de hoy?
+Tigek|Cazarecompensas|¿Quieres la cabeza de alguien? ¿Necesitas trabajo?
+Fridhelm|Propiedades de Infierno|¿Deseas vivir aquí? ¡Ja! Bien…veamos qué pocilga se adecúa a tus pretensiones.
+Marmawaru|Propiedades de Suramei|¡Oh próspera ciudad de Suramei! ¡Qué privilegio es tener la posibilidad de vivir aquí! Disfrútalo también: compra una propiedad, no te arrepentirás.
+Akitus|Propiedades de Illiandor|Te doy la bienvenida. Aquí vendemos las residencias mejor ubicadas en el pueblo de Illiandor.
+Veterinaria||Si tu familiar o mascota se encuentra en mal estado, acércamelo y veré lo que puedo hacer por él.
+Molkivat|Herrero|Bienvenido a Nix, pequeña rata... ¡Sé que buscas problemas! En caso de que también busques armamento, déjame ofrecerte algunas cosas.
+Linkra|Herrero|Armaduras de la más alta calidad aquí en Nix, ¿dónde más?
+Muktir|Herrero|Mis armaduras podrían protegerte de un basilisco. Si deseas armas, habla con mi hermano Ghob.
+Plutk|Herrero|Nadie forja mejor un arma que un orco. Si buscas protección, habla con mi hermano Ghub.
+Fuego Fatuo||
+Elemental de Agua||
+Elemental de Fuego||
+Elemental de Tierra||
+Tigre||
+Oso Pardo||
+Ely||
+Lobo||
+Torre Imperial|Sagrada Orden|
+Angel||
+Árbol||
+Sirviente invisible||
+Guerrero|Legión Dorada|Esta ciudad esta bajo mi custodia, procura no alterar la paz y el orden de esta región.
+Abal|Transporte|Para que una embarcación abandone el puerto primero debemos romper los hielos que suelen formarse en la costa. Toda esa mano de obra extra encarece los pasajes, ¡pero te aseguro que vale la pena!
+Joead|Transporte Neutral|Dime a dónde quieres ir, si tienes el oro y las agallas, te llevaré sin problemas.
+Kemuel|Transporte Neutral|Las aguas del desierto de Lindos son cambiantes, viajero... ¡aprovecha que ahora zarpar es posible!
+Naldmac|Transporte Republicano|¡Preparen naves! Salimos del puerto de Suramei en cualquier momento. ¡Compra un pase rápido o zarparemos sin ti!
+Slim|Timbero|Si deseas apostar, escribe /APOSTAR e ingresa la cantidad con la que jugarás.
+Ent||
+Fuego Fatuo||
+Achatus|Vendedor de Caballos|¡Aquí podrás encontrar las mejores monturas que te ayudarán a explorar estas hermosas tierras!
+Kraner|Herrero|Todavía sueño con poder fabricar un arma con las propiedades como el del hacha de Troberthius Kirle. En fin, hasta hoy solo son estas las armas que he logrado forjar con factores similares. Te servirán para derrotar a cualquier criatura que se te cruce en los fríos caminos de estas tierras.
+Werik|Herrero|Hechas con minerales de las Minas Kirle, estas armaduras te darán una gran defensa contra las criaturas que rondan por nuestro gélido continente. Créeme, no hallarás armaduras como estas.
+Aleroy|Gobernador de Nix|Saludos, soy el gobernador de Nix. Si deseas hablar conmigo, hazme click derecho. 
+Markman|Informante|¡Viajero, si deseas hablar conmigo, hazme click derecho! 
+Namatuflê|Informante|Sólo acércate, podríamos tener algunas palabras (Hazme click derecho) 
+Johnson|Emprendedor|¡Que fría la tundra de Tiama! Acércate, el viento no me permite oírte (Hazme click derecho) 
+Shizman|Hechizos de Clérigo|Ilumina tu camino y el de tus aliados hacia la victoria. Explota al máximo tu poder celestial aprendiendo estos poderosos conjuros.
+Ent||
+Lighener|Hechizos de Paladín|Acércate si eres un paladín deseoso de conocer los secretos de la sagrada magia. Tengo varias cosas que mostrarte.
+Farim|Hechizos de Bardo|¡Soltá ese laúd y aprendé de estos antiguos pergaminos!
+Centinela|Guardián de los Recursos|Soy el Centinela, Guardián de los Recursos. Hazme click derecho si estás trabajando y me ves cerca.
+Centinela|Guardián de los Recursos|Soy el Centinela, Guardián de los Recursos. Hazme click derecho si estás trabajando y me ves cerca.
+Contemplador Divino||*La criatura te mira sospechosamente*
+Ent Mágico||*La criatura extiende una rama de las tantas que posee*
+Bruja Maligna||Maldita sea, siempre me tienen que encontrar... *baja su cabeza*
+Bardo||
+Vulic|Subastador|¡Bienvenido al Centro de Subastas!
+Zombie Pútrido||
+Lemazi|Sastre|Aún no logro comprender cómo estamos vendiendo estas vestimentas a estos precios... ¡Aprovecha y compra antes de que lo comprenda!
+Nethcas|Propiedades de Tiama|Si deseas vivir en estas frías y mágicas tierras, solo acude a mi y te ofreceré casas que te hospeden de manera confortable y te mantengan cálido y a salvo.
+Lobo Invernal||
+Malvor|Reclutador|¡Oye, sabandija!, mi nombre es Malvor. Hace años, junto a Echor, hemos formado el Gremio de Berserkers. Si eres capaz de eliminar a todos los que están por aquí antes de que se dé cuenta, tal vez quieras considerar unírtenos.
+Cría de Dragón Negro||
+Etaren|Emperador de Banderbill|Bienvenido al Palacio Real. Soy Etaren, Emperador de Banderbill. La Sagrada Orden necesita soldados capaces y experimentados, ¡tenemos que devolver al Imperio su antigua gloria! Si crees estar a la altura y deseas ayudar, ve con Sibelly, mi Escolta. Se encuentra merodeando por el Palacio.
+Cría de Dragón de Hielo||
+Ornorok Azote|Guerrero|
+Stanbrand|Enlistador de Corsarios del Imperio|El mar no debe ser divergente al Honor y la Justicia. Dar fin a los malhechores marinos no es una vocación, es un Deber.
+Phiegar|Enlistador de Corsarios de la República|Toda Patria joven necesita de rutas comerciales para mantenerse viva y creciente. Seremos los encargados de controlar nuestras riquezas. ¡Por la República!
+Pato||
+Lobo||
+Conejo||
+Rana Venenosa||
+Agnus el Oscuro||
+Alma en Pena||
+Gallo Salvaje||
+Zombie Voraz||
+Zombie Maldito||
+Draco||
+Araña Gigante||
+Murciélago||
+Lobo||
+Zombie||
+Esqueleto||
+Serpiente||
+Goblin||
+Gallo Salvaje||
+Lord Zombie||
+Esqueleto Guerrero||
+Cría de Dragón Legendario||
+Araña Gigante||
+Orco||
+Orco||
+Jefe Orco||
+Águila||
+Araña Gigante||
+Gran Dragón Rojo||
+Araña Gigante||
+Escorpión||
+Bandido||
+Asesino||
+Águila||
+Cuervo||
+Señor de las sombras||
+Zombie Draugar||
+Rata Gigante||
+Zombie Silencioso||
+Oso Pardo||
+Tortuga Gigante||
+Zombie Ghouls||
+Ogro||
+Gran Dragón Negro||
+Demonio||
+Lobo||
+Lobo||
+Zombie||
+Draco||
+Turtus Manolarga|Ladrón|
+Orco Brujo||
+Bruja||
+Mago Protector||
+Gólem de Piedra||
+Medusa||
+Liche||
+Lord Orco||
+Quark||
+Jabalí Salvaje||
+Dark MaRcHaO||
+Dark XoGo||
+Darker Barrin|Alma de Barrin|No vuelvas a hacerme click o vas a terminar baneado.
+Saqueador de minas||
+Dark Barrin|Alma de Barrin|No vuelvas a hacerme click o vas a terminar baneado.
+Goblin||
+Escorpion||
+Serpiente||
+Murcielago||
+Arquero Pirata||
+Guerrero Pirata||
+Fuego Fatuo||
+Gran Dragón Verde||
+Fango||
+Demonio Abisal||
+Basilisco||
+Ogro Guerrero||
+Gólem de Oro||
+Gladiador||
+Gólem de Bronce||
+Medusa Matriarca||
+Gólem de Plata||
+Lobo Invernal||
+Gólem Infernal||
+Gran Dragón Azul||
+Esqueleto Guerrero||
+Cíclope||
+Yeti||
+Aparición||
+Gólem de Hielo||
+Orlog Aguasrancias|Mercenario|
+Momia Enfurecida||
+Rey Dragón||
+Dark Greco||
+Ent||
+Mercenario||
+Gallina Salvaje||
+Sirena||
+Demonio Ryghar||
+Rey Dragón||
+Gólem Protector del Fuego||
+Gólem Protector del Aire||
+Dark PleXus||
+Chamán Ártico||
+Yuan-ti||
+Huargo de Nieve||
+Hombre Lagarto||
+Zorro Rojo||
+Tigre||
+Jirva|Comerciante de Hechicería|Vendo todo tipo de Pociones, Túnicas, Gorros e Ítems para Hechizos.
+Dritus|Comerciante de Armaduras|Aquí encontrarás los mejores Cascos, Escudos y Armaduras.
+Zetyr|Comerciante de Armas|¿Buscas Armas? No hay nada que no pueda brindarte.
+Ogro Líder||
+Dragón Legendario||
+Hihuta|Herrero|Esta es de tu talla. Adelante, toma una armadura y ve en búsqueda de aventuras.
+Hechicero de Fuego||
+Vampiro||
+Vampiresa||
+Corruptor||
+Hechicero de Agua||
+Hechicero de Tierra||
+Hechicero de Viento||
+Desertor de las Tinieblas||
+Brukar|Ayudante de Papá Noel|¡Ho Ho Ho Feliz Navidad y Año Nuevo! ¿Te has portado bien este año? En ese caso puedo tener un regalo para ti.
+El Abominable Grinch|Ladrón de la Navidad|
+Quintyr|Hechizos|Asegura tu victoria con una buena defensa. ¡Aprende estos pergaminos y vuélvete inmortal!
+Gladiador|Sagrada Orden|Protegeré la ciudad de cualquier amenaza.
+Mercenario|Sagrada Orden|Protegeré la ciudad de cualquier amenaza.
+Bardo|Fuerzas del Caos|¡Que las sombras reinen en estas tierras es nuestro deber!
+Druida|Fuerzas del Caos|¡Que las sombras reinen en estas tierras es nuestro deber!
+Nigromante|Fuerzas del Caos|¡Que las sombras reinen en estas tierras es nuestro deber!
+Paladín|Fuerzas del Caos|¡El caos reinará en estas tierras!
+Mago|Fuerzas del Caos|¡Que las sombras reinen en estas tierras es nuestro deber!
+Asesino|Fuerzas del Caos|¡El caos reinará en estas tierras!
+Gladiador|Fuerzas del Caos|¡El caos reinará en estas tierras!
+Mercenario|Fuerzas del Caos|¡El caos reinará en estas tierras!
+Cazador|Legión Dorada|Esta ciudad esta bajo mi custodia, procura no alterar la paz y el orden de esta región.
+Clérigo|Legión Dorada|Esta ciudad esta bajo mi custodia, procura no alterar la paz y el orden de esta región.
+Bardo|Legión Dorada|Esta ciudad esta bajo mi custodia, procura no alterar la paz y el orden de esta región.
+Druida|Legión Dorada|Esta ciudad esta bajo mi custodia, procura no alterar la paz y el orden de esta región.
+Nigromante|Legión Dorada|Esta ciudad esta bajo mi custodia, procura no alterar la paz y el orden de esta región.
+Paladín|Legión Dorada|Esta ciudad esta bajo mi custodia, procura no alterar la paz y el orden de esta región.
+Mago|Legión Dorada|Esta ciudad esta bajo mi custodia, procura no alterar la paz y el orden de esta región.
+Asesino|Legión Dorada|Esta ciudad esta bajo mi custodia, procura no alterar la paz y el orden de esta región.
+Gladiador|Legión Dorada|Esta ciudad esta bajo mi custodia, procura no alterar la paz y el orden de esta región.
+Mercenario|Legión Dorada|Esta ciudad esta bajo mi custodia, procura no alterar la paz y el orden de esta región.
+Riclaf|Transporte Caótico|¡Preparen naves! Salimos del puerto de Orac en cualquier momento. ¡Compra un pase rápido o zarparemos sin ti!
+Fuego Elemental||
+Guardia Imperial|Sagrada Orden|Mi deber es proteger a Morteo Anduri de cualquier amenaza. Cuida tus movimientos.
+Guardia Republicano|Legión Dorada|Acercate a Thorald con cuidado o tu cabeza rodará por el aire.
+Sierpe||
+Cría Arácnida||
+Mano Poseída||
+Zombie Lóbrego||
+Esqueleto Guardián||
+Fantasma||
+Sanguijuela Gigante||
+Lacayo del Mal||
+Turbador Sombrío||
+Hombre Lobo||
+Espectro||
+Alma Cautiva||
+Castigador||
+Adosador de la Muerte||
+Vampiro Transformado||
+Gran Hechicero Garveloth||
+Guardián||
+Sertlac||
+Optarn|Sastre|Quítate esos harapos y vístete elegantemente. ¡Que estos lugares no quiten tu buen gusto!
+Zumos|Herrero|¡Este asentamiento corre peligro! Escoge tu arma y aniquila las criaturas que encuentras, antes de que ella lo hagan contigo.
+Fruckritar|Herrero|¿En busca de una nueva aventura, eh? No pienses en partir, sin antes darle una mirada a mis resistentes armaduras.
+Profeta Arcano||
+Archne||
+Blanco de Arquería||
+Ermitaño de Neiran||
+Hevun|Transporte Neutral|¡Preparen naves! Salimos del puerto de Tiama en cualquier momento. ¡Compra un pase rápido o zarparemos sin ti!
+Rialoc|Transporte Neutral|¡Preparen naves! Salimos del puerto de Lindos en cualquier momento. ¡Compra un pase rápido o zarparemos sin ti!
+Dodson|Transporte Neutral|¡Preparen naves! Salimos del puerto de Rinkel en cualquier momento. ¡Compra un pase rápido o zarparemos sin ti!
+Masgrim|Transporte Neutral|¡Preparen naves! Salimos del puerto de Nueva Esperanza en cualquier momento. ¡Compra un pase rápido o zarparemos sin ti!
+Oso Polar||
+Gólem de Piedra Helada||
+Gran Dragón de Hielo||
+Papá Noel|¡Ho Ho Ho!|¡Ho Ho Ho Feliz Navidad y Año Nuevo! Mucha gente se pierde en el camino hacia mí, pero tú has logrado llegar. Hazme click derecho si tienes algo para darme.
+Ayudante de Papá Noel|Gnomo de la Navidad|¡Saludos! Soy uno de los tantos ayudantes de Papá Noel. Necesito de tu ayuda, y sé que podrás dármela. Hazme click derecho para saber más. ¡Una jugosa recompensa te espera!
+Melf|Ayudante de Papá Noel|Estamos trabajando porque navidad está cerca y todo el mundo querrá su regalo.
+Torre Caótica|Hordas del Caos|
+Sacerdote de Neiran||
+Sabio de Neiran||
+Comandante de Neiran||
+Campeón de Neiran||
+Sicario de Neiran||
+Cazador de Neiran||
+Archimago de Neiran||
+Cría de Dragón Azul||
+Jinete sin Cabeza|El Final se Acerca|¡Muahahahaha!
+Papá Noel Zombie||¡Wo ho ho! No he venido hasta los rincones del Inframundo para tolerar tu asquerosa presencia. Alejate de aquí o sufrirás las consecuencias. Arggg...
+Rhazul|Campesino de Nix|Cuenta una vieja leyenda, que en los lugares más oscuros del inframundo, se encuentra un Papá Noel de antaño que fue relegado por corrupción, tienes que buscarlo. (Hazme click derecho)
+Sahal|Cazador|¡Oye tú! ¿Qué tanto estás viendo? Si no tienes nada útil para mi sigue tu camino.
+Pupaya|Mercenario|¡Muero de sed! Los saqueadores se han tomado hasta la última gota de estas ruinas, ¡malditos sean!
+Aldjeff|Soldado de Avanzada Imperial|Si tienes algo para mi, hazme click derecho.
+Morteo Anduri|Miembro de la Orden|Soy Morteo Anduri, representante del Imperio. Mi deber es reclutar a jóvenes aventureros que tengan la fuerza y valentía de unirse a nuestra comunidad, con el fín de pertenecer a las tropas Imperiales cuando sean lo suficientemente fuertes. Jura lealtad al gran Etaren y tendrás un hogar, trabajo, y la protección de la Sagrada Orden. ¡Únete al Imperio!
+Moakar Venth|Comandante de la Legión|Mi nombre es Moakar Venth, aunque puedes llamarme Moakar. Nuestro pueblo sufrió hace siglos un duro golpe, hemos perdido todas nuestras ciudades en el Continente Desaparecido, pero Nix se ha convertido en nuestro nuevo hogar, y es mi deber darle la bienvenida a soldados que deseen servir a nuestro Señor Mathel Bokk, nuestro Lider, aquel que nos ha unido una vez más.
+Mathel Bokk|Líder Militar de la República|¡Saludos, viajero! Mi nombre es Mathel Bokk, y soy el Líder Militar de la Legión Dorada. Cien años de desconcierto en la República finalmente cesaron, y mi administración aquí, en la ciudad de Nix, se encargará de que continúe así por mucho tiempo más. Si te encuentras deseoso de unírtenos, busca a mi pupilo Ghevro en Nix Residencial. Él es quien te incorporará a nuestras filas.
+Winniker|Cazador|Si deseas aventurarte en tu primer misión, hazme click derecho.
+Subtik|Subastas Rápidas|¿Te acuerdas de mi? ¡He vuelto! Si deseas vender un objeto de forma rápida y segura, solo tienes que hablar conmigo.
+Criptarku|Carpintero|Destruye todo lo que veas a tu paso, pero traeme la leña. El Demonio necesita armas y los árboles escasean en estas tierras.
+Xirta|Alquimista|Aquí conseguirás las pociones necesarias para la guerra ¡Ahora vete y únete a la hueste infernal!
+Lumek|Tabernero|¿Agotado de la batalla? ¡Embriágate y disfruta! Presiento que mañana se acerca el fin de la era imperial... 
+Burgrers|Comidas|¿Nuevamente buscando provisiones? ¡No quiero verte otra vez por estas tierras!
+Mylat|Sastre|Soy la encargada de la vestimenta infernal. Si tus harapos están manchados con sangre, yo puedo darte unos nuevos.
+Tyrus|Herrero|Quedan imperiales por asesinar, compra una espada y extermínalos.
+Clynkan|Banquero|Bienvenido de vuelta, rata parasitaria. La cadena de Finanzas Goliath puede ayudarte a conservar tus botines de guerra resguardados. ¡Pronto, deja lo que necesites y largo de aquí!
+Nhyla|Veterinaria|Si tu endemoniada mascota o familiar está herida, tráela. La magia oscura podrá salvarla por esta vez.
+Thime|Subastador|Exóticas reliquias. Algunas malditas, otras manchadas con sangre. Aquí encontrarás artefactos y tesoros malditos.
+Nhazrit|Sacerdote|¿Otra vez por aquí? Si quieres volver a la vida dímelo, antes de que me arrepienta.
+Deyta|Vendedor de propiedades|Luego de un largo día, necesitas un lugar para descansar. ¿Qué clase de vivienda buscas, guerrero?
+Awerit|Vendedor General|Poseo bienes de todo tipo. Desde mapas hasta runas antiguas. Dime que deseas comprar, tengo prisa.
+Tefvk|Carpintero|Bienvenido a mi humilde carpintería, camarada. Tengo aquí algunos productos de duro roble de los bosques de Suramei. También puedes encontrar herramientas que te serán útiles a la hora de trabajar la madera.
+Xefil|Minero|Bienvenido a mi comercio. Contempla los más finos minerales de nuestras tierras. Si eres un trabajador de las minas, aquí tengo algunas herramientas que te serán de utilidad. ¡Ten cuidado con los saqueadores!
+Carim|Alquimista|Incluso Fausto, el Inmortal, necesita pociones para sobrevivir. ¡Nunca salgas de la ciudad sin ellas!
+Brush|Tabernero|Ven, bebe y come un poco mientras escuchas las hazañas de nuestro señor Fausto. ¡Un guerrero no puede luchar con el estómago vacío!
+Nilent|Sastre|Pruébate nuestras finas prendas y siente la calidad única de los sastres de Suramei. Tenemos prendas de todos los precios y tamaños.
+Frunk|Hechizos|Los pergaminos que vendo te darán los conocimientos suficientes para que puedas usar hechizos de ataque y defensa, hasta para curar tus heridas. Eso si, debes ser capaz de contener Maná dentro de ti.
+Difenzi|Hechizos defensivos|Memoriza estos pergaminos. Te serán muy útiles a la hora de luchar contra nuestros enemigos. ¡No debe existir misericordia entre las filas de Fausto!
+Wupon|Herrero - Armas|¿Qué esperas? Estas son las mejores armas de todo el Continente Este, escoge una y vete. Los enemigos aguardan su muerte y no debemos perder tiempo. Pagarán con sangre su traición.
+Ramor|Herrero - Armaduras|Es trabajo de los herreros de Suramei hacer las armaduras más sólidas y resistentes. ¡Pero tu trabajo no está aquí, sino luchando junto a nuestro líder, el gran Fausto!
+Leric|Sacerdote|¡Has vuelto a la vida al igual que nuestro señor Fausto! ¡Ahora no pierdas más tiempo y dirígete hacia los frentes de batalla!
+Cril|Veterinaria|¿Tu mascota se encuentra herida? Tráemela de inmediato, debe haber algo que pueda hacer por ella.
+Fhushy|Subastador|Aquí encontrarás objetos únicos e invaluables. Puedes comprar lo que desees, a cambio de una pequeña comisión, claro.
+Cría de Rey Dragón||
+Jörthul||
+Zemut||
+Yhûzar||
+Araña Reina||
+Bandido Arghâliano||
+Grutl|Alquimista|¿Listo para partir en una aventura? No lo creo, aún necesitas las pociones para sobrevivir en la oscuridad del bosque. Yo te puedo ayudar, poseo los mejores elixires de estas tierras.
+Excrux|Alquimista|¡Viajero! Aquí encontraras los mejores elixires de todo Oderon. ¿Acaso irías a una aventura sin ellas? 
+Jhust|Alquimista|Una espada y un escudo no te salvarán del enemigo. Sin pociones como estas no llegaras muy lejos en tu aventura.
+Qrit|Alquimista|Estas pociones me han salvado la vida en varias oportunidades. Te servirán en tus aventuras.
+Vasyl|Alquimista|Para defender nuestro Imperio debemos utilizar pociones. Aquí poseemos de ellas y de gran variedad, las más eficientes del mercado.
+Ghevanu|Alquimista|Las pociones que fabrico tienen cualidades nunca jamás antes vistas. Son las más eficaces gracias a las raíces más raras que extraigo del bosque al Noreste de aquí. Cómprame algunos de mis productos y verás que no exagero.
+Kuniae|Alquimista|Estoy desarrollando una novedosa poción que volverá nuestras pieles inmunes a los fuegos elementales... ¡Me llenaré de oro! Mientras tanto, ¿quieres alguna otra pócima?
+Aquira|Alquimista|Hemos tenido que cruzar todo el desierto para conseguir las raíces de nuestras pociones... ¡y aún así los precios son los mismos que en otras ciudades!
+Yashar|Alquimista|Illiandor, la mejor ciudad nunca antes vista. Yo soy la alquimista de la ciudad, si deseas comprar alguna pócima estás en el lugar indicado. Mis pociones son fabricadas con materia prima de excelente calidad y raíces recién cortadas.
+Ingruneth|Alquimista|Has comenzado tu primer aventura, los desafíos que encuentras aquí no son nada comparado a lo que deambula por el mundo. Una buena poción, en el momento justo, podría salvar tu vida. ¡No ahorres las pocas monedas que tienes, compra de mis pociones!
+Matriarca Drow||
+Tolbher|Sacerdote de Nix|¿Otra alma en sufrimiento? Si deseas mi ayuda, solo debes pedírmela. Si deseas convertir Nix en tu hogar, escribe /HOGAR.
+Leege|Sacerdote de Ullathorpe|¿Agobia tu alma una maldición o te atormenta el dolor de una herida? Soy el sacerdote de este pueblo; yo te liberare y reviviré tu alma si fuere necesario. También puedo hacer de este lugar, tu hogar, solo escribe /HOGAR. 
+Nikim|Sacerdote de Rinkel|Piratas, berserkers, asesinos y desquiciados... todo el día matándose. ¡Por suerte yo puedo ayudar a las almas en pena! Oh, y si por alguna razón quieres hacer de esta ciudad tu hogar... pídemelo escribiendo /HOGAR.
+Esctri|Sacerdote de Arghâl|Gracias al Imperio mi templo sigue en pie. Si necesitas ser curado o resucitado, acércate. Si deseas que Arghâl sea tu hogar, pidemelo escribiendo /HOGAR.
+Venken|Sacerdote de Banderbill|Bienvenido hijo mío al templo de la capital Imperial, para devolverte a la vida solo acércate. Si deseas hacer de este lugar tu hogar, solo di /HOGAR.
+Nethethel|Sacerdote de Tiama|Saludos, forastero. Bienvenido al humilde pueblo de Tiama, yo soy el sacerdote del lugar. Si deseas ser resucitado, solo pídelo. También puedo hacer de esta ciudad tu hogar, sólo escribe /HOGAR.
+Edhew|Sacerdote de Nueva Esperanza|Si tu alma aún mantiene su luz como en el primero de tus días en este mundo, acude a mí y podré otorgarte la salvación. También puedo convertirte en ciudadano de Nueva Esperanza, con sólo escribir /HOGAR.
+Rastrata|Sacerdote de Lindos|Que el calor del desierto no te agobie, aventurero... Aquí estaré para sanar los males que se te presenten. Si quieres que Lindos sea tu ciudad, escribe /HOGAR.
+Buajam|Sacerdote de Illiandor|Los bosques de Illiandor son muy peligrosos, pero en estos momentos la ciudad es bella y amigable. Si quieres recuperarte, yo puedo ayudarte. Si quieres hacer de Illiandor tu hogar, pídemelo escribiendo /HOGAR.
+Stehildi|Veterinaria de Nix|El bosque puede ser traicionero. Si tu familiar ha sido herido acércalo y lo curaré, nunca sabes cuándo necesitarás la ayuda de tu mascota.
+Jocla|Veterinaria de Ullathorpe|¿Quién ha tenido el valor de herir a tan simpática criatura? ¡Acércala! Yo sanaré sus heridas e incluso lo traeré de la muerte si es necesario.
+Isenpher|Veterinaria de Rinkel|¿Han herido a tu mascota? Malditos... ¡por qué a los pobres animales! Los atacan como si fueran osos violentos o tigres salvajes... cuando en realidad son tan amables. Si quieres que recupere al tuyo, solo dímelo.
+Naldelf|Veterinaria de Arghâl|No permitiré que ningún familiar o mascota sufra dolor mientras yo esté aquí. ¡Acércame el tuyo si necesitas que lo cure!
+Claren|Veterinaria de Banderbill|Tu mascota o familiar debe ser sanado pronto en caso de estar malherido, tráemelo y lo curaré.
+Yasnel|Veterinaria de Tiama|Si tu familiar o mascota se encuentra en mal estado o falleció, acércamelo y trataré de ayudarlo con algo de magia arcana de nuestros antiguos ancestros, los tiamanos.
+Niord|Veterinaria de Nueva Esperanza|¿Pero qué clase de bestia es esa a tu lado? ¡Oh! Creí que tu eras la mascota y que... ¡Dime! ¿Qué puedo hacer por ti?
+Milin|Veterinaria de Lindos|Nuestros animales sufren tanto como nosotros, y hasta más. Estos son climas adversos... déjame que revise a tu mascota si está sufriendo.
+Curalne|Veterinaria de Illiandor|Yo soy la veterinaria de esta sagrada ciudad. En caso de necesitar ayuda y buscar un curandero, yo podré sanar las heridas de tu familiar. De no ser así márchate y ten cuidado con las criaturas del bosque, ellas y nuestra raza han vivido en armonía mucho tiempo, esperemos que así siga siendo.
+Markter|Carpintero de Nix|Hola joven, bienvenido a la carpintería de Nix. Si estás interesado en aprender el oficio estás en el lugar adecuado; rodeados de bosque, somos los maestros de la carpintería.
+Arson|Carpintero de Ullathorpe|¡Hola! Bienvenido a mi humilde aserradero. ¿Qué te puedo ofrecer? Dispongo de flechas, serruchos y otros menesteres...
+Tularn|Carpintero de Rinkel|Solo un experto como yo podría venderte los mejores elementos para carpintería.
+Holcuth|Carpintero de Arghâl|Los bosques de este lado del continente brindan la mejor leña en todo Oderon. Acércate y observa su calidad en mis productos.
+Anwerd|Carpintero de Banderbill|Muchos elementos de madera encontrarás aquí, cualquier duda, ¡consúltame!
+Grimteh|Carpintero de Tiama|Pasa y observa estas piezas hechas con leños del místico Bosque Helado. La madera de mis productos es una de las más exóticas que existen en el mundo, no desaproveches esta oportunidad de comprar lo que ofrezco.
+Ohnoe|Carpintero|¿Estás en busca de tu primer arco, flecha o escudo? Aquí podrás encontrar todo objeto fabricado con madera, ¡y la mejor! ¿Qué esperas? Uno no es novato para siempre.
+Vidmeri|Minero de Nix|Si bien no somos maestros de la minería, hemos aprendido aprendido de los enanos. Si tú también estás interesado en aprender el arte de la minería, has venido al lugar adecuado. 
+Yusk|Minero de Ullathorpe|¿Buscas minerales? En estas tierras se encuentran los mejores. Escoge tus herramientas y apresúrate a encontrarlos... 
+Wert|Minero de Banderbill|¿Deseas minar? Tengo las mejores herramientas para ello, ven te mostraré.
+Ulark|Minero de Rinkel|Los enanos nos han enseñado a trabajar en las minas, revelándonos todos sus secretos sobre extracción. Yo podré ayudarte a convertirte en un minero de excelencia. 
+Remim|Minero de Lindos|¿Sabes los peligros que hay que soportar para llegar hasta la mina más cercana? ¡Los Mineros en Lindos no tienen un trabajo fácil! Y, sin embargo, aquí estamos, fieles como siempre.
+Gussert|Banquero de Nix|Bienvenido a la Cadena de Finanzas Goliath. Aquí podrás realizar todas las transacciones que necesites, trabajamos en todas las ciudades de Imperium, Nix no es más que una sucursal de nuestro vasto imperio.
+Jhack|Banquero de Ullathorpe|Bienvenido a la cadena de Finanzas Goliath. Somos la más grande cadena de Finanzas en estas tierras. Contamos con bancos en las ciudades más importantes. En nosotros puede confiar. 
+Izart|Banquero de Rinkel|En una ciudad llena de maleantes y piratas como esta necesitarás guardar tus cosas en un lugar seguro. ¡Y qué lugar más seguro que los bancos de las Finanzas Goliath!
+Fhort|Banquero de Arghâl|¡Bienvenido a la cadena de financias Goliath, sucursal de Arghâl! Si deseas depositar tus objetos no dudes en hacerlo.
+Vherto|Banquero de Banderbill|Bienvenido a la casa central de los bancos Goliath. Aquí preservamos grandes objetos de valor del Imperio en nuestras impenetrables bóvedas. Puedes confiar en nosotros si deseas preservar tus objetos o tu dinero.
+Klarh|Banquero de Tiama|Supongo que no deseas salir en buscas de aventuras y que tus pertenencias caigan al suelo con el riesgo de perderse entre la nieve, ¿no? Confía en mis baúles para guardar lo que necesites y en la cadena de Finanzas Goliath, que en nosotros puedes confiar.
+Jenbar|Banquero de Nueva Esperanza|Resguarda tus ropas, armas y raros tesoros en nuestras bóvedas. ¡Siempre estaremos abiertos para ti!
+Lokhal|Guardián del Tesoro|Aquí es donde guardamos los tesoros de todos. No es la gran cosa, pero sirve para administrar todo tipo de bienes y cualquier cantidad de monedas. Nadie te robará lo que aquí dejes, pero trátame con gentileza o tal vez tus porquerías se... pierdan... *ríe*
+Reknab|Banquero de Illiandor|Esta ciudad ha sufrido tantos cambios... guerras, ejércitos. ¡Pero nunca han tocado nuestras bóvedas! Eso debe transmitir algún mensaje, ¿cierto?
+Ferham|Pescador de Banderbill|Bienvenido al puerto más grande de Imperium, aquí encontrarás los más sabrosos y frescos pescados.
+Helaf|Pescador de Rinkel|¡Oye, tú, te ves débil! Debes conservar tu energía si planeas sobrevivir en estos desiertos. Prueba alguno de mis pescados sin propasarte y seguir tu viaje.
+Lilen|Pescador de Nueva Esperanza|Los mares cálidos de esta región hacen que los peces tengan la carne más sabrosa en estos lares. Si no me crees, cómprame y verás que no miento
+Sodlin|Pescador de Lindos|Fresca pesca de las costas de Lindos, ¡conmigo! No confíes en otros pescadores, soy yo quien te dará el mejor alimento.
+Wilbras|Vendedor general de Rinkel|Después de saquear personas y botines, la gente viene a mí a vender lo que no les sirve... ¡Y ya sabes lo que dicen! ¡Lo que para unos es basura, para otros es tesoro!
+Arka|Tabernero de Nix|Bienvenido a mi humilde taberna. No será la mejor que hayas visto, pero te aseguro que esta ciudad probarás sabores nunca antes imaginados. Acomódate, hay lugar para que te sientes y descanses.
+Kimri|Tabernero de Ullathorpe|¡Te veo con sed viajero! Elige que tomarás. ¡Te recomiendo mi cerveza! ¡Bébete dos y perderás la cabeza! ¡Jia, jia, jia!
+Edhic|Tabernero de Rinkel|Vino, cerveza, jugo de frutas... ¡Tengo todo lo necesario para refrescar tu garganta! No encontraras mejores bebidas en esta ciudad.
+Thothy|Tabernero de Arghâl|El mesón Río Grande tiene bebidas de alta calidad, el licor de Arghâl es mejor que el de los fanfarrones de la Capital.
+Kevan|Tabernero de Tiama|Pareces estar tiritando del frío que hace... ven, calienta tu garganta con algunas de mis bebidas especialmente hechas para eso.
+Thybeth|Tabernero de Nueva Esperanza|Si alguien bromea contigo, es mejor que sonrías. Aquí dentro el humor de los pequeños suele ser algo inestable...¡Y eso es porque mi cerveza es de lo mejor del continente! Se que esto no es un continente... solo acércate y bebe un trago... ¡Y sonríe!
+Kepint|Tabernero de Lindos|Para estos lugares debes tener siempre varias bebidas contigo... ¿Vino, agua, jugo? ¡Eso, y mucho más!
+Alshady|Tabernero de Illiandor|Al final de un día agitado, lo mejor es refrescar la garganta con una bebida. O con varias...
+Rieregin|Comidas de Ullathorpe|¡Hola! ¡Seguro que has escuchado el exquisito sabor de mis comidas! Por un módico precio, podrás saciar hasta el hambre de los dioses. 
+Meself|Comidas de Rinkel|Si hay algo que aquí hacemos es comer en grandes cantidades. Prueba uno de estos platillos y llévate otros para el camino.
+Riatom|Comidas de Arghâl|Prueba una de estas comidas que de seguro te gustaran. Si me preguntas, preferiría carne cruda.
+Adelcar|Comidas de Banderbill|¡Hambriento debes estar! Adelante, los más sabrosos alimentos hemos preparado para ti.
+Andven|Comidas de Tiama|No puedes mantenerte tibio sin el estómago lleno. Elige algo de las comidas que te puedo ofrecer y satisface tu hambre.
+Shellar|Comidas de Nueva Esperanza|El aceite de leviatán posee un sabor delicioso. ¿Lo has probado alguna vez? Sabe a veneno azucarado. ¡Ja! Si tu paladar aún no está listo para lo exótico, tengo platos de campesino para servirte.
+Ydash|Comidas de Lindos|Una provisión de alimentos formidable para uno de los más reconocidos oasis de Imperium.
+Wismar|Comidas de Nix|Bienvenido a Nix, joven viajero. Si necesitas provisiones para continuar tu aventura en esta tierra sureña, estás en el lugar adecuado.
+Uthrak|Carpintero|¡El pueblo de Tiama no puede abrigarme como me abriga mi pequeño hogar aquí cerca del Bosque Helado! La mejor leña solo la encontrarás aquí.
+Larthum|Ciudadano|Bienvenido al humilde pueblo de Tiama, aventurero. La nieve es característica de este lugar, así que procura mantenerte abrigado porque si no morirás de frío.
+Klöm|Ciudadano curioso|¿Sabes que aquí se dice que Arispar y otros imperiales de gran reputación solían reunirse en forma secreta? ¡Es increíble!
+Thamek|Informativo|Es hermosa la vista que hay en este lago. Es como si la plata de los yacimientos al Noreste de aquí se haya vuelto líquido y convertido en este lago. Lástima por los lobos y árboles vivientes que la rodean.
+Andhet Volthêr|Ciudadano|Bienvenido a la ciudad de Suramei, antiguamente llamada Wonder cuando estaba bajo el mando imperial. Sin embargo, gracias a Fausto, ¡ahora hemos vuelto a ser libres del asqueroso Imperio!
+Cisero|Ciudadano|Las raíces por aquí no son de buena calidad. El regreso de Fausto trajo muerte a la naturaleza y sus frutos no son buenos. Mira, hasta los muertos vivos merodean por esta zona.
+Anfrid|Ciudadano|Todos los ciudadanos de esta ciudad han ayudado a levantar este salón a partir de las ruinas que quedaron del continente… Es un homenaje a nuestros valientes fundadores y a los mejores combatientes de estas tierras. Muchos vienen aquí a motivarse, otros a meditar antes de un combate.
+Netig|Merodeador|Fundadores de esta hermosa y sangrienta ciudad… de la mano de la fuerza lograron reestablecer el orden en estos restos del continente. Puede ser que no haya sido la manera más civilizada… pero no había muchas opciones en aquellos tiempos.
+Heiven|Bardo|¿Recuerdas los invasores del norte? Culpables de toda esta locura… Rumores dicen que todavía rondan por ahí, incluso algunos juran escuchar gritos en una lengua inentendible desde el otro lado de la muralla. Pero los años pasan y nadie los ha visto, muchos dicen que no son más que unos cuentos de bardos.
+Wussu|Elfo Risueño|Las estatuas que puedes observar enfrente tuyo no son unos guerreros más del montón. Están aquí y en nuestros recuerdos. Ágiles, fuertes y sabios. Son recordados por su historia, cuando llegaron a este continente e hicieron desastre, pero para bien. Se realizó un torneo, donde los más fuertes se enfrentaron y ganaron los que están aquí arriba. Muestra respeto por ellos y has silencio aquí adentro.
+Pertak|Cultista de Tedhan|¡Agacha la cabeza y demuestra respeto! ¿Sabes quien es el de la Estatua? Tedhan, el mejor comandante que pudo tener el Imperio. No solo el Imperio, ¡todo Imperium debería rendirse a sus pies!. Él sacrificó su vida metiéndose en un portal para irrumpir un ritual maléfico que invocaría al fuego que todo lo devora. Gracias al comandante, el continente Oderon no sufrió daños y por lo menos, allí pudieron seguir viviendo. Gracias a él, tú vives. Si no, los invasores nos hubieran calcinado vivos y no quedaría nadie para contarlo.
+Gorghel|El Cobarde|Este portal es algo especial. No sabría decirte a donde conduce. Veo a los guerreros ingresar y luego desaparecen. ¿A donde lleva? Solo los valientes que entran lo saben. No tengo el coraje para entrar ¿Puedes ir y luego contarme que hay más allá? Lo único que te puedo decir es que si entras, tienes que luchar. Preparate antes de ir, que seguro necesitarás a tu espada.
+Sarawise|Viejo Ciudadano|¿Eres nuevo aquí, cierto? Pude notarlo por cómo te vistes. Te explicaré un poco cómo nos manejamos aquí, si me lo permites. La manera de conseguir oro aquí, es asesinando. ¿Quieres una nueva espada? Asesina. ¿Quieres comida? Asesina. Ahora, si no quieres que haga dinero contigo, mejor vete.
+Leyria|Ciudadana Atrapada|Estoy totalmente en desacuerdo de las normas de esta ciudad. Mi esposo arriesga su vida todos los días para que tengamos algo para comer. Lo único que quiero es irme de aquí lo antes posible.
+Thresva|Nigromante|Jamás podré olvidar ese día, el peor de todos. ¡Lo he vivido yo mismo! Unos malditos invasores llegaron a las tierras de Imperium y comenzaron a hacer un raro ritual con los Fragmentos de Alkar en el Fuerte Legionario. Luego de eso sólo recuerdo que el lugar comenzó a hundirse, y sólo pensé en huir. Y aquí estoy, cien años después.
+Thaslen|Cultista de Tedhan|¿Has oído hablar de Tedhan? Fue él quien dio su vida para protegernos a todos hace más de cien años. Todo sucedió en el Fuerte Legionario, el fuego que todo lo devora estaba a punto de ser invocado en el Plano Real por el líder de los Invasores del Norte... Fue ahí cuando Tedhan se abalanzó sobre él y destruyó la Espada del Destino, lo que provocó una explosión que cerró el portal.
+Varfela|Cultista de Tedhan|De no ser por Tedhan y su admirable hazaña, el fuego que todo lo devora hubiese cruzado a nuestro plano y habría destruido todo. ¡Es mi héroe!
+Thendâk|Aventurero|Vengo de las Minas Dorck, al Suroeste de aquí. Realmente no te recomiendo que vayas solo, es muy peligroso ya que un grupo de orcos que viven en los Bosques Dorck me atacaron y, aquí estoy, totalmente herido.
+Humtok|Rebelde|¡Argh! Pronto partiré con mis camaradas a nuestras islas, al Sureste de aquí. Allí nos ocultamos desde que el gran Borkhul tomó todos los tesoros de esta estúpida ciudad. No te atrevas a seguirnos porque la pasarás muy mal.
+Vhendel|Ciudadano|¡Oh, mi bellísima Arghâl! ¡Cuánto maltrato has recibido, siendo parte del Imperio y de las Hordas del Caos! ¡Finalmente eres libre, independiente de todo líder opresor!
+Whustab|Aventurero|Esta es mi zona, aventurero. No te atrevas a desafiarme porque morirás aquí y ahora. Esta es zona de batallas, así que si perteneces aquí, pelea, y si eres un cobarde, lárgate de mi vista.
+Phomtak|Viajero|El camino se hizo largo de Suramei hasta aquí, pero finalmente estoy cerca del pueblo de Lindos. Solo debo ir hacia el Este y evitar las criaturas que merodean por el desierto.
+Elthâm|Librero|¿Sabes que la biblioteca de Lindos es la más preciada de todo el mundo? Contiene libros de sabiduría ancestral, de batallas y anécdotas jamás contadas. Es un verdadero tesoro.
+Rhudak|Ciudadano|¡Bienvenido a la tierra de los gnomos, Nueva Esperanza! Pasa y ponte cómodo en nuestro mágico archipiélago.
+Jhant|Aventurero|Los liches y orcos guerreros me están volviendo loco. Ten cuidado por aquí, no es nada fácil tener que caminar y luchar con ellos a la vez.
+Lhemvot|Aventurero|¡Ten cuidado! Este sitio es uno de los más peligrosos por los que he estado. Dragones, medusas y gigantes de plata merodean allí adentro, no te adentres si no eres de alma valiente.
+Bhindak|Pescador|Oye, tú, ¿me prestarías unas monedas? Mi barca y la pesca del día han sido hundidas de nuevo por unos estúpidos piratas que provenían de las islas Krôwh, al Sureste de aquí. 
+Vhelbed|Ciudadano|El calor es abrumador por estos lares, protégete del sol poniéndote algo en la cabeza y bebe algo de agua fresca de este pozo.
+Ghanvat|Matón|¿Qué miras tú, eh? ¿Acaso deseas batirte en duelo? ¡Vamos, ponte en guardia y veremos quién es el más fuerte!
+Daralia|Campesina de Nix|¡Auxilio, ayuda! Mi marido... mi marido se ha ido... ¿¡Me ayudarías!?
+Azjaan|Nigromante anciano|La magia oscura es mi arte, los cadáveres animados mi creación. Necesito nuevos elementos para seguir con mis obras, pero estoy viejo y débil.
+Bastor|Campesino de Nix|¡Debo conseguir una cabeza de zombie! Eso le demostrará a mi mujer que soy valeroso y realzará nuestro amor. ¡No me estorbes, obtén tus propios zombies!
+Drow Lancero||
+Drow Arquero||
+Zombie Supremo||
+Demeron|Nigromante de Mor|Este bosque aumenta mi poder... mi necromancia aquí es más fuerte que en cualquier otro lugar. ¡Debe ser por los que murieron aquí! O por los que morirán dentro de poco... ¡jajaja!
+Guardián Tiamano||
+Balandir|Enano ebrio|He estado aquí los últimos días gastando mi oro en vino y cerveza, a estas alturas el tabernero debe amarme. Ya no sé en qué gastar mi fortuna, ¿te gustaría hacer algunas cosas por mí? Si te interesa, hazme click derecho.
+Eudes|Paladín novato|No he podido evitar oír tu conversación con aquel enano ebrio. ¿Eres nuevo en esta ciudad? Tal vez pueda ayudarte a que la conozcas mejor. Si te interesa, hazme click derecho.
+Benzli|Pirata Guerrero|¿A qué has venido? No cualquiera se atreve a venir hasta aquí. ¿Es que acaso quieres simpatizarnos? Si es así, hazme click derecho.
+Danus|Pirata Arquero|¿Cómo te atreves a venir hasta aquí luego de acabar con mis nuevos reclutas, es que acaso no temes por lo que pueda pasarte? Esa es la actitud que buscamos para los nuestros, podríamos darte algunos desafíos para que pruebes ser digno de visitar esta cueva y tratar con nosotros. Si te interesa, hazme click derecho.
+Dargur|Jefe Pirata|¿Qué, Danus te envió conmigo? Debo suponer que hiciste algo que le gusto, no suele enviarme gente que no conozco. ¿Qué tal si te pongo a prueba?
+Mobar|Jefe de Astilleros|Todas las embarcaciones son iguales, pero las mías son las más bellas. ¡Ja! Aunque podrían ser aún más bella sin tan solo…
+Invocación de Morkar||
+Invocación de Ruzgor||
+Invocación de Norun||
+Hechicero de la oscuridad||
+Torre Lunum||
+Estatua Feralia débil||
+Estatua Feralia||
+Hombre de Nieve||
+Orco Salvaje||
+Orco Berseker||
+Orco Chamán||
+Orco Jerarca||
+Kraken||
+Zombie Cenagoso||
+Soldado Imperial|Sagrada Orden|El Imperio no cederá terreno ante nadie. ¡Nuestra gloria iluminará este lugar!
+Soldado Republicano|Legión Dorada|Este suelo pertenece a la República. Retrocede, en nombre de Mathel Bokk.
+Roble||
+Ébano||
+Thert|Ciudadano de Illiandor|¡Ey, tú! ¡Si! ¡Te llamo a ti, ven! Pareces ser valiente, necesito de tu ayuda. Los bandidos se han llevado un antiguo reloj de arena que poseía, no es muy valioso pero tiene un gran valor sentimental para mí. Si estás dispuesto a ayudarme hazme click derecho, solo si tienes ese reloj te daré una recompensa a cambio.
+Balmir|Guerrero de Thert|Tú debes ser el otro que ayudará a Thert a recuperar el reloj. Has realizado un gran trabajo liberando el camino de esos bandidos, pero desgraciadamente han vuelto más y con ayuda de esos desagradables asesinos. Hazme click derecho y te diré cual es el plan para poder llegar al campamento.
+Jheriul|Bandido Líder|¿Vienes por el viejo y maltratado reloj de arena? No tiene mucho valor. Pero ya que has derrotado a varios de nuestros vigías para llegar aquí veo que dispones de buena agilidad para el combate... Te propongo un canje, si te interesa Hazme click derecho
+Morter|Campesino herrero|¿Un reloj de arena? Si... si, poseo uno. Se lo compré a unos bandidos a cambio de unas pocas monedas. Podría dártelo a cambio de unos favores. Si estás interesado Hazme click derecho.
+Guldo|Herrero Orco|Tantas crías nuevas... *gruñe* debemos armarlas para futuros ataques a Ullathorpe... ¿Tú también quieres atacar al pueblo? Hazme click derecho.
+Kram|Herrero Orco|Intenta manipular objetos mágicos con estas manos grandes y verdes... ¡Es imposible! ¿Quieres un báculo orco? Hazme click derecho.
+Malen Saku|Herrero Drow|Las lanzas Drows son armas de acero frío y oscuro, excelentes para matar enemigos o amigos que quieras traicionar... ¡Hazme click derecho para saber cuanto acero violeta necesito!
+Zakam|Herrero Drow|¿Te gustaría ser uno con la Noche? Las Armaduras Negras Drows son ideales para eso. Cuando esos malditos Drows Parios atacan los alrededores de Illiandor, se camuflan en la oscuridad para dar sus golpes mortales. ¡Hazme click derecho y te diré qué necesito!
+Lumore|Herrera Drow|¿Qué, esta armadura de dónde la saque? Se la arranque a un Drow Pario muerto por mis propias manos, pero si tanto lo deseas... puedo fabricarte una... ¡Hazme click derecho y te diré los materiales necesarios!
+Emelnar|Comerciante|¿Buscas un poco de agua de los Tres Manantiales, en serio? ¿Y cómo es que todavía no habías venido a mi? ¡Ven, sólo yo proveo la famosísima agua de los Tres Manantiales! Haz click derecho y comercia conmigo.
+Hechicera||
+Jefe Bandido||
+Zoriana|Protectora del bosque|He cuidado estos bosques durante mucho tiempo, nunca es mala idea contratar ayudantes para esta gran tarea que me fue encomendada. Si piensas poder ayudarla hazme click derecho.
+Dremnas|Druida Anciano|El árbol mas antiguo de este bosque está muriendo y mi magia es inútil, si tan solo tuviera esas raíces mágicas... Hazme click derecho para ayudarme.
+Thamo|Hijo del banquero|Estos sucios bandidos, no veo el día que terminen todos en la hoguera. Piensan que pueden hacer lo que quieran con Arghâl, pero están muy equivocados. Hazme click derecho...
+Berthu|Enano guerrero|Estoy cansado de los robos, saqueos y muerte a manos de estos bandidos. Es hora de hacer justicia con nuestras propias manos. Hazme click derecho para aceptar la misión.
+Orco del Bosque||
+Lerien|Escriva de Riadhel|¿Paradójico verdad? Fundada en honor a un gobernador imperial, y sumida en el caos durante años, en medio de un continente históricamente republicano. Esta ciudad es poesía para los libros de historia. Si quieres dejar tu marca hazme click derecho.
+Oloward|Cultista de Riadhel|¿No sabes en lo que te has metido verdad? Te daré una pista si haces algo por mí y, claro está, irá acompañada de unas cuentas monedas de oro. ¿Dudas? Pongámoslo así, Hazme click derecho y tu vida empezará a infestarse de reptiles que escupen fuego.
+Elaver|Cultista de Riadhel|¿Te has preguntado alguna vez qué está pasando en el mundo? Algo grande está sucediendo, y arrasará con todo aquel que no se adapte. Hazme click derecho y puede que te evite el sufrimiento de ser aplastado por la historia.
+Viltaar|Sabio de Riadhel|Oscuridad, azufre, muerte… pero, ¿para qué? Para traer sabiduría… conocimientos ocultos del otro lado, en otro plano. Hazme click derecho para seguir adelante, pero piénsalo bien… pues es un viaje de ida.
+Lorellin|Apóstol de Riadhel|Olvida todo lo que has aprendido de este mundo. ¡Todo ha sido siempre una farsa! La diosa Avarï partió hace siglos en busca de la verdad, pero su vuelta está cerca. Si no quieres desvanecerte junto a toda esta mentira, Hazme click derecho y has algo útil.
+Gerith|Arqueólogo gnomo|¿Sabías que hace muchos años Nueva Esperanza era la ciudad principal de los Gnomos? Mi abuelo era un famoso arqueólogo y siempre estuvo enamorado de esta mágica y misteriosa ciudad. Ahora dirijo mi propio grupo de arqueología pero la ciudad y sus alrededores no son los mismos de antes. ¿Me ayudarías? Si te interesa, Hazme click derecho
+Yenlor|Pescador|¿Vienes por el trabajo de los Leviatanes? ¡Bien! Si estás interesado hazme click derecho.
+Kemli|Arqueólogo líder|¿Vienes a darnos una mano? Si Gerith te ha enviado hazme click derecho.
+Perim|Arqueólogo perdido|¡Tienes que ayudarme! Mi compañero, Laizon, cayó del barco en medio de la tormenta y vi como una sirena se lo llevaba para el este. Todavía no ha vuelto y estoy preocupado por él. ¿Crees que podrás salvarlo? Hazme click derecho
+Conjuradora||
+Kern Ghard||
+Voku|Herrero Orco|¡Warghhh! ¿Crees qué puedes portar uno de estos escudos? Sólo lo pueden llevar guerreros dignos de serlo... ¿Qué, quieres saber qué se necesita? Si te atreves, hazme click derecho.
+Juako|Informante|¡Tengo algo muy valioso para Cliara Lakhar, la emperatriz! ¡Soldados, protejanme!
+Purplo|Vendedor General de Khelem|Tengo en mi poder varios objetos que quizás te interesen. Los precios son elevados pero seguramente podremos llegar a un acuerdo.
+Citocha|Transporte caótico|No esperaremos a que te decidas a donde viajar. Compra un pasaje y sube al barco. ¡De prisa, rata holgazana!
+Vinero|Pescador de Suramei|No hay quien supere la calidad de mis cañas ni de mis pescados en toda la región, y quien ose decir lo contrario, se las verá conmigo. ¡Compra lo que debas comprar, antes que me arrepienta!
+Caballero de Neiran||
+Conjuradora de Fârzhé||
+Guarda del Pantano||
+Archimago Abisal||
+Gorgona||
+Mijten|Sabio de Tiama|¿Crees ser capaz de explorar las tierras más recónditas de éste mundo para encontrar lo que exijo? Pocos de los que ingresaron en este Templo del saber lo han logrado...si crees tener lo necesario Hazme click derecho
+Akhaen|Sabio de Tiama|Los sacerdotes de Tiama están presumiendo de la existencia de una fuerza extraña en Dungeon Zero. Mi deber es estudiarla y poder sacar provecho de ella. Si te interesa la misión, Hazme click derecho.
+Bromur|Sabio de Tiama|Luego de pasar gran parte de mi vida en este Templo de la Sabiduría, aprendí todo sobre la cultura y sociedad élfica, pero sobre todo aprendí a fabricar los mejores cascos para luchar como un verdadero tawarsiniano. Pareces interesado… Hazme click derecho y tal vez podría contarte más.
+Matur|Elfo iniciado|Tawarsinan y sus legendarios guerreros... ¡Esos si que eran soldados! Para comenzar a aprender de ellos tan solo Hazme click derecho. 
+Mustio|Sabio de Tiama|He mandado a mi joven aprendiz en una misión hacia Dungeon Marabel, y lo último que supe de él fue que terminó siendo la cena de la detestable bestia que habita allí... Si deseas una jugosa recompensa, deberás ayudarme haciendome click derecho.
+Avharic|Hechicero devenido|¿Eso que tienes ahí es un Pendiente de Sacrificio? Luce roto... ¿quieres que lo arregle? Hazme click derecho.
+Tau|Elfo forastero|Estas tierras son totalmente distintas a las de mi hogar... ¡No tengo cómo llevar a cabo mis brebajes y aleaciones! De poder cruzar nuevamente el Mar de la Eterna Penuria, volvería sin pensarlo. Si tan sólo pudieras ayudarme, Hazme click derecho.
+Veizma|Alquimista|¿Dices entender el arte de la alquimia? De ser así, hazme click derecho que tengo un gran desafío para ti.
+Hamuun|Viejo alquimista|Que mi edad no engañe, puedo ser de mucha ayuda si de alquimia se trata.
+Reunlak|Nigromante misterioso|¡Tú! ¡Ven, acercate! ¿Te diriges a Dungeon Veril? Tén cuidado, esa cueva está infestada de criaturas y criminales. Aunque, ahora que lo pienso... Eres perfecto para cierto trabajo... si te interesa solo debes hacerme click derecho.
+Bormon|Nigromante|En mis largos años dedicados a la nigromancia invoque cientos de zombies, pero... ¿Nunca te dio curiosidad saber que sienten esas criaturas? Estoy buscando un voluntario para un experimento, Hazme click derecho si estás interesado.
+Marcell|Herrero Maestro|Si lo que estás buscando en esta herrería es al creador de los anillos de ogros pues sí, soy yo. Así que mejor ahorremos tiempo y si estás dispuesto a conseguir uno de esos mágicos objetos Hazme click derecho.
+Davina|Forastera|Rondando por este lugar he descubierto que la sangre de algunas criaturas que habitan por aquí puede ser de gran utilidad para la confección de objetos mágicos. Hazme click derecho y sabrás más. 
+Ghalart|Alquimista|¡Ey, tú!¡Ven aquí! No importa mi presentación, ¿Nunca te dió curiosidad poder adoptar la forma de otra criatura de estas tierras cómo si fueras un druida?¿Tienes ganas de poder transformarte en un vampiro con solamente colocarte un anillo? Si quieres hacerlo, Hazme click derecho.
+Hern|Comerciante|En ningún lugar estaré protegido, ni aquí debajo ni en ningún lado, no mientras tenga este trozo de pergamino en mis manos. Hmmm... ¿Te interesaría ganar algunas monedas? Hazme click derecho.
+Freser|Mago de Inframundo|¿Tienes una parte del pergamino de Lunum? ¿Sabes los secretos que se esconden en ese manuscrito? Si lo tienes tan solo hazme click derecho. 
+Farhell|Espíritu|¡Juro vengar mi muerte! Necesito de un ser vivo para lograrlo, ayúdame así mi alma quedará en paz. Hazme click derecho.
+Aslok|Monje del Inframundo|¿Un pergamino quieres? Tengo el trozo roto de un pergamino que encontré junto a otras cosas. Es todo tuyo si me ayudas. ¿Lo quieres? Hazme click derecho.
+Sombra del Inframundo|Líder|¿Tienes miedo? *Estalla de la risa* ¡Anda cobarde! Hazme click derecho y anímate que queremos verte en acción. 
+Nalle|Experta en joyas|Hola aventurero, mi nombre es Nalle. Cualquier trabajo que desees realizar con alguna joya, ya sea valuar o consultar, hazme click derecho. Nadie maneja esas preciadas rocas mejor que yo.
+Tarrow|Mercenario|Realizo trueques y otros tipos de trabajos si la paga es buena. ¿Estás buscando intercambiar algo o necesitas de mi agilidad y fuerza? Hazme click derecho y podremos llegar a un acuerdo.
+Nilem|Explorador|He pasado gran parte de mi vida tratando de encontrar a la persona digna para abrir el cofre, luego de cientos de viajes entre portales he decidido dejarlo y sentarme a descansar en esta parte de la isla, nunca me atreví a abrirlo la verdad, creo que dejarlo estático no hizo más que potenciar su interior… ¿Acaso crees que eres capaz? Yo que tú vuelvo por donde viniste. Nadie sabe lo que guarda verdaderamente y no creo que te sea de tu agrado, ni mucho menos, si de verdad crees que puedes enfrentar los misterios que hay dentro de él prepárate y Hazme click derecho
+Emmel|Mago Gnomo|¡Cuidado el peligro en esta fría cueva es inminente! Está apestada de distintas criaturas dignas de pesadillas que solo quieren verte muerto, no solo eso, también te puedes encontrar con algún que otro enemigo. Hazme click derecho y te diré cual es el ingrediente que necesito para terminar las pociones. 
+Cofre Mítico||
+Guardián del Cofre||
+Gato||
+Rana Marrón||
+Guardián del Cofre||
+Stug|Hechizos de Berserker|¡Solo un verdadero Berserker podrá descubrir los secretos rúnicos de nuestra gente!
+Aroxon|Reclutador criminal|Estoy buscando a los mejores mercenarios para emprender una aventura en el bosque para comprar mejores armas en este lugar. Si deseas formar parte, hazme click derecho.
+Jhork|Campesino|Estos últimos días corrieron noticias sobre gente que ha sido asesinada por unos zombies por aquí cerca, y cada vez se acercan más. ¿Sabes lo importante que es esta ciudad? No puede recibir un ataque. Es por eso que si te atreves, podrías acabar con ellos. Piénsalo… y cuando lo tengas decidido hazme click derecho.
+Vhorleon|Sastre longevo|Viajero, podemos hacer un trato que nos beneficie a ambos, te daré una jugosa recompensa si me ayudas. Hazme click derecho si así lo deseas.
+Vendall|Ciudadano de Arghal|Día y noche, bandidos y asesinos rondan esta ciudad sin nada que nosotros, los ciudadanos, podamos hacer. Estamos en la búsqueda de un guerrero capaz, fuerte y valiente de enfrentarse a los peligros, si quieres saber más Hazme click derecho.
+Jhil|Alquimista|Hey tu, aventurero. ¿Te gustaría conseguir una recompensa por ayudar a este alquimista? Si es así hazme click derecho.
+Eurel|Elfa del bosque|¡Necesito ayuda! ¡Mi hogar corre peligro! Hazme click derecho si deseas darme una mano.
+Gamil|Cazador|Las criaturas que habitan el bosque al oeste de nuestro pueblo son una constante amenaza con la que debemos luchar día a día ¿Quieres darnos una mano? Hazme click derecho si deseas ayudar. 
+Lydarok|Cazador furtivo|Estúpidos elfos... ¿Cómo se supone que continuaré ahora con mi negocio? Estoy perdido... ¡Perdido!. Un poco de ayuda es lo que pido, sólo eso, y serás recompensado. Hazme click derecho y te contaré más sobre tu tarea.
+Jharam|Navegante|Esos asquerosos Liches, no dejan de molestar a los navegantes al sur de estas tierras. ¿Podrías ayudarme? Si así lo quieres, Hazme click derecho.
+Burteroux|Mercenario|La isla con vestigios del antiguo Plano de Garveloth es muy peligrosa... Si deseas ayudarnos con las criaturas, Hazme click derecho.
+Fhizhul|Líder Mercenario|Esos malditos  jorobados, son una plaga. Han matado a una parte de mi pequeño ejército. Podría volver y vengarme pero… no tengo los hombres necesarios... ¿Podrás tú ir a acabar con esos malditos lacayos? Hazme click derecho si quieres saber más.
+Cherleon|Líder de la Logia|Mi nombre es Cherleon y soy el líder de la Logia del León, un grupo de personas que luchamos por el honor y la justicia. Puedo ofrecerte un intercambio que sin duda será de tu agrado, Hazme click derecho si quieres llevarlo a cabo.
+Zhawn|Anciano decrépito|¿Acaso alguien no puede vestir su mejor equipo para venir a la Ciudad? ¡Qué tanto me ves! Si no pretendes ayudarme, lárgate de mi vista, pero si no es así, Hazme click derecho.
+Yolgrot|Arqueólogo enano|¿Estás dispuesto a dirigirte a los confines del mundo a buscar aquello que le fue arrebatado a mis compañeros arqueólogos? Hazme click derecho si así lo estás.
+Vhilramir|Herrero mutilado|Tanto trabajo... ¡Para nada! Y pensarás qué es lo que podría hacer yo, lisiado y sin brazos, pero no siempre fui así. Yo solía tener un par de brazos musculosos y hábiles, pero me fueron arrebatados... ¿Podrías ayudarme? Hazme click derecho si así lo deseas.
+Thear Mandht|Paladín desarmado|Que iluso fuí al caer en una redada de estas estúpidas criaturas... ¡Sólo puedo encomendarme a los dioses y rezar por que algún noble me ayude haciendome click derecho!
+Gromm|Enano de Nix|He de cocinar algo rico para mis hijos que vienen de expedición. Si quieres ayudarme a buscar los ingredientes, Hazme click derecho.
+Staoki|Jefe marinero|¡Qué miseria! He mandado a algunos de mis marinos a explorar el océano y el mar. ¿Con qué me encuentro? Con que han sido atacados por un ser marino desarrollado. Mandé a un mago para que ayude por si hubiera problemas, pero no ha servido de nada. Me gustaría que alguien, que esté dispuesto a arriesgar la vida, me ayudara a matar a ese ser. Si crees que puedes ayudar, Hazme click derecho.
+Anlas|Novato|Malditos Krakens... ¡Los odio! Daría mi colección de cascos legendarios para que acaben con esas bestias. Hazme click derecho si compartes mi sentimiento.
+Narlo|Cazador invernal|El invierno está llegando a su fin y las criaturas de la nieve se despiertan, la ciudad corre gran peligro con tantas dando vueltas. Hazme click derecho si quieres averiguar más.
+Korubuo|Sepulturero Drow|Espero no seas de esos Saqueadores que vienen a profanar las tumbas para hurtar sus posesiones. Si no lo eres, hazme click derecho, podré ofrecerte un intercambio que nos dejará satisfechos a ambos.
+Geuse|Druida invernal|El preocupante frio que azota estas heladas tierras vuelve cada vez más fuertes a los Chamanes Árticos, obligando a los aventureros a mantenerse lejos. Si deseas ayudarme a encontrar una solución, Hazme click derecho.
+Ansger|Regidor|Pieles, leña, alimentos, bebidas y criaturas que atacan… Estoy un poco ocupado para charlar, pero si quieres dar una mano, Hazme click derecho.
+Aramni|Pretendiente desconsolada|¿Quién se cree que es? ¿Acaso no soy lo suficientemente bonita? ¿No lo soy? ¡Claro que lo soy! Sólo que él está equivocado, y tú *dice señalándote*, tú me ayudarás a hacer que vuelva hacia mí. Hazme click derecho, y comencemos de una vez.
+Ledram|Erudito|Estoy investigando sobre criaturas y me han dicho de unas muy raras que deambulan estas tierras. ¿Me ayudarás a encontrarlas? Hazme click derecho para enterarte de quienes son.
+Gaukar|Leñador|¡Wargh! Acércate, debilucho. Tengo una encomienda para tí, y será mejor para todos que la tomes, antes que me hagas enojar. Hazme click derecho para saber más acerca de lo que tengo para decirte.
+Galather|Cazador|Pertenezco a una orden de cazadores que lleva años persiguiendo a estas criaturas, siempre lograban escapar, pero finalmente encontré su escondite ¡No hay tiempo que perder! ¿Quieres cazar conmigo? Hazme click derecho.
+Kijun|Druida herido|Las islas que se encuentran al oeste de aquí contienen una entrada a un lugar lleno de peligros y por uno de ellos es que me he herido el brazo, ¿quieres ayudarme? Hazme click derecho y te contaré más.
+Ferob|Sastre experto|Soy experto en el arte de la sastrería. Me dedico específicamente a hacer gorros, podría hacerte uno a cambio de una pequeña tarea. Hazme click derecho y te diré qué hacer.
+Gherle|Experto en Dragones|Aventurero, necesito que hagas algo por mí. Hablaremos de tu misión y recompensa luego de que me hagas click derecho, el tiempo es oro. 
+Arbur|Investigador|Un sucio truhan hurtó mis investigaciones arqueológicas. ¿Podrás ayudarme? Hazme click derecho si aceptas.
+Fugra|Herrera experta|Los trozos de la armadura del paladín, combinados con la delicadeza y precisión de la herrería, pueden dar una Espada Saramiana completamente nueva y reluciente. Pero claro, eso tiene su precio. ¿Estás dispuesto a pagarlo a cambio de que yo fabrique una de esas espadas? Si es así Hazme click derecho. 
+Velnor|Escultor|Hacer figuras con los restos de las criaturas es un arte que pocos tenemos el privilegio de apreciar, el problema aparece a la hora de conseguir los elementos necesarios para las estatuas y decoraciones. Si eres capaz de asesinar dichas criaturas y traerme sus restos hazme click derecho y tendrás tu recompensa por ello. 
+Fharum|Juglar de Rinkel|Los años han pasado y miles de historias he contado, antes de partir quiero compartir mi última gran canción... pero la edad ya no me permite realizar las aventuras que me motivaban a escribir y componer. Si deseas ayudar a un viejo aventurero por favor, Hazme click derecho.
+Herenvarno|Druida|Luego de varios años leyendo y estudiando libros sobre hombres lobos, creo que estoy listo para poder transformarme en uno de ellos. Pero… necesitaría algunos ingredientes para ello que no poseo ¿Quisieras ayudar a conseguir algunas cosas? Piénsalo y Hazme click derecho cuando estés listo. 
+Gurlak|Reclutador de Mercenarios|La marea sube, los vientos azotan la ciudad y las embarcaciones empiezan a crujir. Necesitamos ayuda antes de que regresen los piratas. Si deseas ayudar Hazme click derecho.
+Girtilix|Damisela enamorada|¡Ayuda! Mi marido ha desaparecido en la oscuridad de Zero, hace días debería haber regresado pero no veo su navío. Si gustas ayudarme, Hazme click derecho.
+Barab|Herrero Rinkeliano|Soy un enano experimentado en la herrería, años y años haciendo armaduras de todo tipo. Los piratas al ver que eran duraderas, me pagan por producirlas a todas sus flotas. Pero los últimos armazones han sido destruidos con facilidad por los krakens y leviatanes, para poder forjar mejores armaduras irrompibles necesito materiales que no poseo y que seguro tu puedes conseguir, si puedes ayudar, Hazme click derecho para saber más.
+Vogelweide|Menestril de Nix|He ayudado y entrenado a algunos de los mejores soldados de hoy en día en estas tierras. Si quieres puedo hacer lo mismo por tí. ¿Estás dispuesto a empezar con este entrenamiento y ayudar a otras personas? Si aceptas, Hazme click derecho.
+Kordh|Erudito en Necromancia|Estudio la necromancia y todo lo que tiene que ver con la resurrección de muertos en esqueletos y hasta inclusive orcos. Si deseas ayudar, puedo darte algunas de mis creaciones para que entrenes, sólo Hazme click derecho.
+Brizeck|Artesano de Nix|Las mejores artesanías de éstas tierras las encontrarás en esta tienda. ¿Piensas que no? Observa cada armadura, escudo, casco, arma de aquí, ¿acaso no son las mejores? Así que te ha enviado el juglar eh. Veo que respondió a mi pedido de ayuda. Mucho gusto, mi nombre es Brizeck y soy el artesano de Nix. Si deseas ayudarme, Hazme click derecho.
+Vernon|Gran Ilusionista|¡Mi magia recién comienza! Adelante, te enseñaré algunas cosas que te salvarán en tiempos de apuros. Si te ha enviado el juglar, adelante, debe de confiar mucho en tí para hacerlo. Si deseas ayudarme, Hazme click derecho.
+Geber|Alquimista Experto|¿Quién te envía hasta mi presencia, extraño? ¿Dices qué el Juglar, eh? Bueno, soy Geber, el alquimista de Ullathorpe, especialista en pociones curativas llamadas Lágrima Blanca. Si quieres que te prepare algunas para tí, Hazme click derecho.
+Cofre de Provisiones cerrado||
+Arbusto||
+Yacimiento de Hierro grande||
+Yacimiento de Plata grande||
+Yacimiento de Oro grande||
+Yacimiento de Iridio grande||
+Yacimiento de Amatista grande||
+Yacimiento de Cinabrio grande||
+Khremin|Bardo anciano|Desde los tiempos de antaño he pasado mis días  y noches viajando y relatando anécdotas por todo el continente. Muchas veces me han dicho trotamundos, con el tiempo he ganado riquezas que hoy en día con mi vejez no tengo en que gastar. Pareces ser un joven y sano aventurero, ¿Te gustaría aprender unas historias y realizar unos favores a este viejo bardo? Con cada favor obtendrás una recompensa, si es así Hazme click derecho.
+Makhal|Ebanista iniciado|¡Saludos, forastero! Mi nombre es Makhal, y me dedico a estudiar el arte del ebanismo. Si deseas ayudarme, te pediré que me hagas click derecho.
+Plexor|Líder de la Liga|Ser alguien poderoso como yo, trae consecuencias. Mi fuerza y vigor se desvanecieron, y mi legado, el heredero a mi cargo, desapareció. Si deseas ayudarme, Hazme click derecho.
+Ghanos|Ayudante del Sastre|Desde que mi hermano se unió a un grupo Secreto de Monjes mis días no han sido tranquilos ya que la preocupación de saber si volverá a casa o no es algo que quita mi sueño en las noches. Pero gracias a los dioses hay gente dispuesta a ayudarme, si tu lo estas Hazme click derecho.
+Barlin|Aventurero|Debemos ayudar a Ghanos a encontrar a su hermano, no hay tiempo que perder Hazme click derecho si deseas saber la información que poseo. 
+Jhop|Entrenador de la Sagrada Orden|Soy uno de los mejores entrenadores de ejércitos de estas tierras, y es mi deber compartir mis conocimientos con todos aquellos con la fuerza física y mental suficiente. ¿Crees estar apto? Hazme click derecho y lo averiguaremos.
+Pino||
+Zorro Gris||
+Linkmark|Vendedor de Llaves|¿Tienes un cofre que no puedes abrir? No te preocupes, tengo todo tipo de llaves para abrirlos.
+Esqueleto||
+Murciélago||
+Blanco de Combate||
+Discontinuado||
+Yacimiento de Hierro mediano||
+Yacimiento de Plata mediano||
+Yacimiento de Oro mediano||
+Yacimiento de Iridio mediano||
+Yacimiento de Amatista mediano||
+Yacimiento de Cinabrio mediano||
+Yacimiento de Hierro chico||
+Yacimiento de Plata chico||
+Yacimiento de Oro chico||
+Yacimiento de Iridio chico||
+Yacimiento de Amatista chico||
+Yacimiento de Cinabrio chico||
+Hipocampo||
+Lisa||
+Merluza||
+Pargo||
+Pez Espada||
+Kurber|Maestro Herrero|Llevo años investigando la legendaria Espada Argentum pero para continuar con mis estudios necesitare una… ¿Podrías conseguir una? Hazme click derecho.
+Morkdrag|Tesorero|¿Conoces los cofres míticos? Tengo muchos de ellos, no te das una idea de cuántos. ¿Quieres intercambiar? Entiendo, tú deseas este cofre y yo un objeto elemental. Si te interesa la propuesta, hazme click derecho.
+Laien|Bardo|¿Qué tal aventurero? Tengo una oferta muy difícil de rechazar... hazme click derecho si estás interesado.
+Eldrin|Amante de Arcos|¿Qué tal? Soy un cazador amante de los Arcos que posee una gran cantidad de Cofres Míticos. Si deseas hacer un intercambio, Hazme click derecho.
+Arsut|Ciudadano|Soy un simple ciudadano que heredó de su padre una gran cantidad de Cofres Míticos, obtenidos en batalla. Planeo deshacerme de ellos, pero no los quiero regalar. Hazme click derecho si deseas hacer un trueque.
+Birguk|Maestro de Sastrería|Soy Birguk, gran conocedor de sastrería y demás. Tengo información nueva para descubrir y quisiera saber si me ayudarías. ¿Estás dispuesto a hacerlo? Puedo darte una gran recompensa, si así lo deseas, Hazme click derecho.
+Mesrob|Intercambiador|Quiero empezar un negocio de pantalones. Mi tarea es reunir la mayor cantidad de Pantalones Arábigos de color rojo. Si tienes algún pantalón rojizo ven y hazme click derecho que tengo un pequeño trato para ti.
+Elgomdre|Productor Textil|Bienvenido a Arghâl, pequeño aventurero. Éste campamento, así como lo ves, antes era un lugar muy poblado. Pero con el tiempo, todo se fue marchitando. Estoy pensando en comenzar una inversión aquí para que la gente vuelva, ¿quisieras ayudarme? Hazme click derecho.
+Zareth|Maestro Sastre|Estoy reuniendo la mayor cantidad posible de Pantalones Arábicos Naranjas... ¿Tienes diez de ellos? Hazme click derecho.
+Kenrab|Mercante|*Suspira* Me han robado toda mi mercancía, solamente me queda este baúl que he encontrado flotando en uno de mis viajes hacia Rinkel, si quieres saber más sobre él, Hazme click derecho.
+Neikar|Cazador de mitos|¡Oye! ¡Tú! Ven, acércate. Mi nombre es Neikar y soy un buscador de historias asombrosas, o cazador de mitos, como prefieras llamarme.. Tengo una misión para tí, no es la gran cosa, pues seguramente no sea verdad lo que se rumorea, pero podrías de todas formas salir muy beneficiado. A que te intriga, ¿verdad? Vamos, Hazme click derecho y continuemos.
+Meyuba|Intercambiador|Tengo tal vez una misión que podría interesarte. No te daré fortuna, ni será una misión fácil, y aún teniendo la recompensa te saldrá caro poder disfrutarla, pero si lo haces bien, valdrá la pena para ambos. Hazme click derecho si quieres intentarlo.
+Gato Negro||
+Caja de Madera||
+Saqueador||
+Saqueador de Reliquias||
+Saqueador Enfurecido||
+Abisal Rebelde||
+Abisal Guerrero||
+Abisal Hechicero||
+Malek Jhar||
+Ghander|Transporte|Estas embarcaciones poseen una larga historia detrás. En resumen, hace muchos años una tormenta nos sorprendió. Las embarcaciones quedaron hechas trizas y actualmente las usamos de trofeos. Pero no te preocupes, las embarcaciones son mucho más resistentes que en aquél entonces.
+Redear|Maestro Sastre|No es por alardear, pero dudo que en esta zona encuentres vestidos iguales o mejores que los que yo coso.
+Gladiador||
+Raumbe|Mercenario|¡Pss! ¡Tú, sí, tú! Apuesto a que no me viste aquí escondido. Como sea, tengo algo que tal vez te interese, se trata de un intercambio. Hazme click derecho si estás interesado.
+Rhomar|Informativo|¿Qué tal? Soy Rhomar, un apasionado aventurero. Si sigues por este gran túnel, llegarás a la famosa ciudad de Rinkel. Ten cuidado, abundan estafadores y caóticos.
+Greggor|Informativo|La historia de las catacumbas es tan larga como estos extensos túneles. Las catacumbas conectan las ciudades y antiguos pueblos de enanos. Por aquí cerca podrás encontrar la salida hacia Banderbill. Una bella ciudad fundada hace muchos siglos por Bhargaras VI. Allí hay bellas decoraciones y bondadosos ciudadanos.
+Bartar|Informativo|¿Aventurero, eh? Estás con la persona indicada, ¡yo también soy aventurero! Si sigues unos kilómetros por aquí, encontrarás una salida hacia Ullathorpe, ciudad famosa por la cantidad de caballos que posee y vende.
+Narwe|Informativo| Llevo años en estos húmedos túneles, tanto que no necesito un mapa para guiarme bajo tierra. Por aquí cerca estará la salida a Arghal. Fijate, desde aquí puedes verla.
+Draen|Informativo|Sin dudas, estas catacumbas son las más largas. Une ciudades y antiguas ciudades de enanos. Aquí, en el Sur, podrás llegar a Nix y poder conocer esta bella ciudad llena de todo tipo de ciudadanos. Desde artistas, hasta escritores y soldados.
+Habur|Informativo|Vengo de Campamento Tiama, sitio con el que te toparás si sigues por este túnel. Allí, además de resfriarme, pude abastecerme de recursos para seguir con mi travesía por estas catacumbas.
+Halan|Informativo|Me han dicho que siguiendo por este túnel, encontraré una antigua civilización de enanos. Me dirijo para estudiarla, será la primera que estudie, ¡qué emoción!
+Adil|Informativo|Voy hacia una antigua civilización enana, y no dejaré que ningún caótico se interponga entre la arqueología y yo. Uno de mis sueños es enorgullecer a mi padre, haciendo lo que él haría si estuviera vivo. 
+Wenthon|Informativo|¿Aventurero, eh? ¿Qué tal? soy Wenthon, un viejo arqueólogo. En estos momentos voy hacia lo que será la última antigua civilización que estudiaré. Luego de eso, podré descansar en paz. Si te interesa ir más rápido que yo, sigue este túnel.
+Korhok|Orco Luchador|Los enanos que aquí vivían en tribus ya no existen pero los ataques aún perduran. Este lugar continúa siendo bélico, muchos recurren aquí en busca de combates, me incluyo. Será mejor que te mantengas alerta.
+Sengo|Víctima de saqueadores|Se llevaron todo, ya no me queda nada… ¡malditos saqueadores, malditos sean! Tu mejor ten cuidado o correrás la misma suerte que yo. 
+Alhera|Cazadora solitaria|¿Qué se te ha dado por visitar estos lugares solo? ¿No has oído de los saqueadores? Aparentan estar sólos pero en cuanto desvías la vista un grupo numeroso se hace presente y… mejor ten cuidado.
+Tohirre|Saqueador gritón|¡Largo todos, fuera! Aqui dominamos los saqueadores, nadie conoce estos agujeros tanto como nosotros. ¡Lárguense, este lugar será su perdición! Tu deja de mirarme o acabaré contigo aquí y ahora.
+Zaghor|Profanador|Parece que el encierro y la oscuridad produce altos niveles de violencia en todo aquel que se adentra en las catacumbas… Yo simplemente vengo en busca de cuerpos, ya sabes... cosas de nigromancia. ¡Espero no encontrarme con el tuyo!
+Robey|Saqueador|¿Qué haces por aquí sabandija? Me parece que te has confundido de sitio… ¡Estos túneles nos pertenecen y no nos iremos hasta encontrar la última reliquia enana que se haya por aquí! 
+Jakron|Coleccionista ingenuo|¡Hey! ¿A ti también te han llegado rumores sobre unos extraños fragmentos? Dicen que provienen de antiguas tribus enanas que habitaban estos salones… ¡Su valor debe ser incalculable! Pero recuerda, ten cuidado con los saqueadores, hay demasiados aquí.
+Hamett|Justiciero|En estos túneles reina la violencia y la muerte… Todos los criminales y saqueadores que logran escapar se dirigen hacia las profundidades para esconderse de la justicia. ¡Ten cuidado!
+Usdrut|Guerrero anciano|Llevo años recorriendo las tierras de mis ancestros… Me han contado cientos de historias sobre las tribus enana que vivían en estos, túneles y las enormes riquezas que escondían. Pero ya no quedan más que ruinas y saqueadores en búsqueda de tesoros… ¡Es lamentable!
+Lynn|Hechicera precavida|Hace días que estoy recorriendo estos túneles y solo me encuentro con esos malditos saqueadores y extrañas figuras… Creo que hay ciertos lugares que es mejor no investigar ¡Recomiendo menos valentía y más precaución!
+Demeron|Nigromante Envejecido|Sobreviví a muchos... muchos años, gracias a un Escudo que me protege de todo. Mi tiempo en este plano ya está llegando a su fin, aún a pesar de mis artimañas. Aprovecha mis últimos momentos aquí, Hazme click derecho y lleguemos a un acuerdo. No te arrepentirás de poseer tal fuente de vida.
+Vampiro|Líder|Este castillo no vio más que nuestros rostros por más de 200 años. Tanto yo como mis súbditos desean sangre cálida, y ustedes fueron tan tontos como para morder el anzuelo. Pero aún pueden salvarse, son libres de retirarse… Si es que encuentran el camino correcto. 
+Súbdito Vampiro|Súbdito|Me sorprende que llegaran aquí tantos de ustedes, por suerte algunos no lo hicieron *ríe con malicia*. Siempre me divirtió cazar a mis presas, o que nuestras criaturas los atraparan. Todos perecerán tarde o temprano, es cuestión de tiempo.
+Vampiresa|Súbdita|Todos caerán, uno a uno. Miren a su alrededor si no creen en mis palabras, pocos de ustedes han llegado hasta aquí. No se ilusionen aún, todavía resta un largo trecho para escapar. ¡Dense prisa! No resistiremos mucho más, algunos continuamos con apetito. 
+Exuret|Aventurero|¡Ayuda, por favor! ¡Me tienen encerrado hace semanas y algo me dice que el próximo seré yo! Busca la forma de liberarme por favor. Ninguno de los que se va con ellos regresa...
+Arghat|Aventurero|¡He visto a esa maldita criatura! ¡La ví! ¡Sigan por aquí, vamos! ¡Que no escape! 
+Maloin|Aventurero|Este laberinto de puras hierbas y arbustos es muy fácil para mí. ¿Acaso no había un reto más difícil? Mi instinto me dicta que éste es el camino correcto. 
+Omigo|Equipamiento Defensivo|Ven...acércate aventurero, poseo las mejores protecciones para el combate de éstas tierras, son forjadas con los mejores minerales que un herrero puede conseguir.
+Grunit|Equipamiento Defensivo|¿Quieres gorros? poseo de la mejor calidad. ¿Quieres túnicas? Cualquiera te envidiaría llevando una de las mías. Vendo tejidos hechos con las mejores pieles obtenidas de los lugares más inhóspitos.
+Pamen|Equipamiento Ofensivo|¿Acaso buscas una ventaja en el combate? Puedo asegurarte que nuestras armas son forjadas con los minerales de los mejores yacimientos...
+Tesorero|Inscripción a Evento|Si quieres participar en el evento, habla conmigo por favor. No puedo prometer que va a ser barato.
+Caballo Blanco||
+Espíritu|Alma Perdida|¡Huye de aquí mientras puedas!
+Marius Ghan|Coleccionista de Colgantes|¡Somos los trillizos Ghan! Nuestro afán es conseguir todos los colgantes de materiales preciosos. ¿Quieres saber cuales debo recolectar yo? Hazme click derecho.
+Juth Ghan|Coleccionista de Colgantes|¡Somos los trillizos Ghan! Nuestro afán es conseguir todos los colgantes de materiales preciosos. ¿Quieres saber cuales debo recolectar yo? Hazme click derecho.
+Sebhas Ghan|Coleccionista de Colgantes|¡Somos los trillizos Ghan! Nuestro afán es conseguir todos los colgantes de materiales preciosos. ¿Quieres saber cuales debo recoletar yo? Hazme click derecho.
+Rey Draco||
+Hechicero Acuático||
+Hechicero Aéreo||
+Hechicero Terrestre||
+Hechicero Ígneo||
+Archimago||
+Monstruo del Pantano||
+Golem Ígneo||
+Garveloth||
+Profeta||
+El Guardián||
+Darkest Barrin|Alma de Barrin|No vuelvas a hacerme click o vas a terminar baneado.
+Esqueleto||
+Tolkvar||
+Neishtar||
+Khrog|Esbirro maestro|Los hermanos orcos, Gerker y Gurkar, me ordenaron que entrene a sus esbirros. Parece que les hace falta meter sus manos entre la sangre y las  tripas ¡A ver si aprenden de una vez lo que es ser parte del Caos! ¡Vamos, sabandija! Hazme click derecho.
+Zhertig|Gnomo viudo|De tu ayuda necesito noble soldado del Imperio. Las sucias Hordas del Caos... ¿Qué podría yo decir de ellas que ya no sepáis? Malditos sanguinarios y despiadados, sólo almas que siembran el terror en nuestras tierras. Éstas ratas han asesinado a mi indefensa esposa. Su muerte no será en vano ¿verdad? ¿Tú crees tener la fuerza y valentía suficiente, digno de un soldado imperial como para enfrentarte a ellos y detenerlos? Demuestra tu honor por nuestra gente, chico y Hazme click derecho.
+Drajoan|Profesor de la República|Ey, tú. ¿Sabías que Mathel Bokk es el líder militar de la República? ¿Y que reunió a los republicanos dispersos en Oderon? ¿No? Pues si quieres no sólo aprender un poco de esta gran facción, sino también ayudarla, Hazme click derecho.
+Ghret|Mensajero del Caos|Los ideales de las Hordas del caos son guerra, sangre, muerte y destrucción... lamentablemente los tiempos han cambiado y atacar una ciudad fortificada como Nix sería una total locura... Incluso para nosotros. Esta vez tengo una misión distinta para ti... ¿Deseas ser un "mensajero" del Caos? Hazme click derecho.
+Amnidae|Encargado del Frente Caótico|¡Seas bienvenido al Cuartel de la Sagrada Orden! Mi nombre es Amnidae, General de este glorioso ejército. Si deseas contribuir a la causa, tengo unos encargos que tal vez te interesen. Hazme click derecho y podremos hablar un poco más sobre ello.
+Lecrauie|Espía Republicana|Oye... Psssst. Ven, acércate, necesito de tu ayuda. ¡Es importante! Pero también es altamente confidencial. Hazme click derecho si deseas saber más.
+Riskur|Ex militar|Ricas cervezas y sabrosos quesos he probado aquí dentro. ¡No te avergüences, no hay nada que perder! Más que tu dinero... ¡ja ja ja! Incluso una vez he llegado a ver al mismísimo líder militar de la República, Mathel Bokk aquí dentro. Es muy amable...
+Rasgun|Ciudadano|¿Nuevo en esta preciosa ciudad? Pues aquí detrás se encuentra el correo, por si quieres enviar o recibir algo. A la izquierda se encuentra la herrería y a la derecha la sucursal del Banco Goliath. Si te pierdes, vuelve conmigo y te recordaré dónde está cada cosa.
+Ronber|Pescador|Gran cantidad de peces habitan en estas aguas. La pesca es un buen negocio en Nix. Mi familia se dedica a esto desde que la capital republicana se ubicaba en Suramei, una antigua ciudad que se encontraba en el continente hundido, Rhagnark. Yo me dedico a esto hace años y no me quejo, es algo apasionante arrojar un anzuelo y sacar un pez.
+Samles|Ciudadano|Deseo algún día poder navegar en este gran océano, por eso dedico mi vida a trabajar sin descanso. Mi meta es comprar una barca para poder hacerlo. Mientras tanto me conformo con la gran ciudad, plagada de todo tipo de gente. Desde republicanos, hasta caóticos e imperiales, soldados y campesinos.
+Phercar|Creyente|Grandes curanderos se encuentran dentro de este templo. Están preparados para curar hasta la herida más grave, y son tan eficientes como cada arma y herramienta que se vende en esta ciudad.
+Ceorah|Criminal|¡Libertad, finalmente! Me arrepiento de mis crímenes. No culpo a Ghevro por dar la orden de meterme aquí dentro, ¿quién no metería a la cárcel a un asesino? Como sea, he cambiado y estoy listo para continuar disfrutando el ambiente de esta gran ciudad.
+Deima|Ciudadano|La gran fuente... Probablemente la zona más bella de la capital republicana. Aquí es donde suelo venir a relajarme. No hay nada que me tranquilice más que escuchar el agua fluir mientras pienso en lo que sea.
+Sigadel|Ciudadano|¿Qué tal? Mi nombre es Sigadel y estás en Nix, la gran capital de la República, liderada por Mathel Bokk. Aquí podrás encontrar todo tipo de cosas. Basta con caminar un poco para darte cuenta que esta es la mejor ciudad del continente.
+Zalihew|Ciudadano|¿Te atreves a ingresar a las catacumbas de Nix? Te advierto que allí dentro se encuentran grandes grupos de soldados de distintas facciones. No es recomendable entrar a menos que estés muy confiado y tengas un gran equipo detrás. Si deseas entrar, te deseo mucha suerte.
+Thaeste|Viejo ciudadano|¿Sientes eso? Esa brisa me trae recuerdos de aquellos tiempos donde Fausto estaba cegado por la venganza, Zharas Mul buscaba la libertad, Cliara Lakhar era la emperatriz de Banderbill y Sakara líder de las Fuerzas del Caos. Las cosas han cambiado mucho...
+Jhusta|Guerrero|¿Ves esos cuerpos? Son guerreros que intentaron huir de batallas. ¡Qué ratas! Si no quieres terminar muerto no huyas y sigue luchando. O sufrirás la ira de los orcos, que no tienen piedad por los desertores.
+Smit|Soldado|Ver estos cuerpos me da sed de sangre, sangre azul o republicana. Da igual, solo quiero matar, matar y matar. Quizás te podría matar a ti. Tienes suerte de estar adentro de Rinkel, los líderes orcos prohíben asesinatos aquí dentro. Ten cuidado cuando salgas de la ciudad, puedo estar cerca.
+Rhami|Comerciante|Mi familia es dueña de esta tienda, hemos entregado armas y armaduras a las huestes caóticas por muchos años. Sakara, el antiguo jerarca caótico, nos permitió colocar, en la ya desaparecida Khelem, una tienda de armas para abastecer al ejército. Los líderes orcos casi nos echan pero nos dejaron establecer nuestro comercio, nuestro material es de buena calidad, les sirve a su ejército.
+Krigh|Mercenario|Te he visto luchar aquí, eres un asco. Si luchas así en esta arena, no me imagino en una batalla real. Pareces alguien sin experiencia, el Demonio busca otro tipo de gente. Cambia tu actitud o te masacrarán allí afuera O, quizás, el mismo líder lo hará.
+Gieser|Guerrero Novato|Me siguen diciendo que soy un débil humano y que por eso, no puedo formar parte de las Hordas del Caos. ¿¡Cómo demostrarles a Gerker y Gurkar que debo estar en sus filas!? Quizás quejándome aquí en la ciudad no lo logre… debo ir a asesinar enemigos del Demonio. 
+Rorku||
+Whixil||
+Saerin||
+Zhork|Humano Abisal|Mi raza es superior, es maligna. Somos la creación del lado oscuro. Siempre serviremos a las Hordas del Caos, lo llevamos en nuestra sangre… pero otros abisales se han revelado y se han ido a otras ciudades. ¡Como los odio! Desprecian a su creador, deben ser masacrados. 
+Erkendya||
+Oicul|Provisiones|Tu primer alimento, tu primer bebida. ¿Has matado diez serpientes? ¡debes brindar por eso! Algún día, dentro de mucho tiempo, recordarás los tiempos en que deambulaste por este lugar como los mejores. ¡Disfrutalo!
+Hidmunt|Informativo|Se siente bien ¿eh? La frescura del lugar, claro. Estar bajo tierra es un punto a favor. Allí arriba, en el desierto de Rinkel el calor es insoportable. Aprovecha tu tiempo aquí dentro para entrenar. Te esperan grandes aventuras, novato.
+Dofhur|Informativo|Debo entrenar día y noche para lograr el nivel de combate de mi padre. Él es un gran guerrero, el orgullo familiar. ¿Qué mejor lugar para comenzar que donde él comenzó? A mi izquierda se encuentra la tienda donde mi padre bebió su primer cerveza... ¡qué emblemático!
+Mervholt|Informativo|¿Estás seguro que seguirás por este camino? Debo advertirte, novato, si continúas te encontrarás con una criatura para nada amigable. Pocos que se atrevieron a ir por esa dirección están vivos. ¿Tú te atreves? Mucha suerte, la necesitarás.
+Tonjer|Informativo|Tras años de haber sido investigadas y luego abandonadas por los arqueólogos, estas ruinas, son un excelente espacio de entrenamiento para los aventureros menos experimentados.
+Fraes|Informativo|Arena, arena y más arena... No veo la hora de terminar este entrenamiento y recorrer el mundo de Imperium.
+Joprim|Soldano Novato|Mi padre me ha enviado aquí para entrenar y convertirme en un poderoso soldado como mis hermanos... Pero a decir verdad, a mí me gustan más los libros.
+Yudrik|Ciudadano|"Es solo un poco de arena" dicen todos esos piernas largas, claro... claro... si tuviera la misma altura tampoco me preocuparía por ello.
+Nezor|Historiador|Naranja, rojo y azul.... Detrás de esos tres simples colores hay cientos de años llenos de historias y aventuras que estas a punto de conocer. ¡Buena suerte!
+Raguk|Entrenador|¿Cansado de luchar contra criaturas? ¡Estás en el lugar indicado! Aquí podrás perfeccionar tus habilidades con blancos de práctica o demostrar tu superioridad contra otras personas.
+Kharis|Aventurero|¡Hey! Ten mucho cuidado... Por aquí encontrarás una criatura de un poder sumamente superior en comparación al resto que te has enfrentado hasta ahora... Mejor que estés preparado.
+Fort|Mercenario|Fijate esas letras. Si, las que dicen Rinkel. Fue pintada con sangre enemiga, pero no de cualquiera. Sangre de traidores, gente que abandonó estas tierras y se unió a otros bandos. Si huyes, el Caos te atrapará tarde o temprano. Puedes terminar siendo una decoración de esta ciudad, pueden usar tu calavera, tu cuerpo o tu sangre.
+Navío del Capitán Jherrik||
+Galera de Arqueros Pirata||
+Barcaza de Choque Pirata||
+Guardia|Finanzas Goliath|¡Compórtese! ¡Estoy aquí para asegurar la integridad de los bienes de este banco!
+Volker|Transporte|Te lo aseguro, la forma más rápida de salir de estas tierras corrompidas es mediante estas embarcaciones. Se ven un poco, fantasmales... lo sé, pero aunque no lo parezcan, son confiables. 
+Rebelde||¡Arrancaremos al indigno Etaren de su trono!
+Ralnor|Vendedor de Gorros|¿Buscas gorros, sombreros, coronas? Solo encontraras aquí, y no lo digo como publicidad, es la verdad. Desde que este Continente se destrozó en mil partes, soy el único que se ha ocupado de vender gorros.
+Agnir|Vendedor de Cascos|¡Debes proteger tu cabeza! ¡Cascos, cascos! Aquí se respeta únicamente a los que sean hábiles peleando, con mi mercancía procuraré que tu cabeza se encuentre a salvo mientras sales a pelear.
+Taenya|Vendedora de Escudos|Un escudo es tu nuevo mejor amigo, Sin él, es como salir solo fuera de estos muros. En estos nuevos tiempos todo es pelear, y por todo se batalla. ¡Lleva uno de estos escudos!
+Herick|Vendedor de Escudos|Estos escudos son como una obra de arte. A pesar de los cataclismos y de todo lo que hemos perdido, mi familia ha mantenido el fino arte de la herrería. ¡Velo por ti mismo!
+Saelihn|Vendedora de Túnicas|Hilo tras hilo, tras hilo. Y un poco de magia también. Mis túnicas te proporcionarán no solo vestimentas, sino también, defensa mágica para tus enfrentamientos contra los demás aventureros. ¿Cual te gusta más?
+Anyog|Vendedor de Armaduras|Ven, mira ¿Ves esto? Esto es lo que define en qué lugar de la cadena estás. Un nuevo mundo se ha creado en este continente apocalíptico, se te respetará por la armadura que lleves.
+Nuzet|Vendedor de Espadas|Manejar una espada es tan simple como blandirla así y así. Pero hacerla... eso si que no es nada fácil. Martillazos, templar el acero, manejar los tiempos correctos. Creo deberia venderlas más caras.
+Durwin|Vendedor de Dagas|¿Estás buscando algo para acabar con alguien en total silencio? Prueba una de estas dagas, úsalas contra alguna pobre víctima que encuentres en tu camino.
+Lilwen|Vendedora de Báculos|Hay mucha magia en estas tierras, buena y también oscura, malvada. Mis báculos encierran la misma magia que habita aquí. Úsalos con precaución.
+Vaeril|Vendedor de Arcos|Desde años inmemoriables, hacer arcos siempre fue una tarea mayor para mi raza. A pesar de lo que hemos sufrido en esta tierra, podrás ver que mis arcos son dignos de un elfo.
+Tozhug|Vendedor de Nudillos|¿Quieres romperle el rostro a alguien? ¿Dejar más que unos ojos morados? ¿Acaso odias los dientes de ese sujeto y deseas sacarselos? Nudillos, es la respuesta a todo eso.
+Haraet|Anciano|¿Quién eres? ¿Qué quieres? En esta ciudad uno no puede confiar en nadie, lo único que buscan aquí es mostrar sus asquerosas habilidades de combate. Yo ya estoy viejo para esas cosas... ¡Aléjate de mí!
+Vaidas|Soldado|Esto es lo poco que queda tras el cataclismo que devoró el nuevo continente... Aquí nos regimos por la ley del más fuerte, no existen facciones ni alianzas, solo violencia y más violencia. Espero que estés preparado para sobrevivir allí fuera, o morirás en la más lamentable soledad y abandono.
+Torlak|Anciano|Recuerdo cuando este continente florecía de vida y esperanza, ahora solo son agrios recuerdos. Yo tenia viejos compañeros que vivían en otras ciudades y el cruel destino logró separarnos sin misericordia. Sin embargo, sigo aquí, sobreviviendo como todas las personas que tuvimos la suerte de hacerlo y logramos crear esta pequeña aldea para resguardarnos de los peligros y misterios que hay allí afuera.
+Exorthys|Joven|No me pondré nostálgico o pesimista como el resto de la gente que vive por aquí, fue un milagro haber sobrevivido y más aún con la anarquía que abunda en este lugar, el pánico cunde por estas calles sin líderes. Ya me alteré lo suficiente, es momento de seguir con nuestras vidas mientras podamos.
+Klutte|Ermitaño|Muchos años de sufrimiento tuvimos. ¡Nos abandonaron! Ni nuestros familiares se preocuparon de nosotros. Cuando vieron Rhagnark caer, huyeron. Todo lo que ves alrededor, son los restos del continente. Esta ciudad demuestra que con mucha paciencia y optimismo, hasta la peor situación que te imagines pueda cambiar para bien. Ven, recorre los caminos y verás lo que, tras muchos años de sufrimiento, pudimos lograr.
+Drauen|Soldado|Terremotos, magia oscura, hundimientos y muchos desastres. Esto es lo que quedó del antiguo continente este. No muchos lograron soportar los azotes de la naturaleza, pero aquí estamos, los pocos sobrevivientes. Formamos una pequeña población en un lugar calmo y libre de desastres naturales. Luego de años pudimos darle forma a nuestra aldea y dejarla tal cual la ves. No obstante, no te recomiendo salir. En este lugar nos regimos por la ley del más fuerte. Cuantas más cabezas tengas en tu haber, más alto escalarás.
+Mejrel|Ciudadano|En esta ciudad se establecieron los sobrevivientes del cataclismo del continente Rhagnark. Tú estás acostumbrado a servir a un rey, líder o lo que sea, pero aquí no es así. El respeto se basa en quien es mejor a la hora de combatir. ¿Crees estar a la altura?
+Demple|Soldado Veterano|He demostrado ser uno de los mejores soldados de estas tierras, ¿Y tú? Jamás te había visto por aquí. Pareces débil, vuelve cuando realmente seas un desafío para mí.
+Emisario|República|
+Guardia General|Caos|
+Cazarrecompensas|Imperio|
+Sibelly|Escolta del Emperador|Mi nombre es Sibelly, Escolta Real de su excelencia Etaren. Mi labor es la de administrar a la Sagrada Orden en su totalidad, además de ser quien filtre a los candidatos para su ingreso. ¿Crees poder tener lo suficiente como para servir con tu espada al Emperador? ¡Hazme click derecho y demuestralo!
+Ghevro|Pupilo de Mathel Bokk|No me tengas miedo, no soy lo que crees. Mi nombre es Ghevro, pupilo de Mathel Bokk, quien es el Líder Militar de la Legión Dorada. Años de desconcierto en la República finalmente cesaron gracias a mi mentor, que logró unificar los pequeños ejércitos y a lo que restaba del pueblo Republicano tras guerrillas y disputas. Me encuentro aquí a la búsqueda de soldados fuertes y valientes que quieran formar parte de la Legión Dorada. Si así lo deseas, haz click derecho y evaluaré tu situación.
+Gerker|Acólito de Mhorkvel|Quiero creer que puedes más de lo que aparentas, sabandija. Soy Gerker, y él es mi hermano Gurkar. Más te vale que tengas algo bueno y te regreses arrastrando por donde viniste si no quieres ser asesinado. Haz click derecho y veré qué tienes. ¡Más te vale que me sorprendas patética bestia inferior!
+Gurkar|Acólito de Mhorkvel|¡Ja! ¿Quieres ingresar a las Hordas del Caos? Seres patéticos como tú no tienen lugar aquí. Somos los designados por nuestro señor Mhorkvel para comandar sus huestes en este plano, y basura indigna como tú no tiene cabida en nuestras filas. Haz click derecho para probar tu valía o muere en el intento, debilucho.
+Kosela|Alquimista|Rojo, azul, verde, amarillo y violeta. Hechas con un toque especial,un toque mágico. ¿Quieres curarte? Pues pide una poción roja. ¿Estás envenenado? Entonces una violeta. Tenemos todas las variedades, para los aventureros, que desean explorar y para los guerreros, que necesitan un apoyo especial. Estaré aquí todos los días, ven cuando quieras.
+Fhuca|Vendedor de Comidas|Las cosechas es una de las pocas cosas que han perdurado aquí, además de la carne. Desde el más puro vegetal, hasta la carne más jugosa. Tienes una gran variedad de comida en mi negocio, solo pide que yo te traigo lo mejor que tenga.
+Torbe|Tabernero|Las bebidas en esta parte del mundo son especiales. Tengo una bodega llena de diferentes botellas. Pídeme el que más te guste, no te voy a defraudar.}
+Duende||¡Destruiremos la Navidad!
+Excalin|Instructor|¿Qué tal, guerrero? ¿Vienes a probar tu fuerza a estas arenas? Lo entiendo, desde que nos separaron del resto del mundo muchos hombres necesitan descargar su ansiedad y frustración de alguna forma, por eso creé estas arenas, donde todos pueden practicar sus habilidades.
+Saervos|Pescador|¡¿Qué quieres, qué?! Partir de este puerto es la muerte, muchos han intentado escapar de esta ciudad, solo sus navíos destruidos con marcas de batalla han vuelto, existen rumores que hablan sobre un grupo de piratas, ¡bestias!, los causantes de que el viejo continente se hundiera. Muchos dicen que siguen rumbando, acabando con cualquier forma de vida que tenga la desdicha de cruzarse con sus acorazados.
+Lirimin|Pescador|No te recomiendo navegar en mar abierto, muchas bestias dominan estas aguas, antiguos gigantes que dormían antes que el hundimiento del continente Rhagnark. Ahora están despiertas, buscando víctimas para saciar su sed de sangre y desorden. Los dioses cuiden de quien se los cruce. Si buscas una recomendación, no tientes tu suerte, mientras más alejado del mar estés, mejor.
+Kehiz|Soldado|Esto fue un caos, al principio sólo nos observaban desde lejos, luego comenzaron a acecharnos, vigilando nuestros movimientos, no fue hasta la muerte de unos pequeños que tomamos la decisión de construir un muro, pobres niños. Por fin logramos terminarlo y alejarnos del mal que vive en las sombras. Un consejo, si quieres sobrevivir, nunca salgas de los muros, ellos te cazarán, siempre cazan, está en su naturaleza de depredador. Demasiados han muerto cuidando esta ciudad, es lo único que nos queda.
+Tarlus|Agricultor|Recuerdo cuando llegamos, tenia una bolsa de semillas que recién compraba en el mercado que sobrevivió a la catástrofe. Las primeras semanas fueron difíciles, pero pudimos terminarla trabajando en equipo. La ciudad fue nombrada Rhagnark, supongo que era el nombre del continente que provenían muchos de los sobrevivientes, o eso escuché. Han pasado unos años desde entonces. Por suerte también logré encontrar una especie de animal cerca del asentamiento, su carne es deliciosa, tendrías que probarla.
+Relixcay|Constructor Experto|¿Te contaron sobre mí? Bueno, no es algo del otro mundo, al llegar aquí no había nada, solo un puñado de arboles con los que logré construir unas pocas cabañas y luego todos pensaron que yo era algo parecido a un genio. Por suerte, el resto de personas que quedaron aquí decidieron ayudar en lo que podían. Me acuerdo de uno, Tarlus, era un agricultor que comenzó con el sembrado para poder degustar las delicias de la naturaleza y unos pocos animales por si necesitábamos algo más...apetitoso.
+Sorthiz|Cuenta cuentos|Recuerdo cuando este montículo de tierra pertenecía a un gigantesco continente. Las primeras semanas fueron difíciles, ya no luchábamos por líderes o emperatrices, solo nos concentramos en sobrevivir. Por suerte, el destino nos dejó a un excelente carpintero llamado Relixcay, que ayudó a construir las estructuras que hoy nos cubren del frío.
+Ayudante Principal de Papá Noel|Intercambiador de Regalos|No es una agradable mañana... Últimamente hemos tenido unos problemas con la entrega de regalos, el Grinch cambió algunos regalos y estos contenían carbón, pero no dejaré que se salga con la suya y arruine la Navidad. Por eso estoy aquí, para entregar la magia navideña personalmente. Si fuiste víctima de las travesuras del Grinch, entonces haz click derecho sobre mí y que la aventura comience.
+Ayudante de Papá Noel|Gnomo en problemas|¡Necesito de tu ayuda para cruzar el Polo Norte! ¿Por qué no me haces click derecho y averiguas qué hacer para ser recompensado?
+Elfo Maligno||¡Nos robaremos todos los regalos!
+Krodim|Enano Feroz|Ey, muchacho, aquí sólo pueden acceder los hombres con el valor suficiente para enfrentar a los saqueadores que se encuentran dentro. ¿Crees que estás preparado? Pues adelante.
+Jherkus|Joven Aventurero|Saludos transeúnte, esta es la entrada a las Ruinas Morthnum. Puede que te sea difícil al principio explorar estas antiguas cuevas, yo he estado aventurando sus estrechos caminos durante dos años y sigo sin llegar al final. Espero que tú tengas más suerte que yo.
+Barca||
+Drakkar||
+Drakkar||
+Galera||
+Galeón||
+Bassan|Vendedor por Créditos|Variedad de objetos encontrarás aquí, acércate y veré que puedo hacer por ti. Mi mercancía se vende por Créditos.
+Anthon|Vendedor por Créditos|Variedad de objetos encontrarás aquí, acércate y veré que puedo hacer por ti. Mi mercancía se vende por Créditos.
+Porza|Vendedor por Gemas Rag|Variedad de objetos encontrarás aquí, acércate y veré que puedo hacer por ti. Mi mercancía se vende por Gemas Rag.
+Zhyloc|Vendedor por Gemas Rag|Variedad de objetos encontrarás aquí, acércate y veré que puedo hacer por ti. Mi mercancía se vende por Gemas Rag.
+Fhorbuin|Erudito de Ruinas|He dedicado toda mi juventud al estudio de las Ruinas Enanas, sé que todavía no hemos descubierto su verdadero secreto. Pero hay saqueadores por todas partes, me es imposible ingresar sin que me alejen a espadazos ¿Podrías ayudar? Haz click derecho.
+Garunda|Mercenaria oportunista|El trabajo es fácil. Matas unos cuantos saqueadores y te pago por ello ¿Qué de dónde saco el oro para pagarte? Eso no es de tu incumbencia... Hazme click derecho.
+Jheric Utun|Restaurador|Las Ruinas Enanas nos pertenecen a todos, eso deberían saberlo muy bien los eruditos que intentan negar el paso a los aventureros. Y los saqueadores que intentan aprovecharse de los más débiles... son una verdadera escoria ¡Mi familia pagará por limpiar ese lugar! Si te interesa, hazme click derecho.
+Moris|Guía del aventurero|Hola aventurero, soy Moris la guía de todos los nuevos guerreros que llegan a estas tierras, si quieres emprender una gran aventura, hazme click derecho.
+Kelentar|Centinela de Banderbill|Estos asesinos no paran de molestarme, ¡Encima se han aliado con los bandidos! ¡Hey tú! ¿Podrías ayudarme? Hazme click derecho si estás interesado.
+Rantal|Centinela de Rinkel|Estos asesinos no paran de molestarme, ¡Encima se han aliado con los bandidos! ¡Hey tú! ¿Podrías ayudarme? Hazme click derecho.
+Damestor|Centinela de Nix|¡Malditos esqueletos, acabaré con todos! Oye forastero, ¿Quieres ayudarme? Hazme click derecho.
+Alahav|Guerrero del mar|¡Krakens tenían que ser, como los detesto! Joven aventurero, ¿Me ayudarías a matar unas criaturas? Hazme click derecho si deseas participar de esta misión.
+Kalandis|Bruja de Nerima|Soy Kalandis, una de las más temidas brujas del sur, si me ayudas con una tarea, te recompensaré. Para aceptar la misión, hazme click derecho.
+Salema|Bruja del Latifundio|No hay nada más detestable en este mundo que esas inmundas conjuradoras ¿Puedes ayudarme con un encargo viajero?, hazme click derecho.
+Anasthasya|Hechicera de Veriil|Soy Anasthasya, hija de Namira, a mi madre la han asesinado allí dentro, puedes ayudarme con mi venganza, hazme click derecho.
+Ridel|Espía de las tinieblas|Soy Ridel, mi deber es vigilar a los seguidores del mal y matar a aquellos que se desvíen del camino del bien, ¿Quieres ayudarme con una tarea? Hazme click derecho.
+Kathalena|Hechicera de la luz|Mi nombre es Kathalena, hermana de Salema, he oído que tuvo problemas con unas Conjuradoras, ¿Quieres ayudarme con eso? Hazme click derecho.
+Alabastar|Cazador de Vampiros|Mi nombre es Alabaster, hijo de Araban, provengo de una antigua familia de cazadores, hoy tengo un encargo para alguien con agallas, hazme click derecho, para participar de una gran cacería.
+Sotan|Cazador de Annkor|Mi nombre es Sotán, cuido de estas tierras desde que tengo uso de razón, unas criaturas están causando mucho problemas últimamente ¿Quieres ayudarme? Hazme click derecho.
+Marvenar|El gran mago| El gran mago, así me llamaban en mis tiempos, ahora no soy más que un inútil. Se me ha encomendado acabar con los hechiceros que acechan el Templo, pero no puedo hacerlo, ¿Podrías tú ayudarme? Hazme click derecho para aceptar la misión.
+Aegaris|Nigromante de la oscuridad|¡Te reto a pronunciar mi nombre más de tres veces sin reirte! ¡Ja! ¡Has perdido! Al igual que yo he perdido a mi amada a manos de Tolkvar y esas despiadadas Arañas, ¿Quieres ayudarme con mi venganza? Hazme click derecho.
+Handal|Caballero de la luz|Mi nombre es Handal protector de los inocentes y el verdugo de la oscuridad. Soy la luz que alumbra a los perdidos y los guía hacia su verdadero camino. Tu pareces ser de los míos ¿Podrás ayudarme con una gran misión? Hazme click derecho para aceptarla.
+Soldado Imperial|Sagrada Orden|¡Protegeremos los intereses del Emperador Etaren a cualquier costo!
+Esbirro Caótico|Hordas del Caos|¡Nadie acabará el régimen de nuestro señor Mhorkvel! ¡Fuera sabandija!
+Soldado Republicano|Legión Dorada|¡Mathel Bokk restaurará la paz en estas tierras!
+Nhiel|Hombre apurado|Tengo muchas labores que hacer para estas fiestas y no puedo perder el tiempo. Tu ayuda me sería muy útil.
+Mhor|Herrero de caramelos|¡Báculos, escudos y espadas! Todas hechas de caramelo ¡Que delicia!
+Ghendin|Trillizo navideño|¡Ey, tú! Necesito ayuda para encontrar a uno de mis hermanos trillizos, Ghandin ¿Puedes ayudarme?
+Ghandin|Trillizo navideño|¡Qué tonto! Olvidé de traer el pergamino con las indicaciones...
+Ghundin|Trillizo navideño|Si sigo por aquí buscando el ingreso la Polo Norte moiré congelado...
+Jaevel||
+Invasor del Norte||
+Invasor del Norte||
+Invasora del Norte||
+Slanbrad||
+Arfideti|Examinador|No todo lo que brilla es oro, dicen, pero para saber si algo tiene valor verdadero debes examinarlo con atención. Yo examino el valor de las personas ¿Acaso, eres realmente fiel a estas tierras? Hazme click derecho.
+Falkus|Maestro de Annkor|Con esta piedra de Annkor, podré darle un poder mágico sin igual a cualquier arma, pero solo una podrá soportar tanta cantidad de magia ¿De casualidad no tendrás un Filo de Annkor? Hazme click derecho.
+Kirths|Herrero|Aún quedan muchas cabezas por rodar. ¿Qué esperas traidor? Compra tu armadura y vete.
+Hurtm|Minero|Consigue buenos minerales para el Demonio antes de que la escoria Imperial los tomen.
+Sombra del Inframundo||
+Conejo de Hashirama||
+Dol Miram|Vendedor por Gemas Rag y Cristales Alkar|Variedad de objetos encontrarás aquí, acércate y veré que puedo hacer por ti. Mi mercancía se vende por Gemas Rag y Cristales Alkar.
+Dol Korzus|Vendedor por Gemas Rag y Cristales Alkar|Variedad de objetos encontrarás aquí, acércate y veré que puedo hacer por ti. Mi mercancía se vende por Gemas Rag y Cristales Alkar.
+Ardnajela|Vendedor por Gemas Rag|Variedad de objetos encontrarás aquí, acércate y veré que puedo hacer por ti. Mi mercancía se vende por Gemas Rag.
+Guardián|Orden del Dragón|
+Guardián Campeón|Orden del Dragón|
+Guardiana|Orden del Dragón|
+Agnamont|Quest de Cristales Alkar|¿Estas interesado en una buena recompensas? Ven, escucha mi propuesta. Necesito tres cráneos abisales matando demonios y demonios abisales en Dungeon Zero, yo con mis condiciones jamas lo lograría, pero al parecer tus habilidades son suficientes. 
+Reverius|Quest de Cristales Alkar|¿Buscas alguna aventura a cambio de una buena recompensa? Pues mira que casualidad, yo tengo una ideal para ti. La aventura no es lo mío, pero soy un gran negociador.  Esta oportunidad no te la puedes perder, así que ve y piénsalo. Yo estaré aquí esperándote.
+Albiar|Quest de Cristales Alkar|¡Saludos! ¡Preciso tu ayuda! ¿Crees ser capaz de obtener 3 Esmeraldas Cenagosas? No me atrevo a ingresar al lugar donde habitan las criaturas que otorgan este valioso objeto, y menos aún a enfrentarme con una de ellas ¡Te daré una recompensa si logras traerme estos objetos!
+Sakariel|Quest de Cristales Alkar|¡Hola aventurero! ¿Deseas obtener unas monedas más? Prometo que la paga será buena. Claro, si sobrevives.
+Sterius Leonhard|Quest de Cristales Alkar|Necesito un corazón helado para poder generar una poción de encantamiento y así conquistar el corazón de mi amada. Aunque debo admitir que enfrentarme a las criaturas del Dungeon Cristal me resulta escalofriante ¿Puedes ayudarme?
+Lhecter|Comerciante Copas (Bronce)|
+Shelyna|Comerciante Copas (Plata)|
+Rahluk|Comerciante Copas (Oro)|
+Kosmo|Banquero de Nix|Bienvenido a la Cadena de Finanzas Goliath. Aquí podrás realizar todas las transacciones que necesites, trabajamos en todas las ciudades de Imperium, Nix no es más que una sucursal de nuestro vasto imperio.
+Xhilev|Banquero de Ullathorpe|Bienvenido a la cadena de Finanzas Goliath. Somos la más grande cadena de Finanzas en estas tierras. Contamos con bancos en las ciudades más importantes. En nosotros puede confiar.
+Vherkal|Banquero de Banderbill|Bienvenido a la casa central de los bancos Goliath. Aquí preservamos grandes objetos de valor del Imperio en nuestras impenetrables bóvedas. Puedes confiar en nosotros si deseas preservar tus objetos o tu dinero.
+Rekj|Banquero de Tiama|Supongo que no deseas salir en buscas de aventuras y que tus pertenencias caigan al suelo con el riesgo de perderse entre la nieve, ¿no? Confía en mis baúles para guardar lo que necesites y en la cadena de Finanzas Goliath, que en nosotros puedes confiar.
+Xhol|Banquero de Rinkel|En una ciudad llena de maleantes y piratas como esta necesitarás guardar tus cosas en un lugar seguro. ¡Y qué lugar más seguro que los bancos de las Finanzas Goliath!
+Rambelt|Banquero de Nueva Esperanza|Resguarda tus ropas, armas y raros tesoros en nuestras bóvedas. ¡Siempre estaremos abiertos para ti!
+Jefe Pirata||
+Krondhum|Domador de Dragones| Dungeon Zero es una mazmorra peligrosa sin dudas, allí habitan criaturas de todo tipo. Sería de gran ayuda que me eches una mano, necesito alguien que logre una hazaña nunca antes vista. ¿Puedes hacerlo por mí? 
+Nohlerius|Domador de Dragones| Es increíble la cantidad de golems y medusas que hay en Dungeon Veriil. Si no hacemos algo a tiempo, se expandirán y nos superarán en masa. Debemos actuar y rápido. ¡Hey, tu! Te ves con ganas de ayudar ¿Quieres? ¿No? Bueno, estaré aquí por si cambias de opinión. 
+Xartal|Domador de Dragones| Piratas, no paran de secuestrar a nuestros ciudadanos. Son una amenaza para nuestro hogar. Deberíamos darles un aviso, algo hostil. ¿Te crees capaz de luchar contra ellos? Aquí estaré por si deseas aceptar. 
+Romius|Quest|¿Sabes lo costoso que suelen ser los escudos de tortuga? Cientos y cientos de caparazones para hacer unos cuantos escudos. Yo con unos pocos puedo hacer un lindo y resistente escudo. Pero me faltan los materiales ¿Me ayudarías? 
+Strion|Quest|¿Has visto esos seres extraños? Viven tapados por esa vestimenta negra y te atacan si te acercas. Les dicen Señor de las Sombras, ya imagino el por qué. ¿Estás dispuesto a matar algunos? Si lo estas, solo háblame.
+Gerbens|Quest|Perdí mi tapado de Zorro rojo ¿Lo has visto por ahí? ¡Qué lástima! Era mi preferido. Un momento, puedo hacer otro si yo quisiera. Pero no tengo los materiales suficientes, ¿Tu puedes ayudarme? No tengo mucho para dar como recompensa, pero algo rescataré de mi taller.
+Morán|Quest|Los lobos, criaturas típicas de estos lares. ¿Los reconoces? Los odio, no hay criatura en este mundo que odie más. Me gustaría aniquilar unos cuantos, ¿Me acompañas?
+Agnaras|Quest|Los osos pardos son tiernos, pero su pelaje es único. Con ellos puedes hacer vestidos enteros y tapados que te protejan del frio. Y sus garras, filosas como cualquier cuchillo, te permiten hacer cortes tan profundos como una daga profesional. ¿Me ayudas a matar algunos osos? Me comprometo a dar jugosas recompensas.
+Efeles|Quest|Arañas, que feas que son. Horribles y peligrosas, con ese veneno que te mata en cuestión de minutos. Deberíamos aniquilar algunas, sacrificarlas. ¿Estás de acuerdo?
+Gerwen|Quest|¿Has visto esos árboles mágicos? Caminan e incluso te atacan, es increíble. Les dicen Ents ¿No? Lo que sé es que su corteza, al igual que ellos, es mágica y única. Me gustaría conseguir de esos ¿Tú tienes?
+Lania|Quest|Fangos… Pedazos de barro vivientes. Son increíbles, los admiro. Tengo una misión, matarlos. Pero no quiero hacerlo, al menos yo. Por eso, si estás dispuesto, te ofrezco algo a cambio de que lo hagas por mí. ¿Te interesa? Aquí estaré por si me necesitas.
+Yorindel|Quest|Estoy estudiando a los zombies, son seres extraordinarios a pesar de ser violentos. Necesito algunos cuerpos para poder analizarlos bien a fondo ¿Te interesa ganar un poco de oro a cambio de unos zombies? Estaré atento a tu respuesta, tomate tu tiempo.
+Yoringel|Quest|Al igual que mi hermano, yo también analizo a los zombies. Yo me encargo de encontrar otro tipo de zombies. Si quieres puede ayudarme, no será muy difícil. Como buen hombre que soy, te recompensaré como es debido.
+Enmascarada|Invitada|
+Enmascarada|Invitada|
+Enmascarada|Invitada|
+Enmascarada|Invitada|
+Enmascarado|Invitado|
+Enmascarado|Invitado|
+Enmascarado|Invitado|
+Enmascarado|Invitado|
+Nherkan|Alma de la Fiesta|
+Lahria|Enmascarada|Oye, existe una fiesta de máscaras en un lugar desconocido... fuera de las tierras del Imperium. ¿Te interesa ingresar? ¡Puedes conseguir Cristales Alkar!.
+Enmascarada|Invitada|
+Abigor||
+Belfegor||
+Bali||
+Cerbero||
+Kranon|Quest|He oído de unos pergaminos con poderes asombrosos ¿Te interesaría trabajar para mí? Obtendrás una buena cantidad de cristales a cambio.
+Haniel|Quest|Solo conseguiré el perdón con la sangre demoníaca, pero... Mis fuerzas se han ido hace ya mucho tiempo. Si te atreves a matar unos cuantos demonios, te recompensaré por ello.
+Darhab|Quest|¡Mi corazón está en el mar, y mi alma yace en tierra!. Desde aquella batalla con un Kraken, ya no puedo navegar... Si me ayudas vengarme matando unos Krakens, te recompensaré por ello.
+Begimo|Quest|¡Brillantes y relucientes! Las monedas demoníacas sirven para muchos propósitos ¡Hasta podrían resucitar a mi padre! Si te interesa un intercambio ¡Yo soy el indicado!
+Akius|Quest|Dentro de su núcleo yace un poder único. Si tan solo tuviera más de ellas, podría hacer grandes cambios en este mundo. Tengo algo que quizás te interese, si es así solo deberás traerme Orbes Doradas.
+Fernir|Quest|Llevo años buscando una daga capaz de absorber el alma de cualquier criatura viva, si me consigues una te daré un artefacto que solo unos pocos han visto.
+Ruzard|Quest|El tiempo es nuestro gran enemigo, pero también puede ser nuestro aliado. Si tan solo tuviera un reloj de arena... ¿Te interesa un buen intercambio? Te aseguro que saldrás ganando.
+Lanuris|Quest|Esféricas, doradas y brillantes como el sol. Solo unos pocos saben de su verdadero valor ¿Te interesaría cambiar unas Orbes por unos cristales?
+Mortis|Quest|¡Almas! Las almas son la moneda más valiosa en el otro mundo ¡Hey, tú! ¿Te interesaría ganar unas gemas?
+Markonius|Quest|Llevo años recolectando muestras de todas las criaturas de este mundo... ¡Quizás tú puedas ayudarme!
+Fleius|Quest|Hace muchos años, las monedas compraban naciones. hoy en día su valor no es tan importante, pero se de gente que pagaría con su alma por un par de ellas ¿De casualidad tienes en tu poder Monedas Ancestrales?
+Lobo|Nocturno|
+Fantasma|Nocturno|
+Esqueleto Guardián|Nocturno|
+Murciélago|Nocturno|
+Señor de las Sombras|Nocturno|
+Araña Gigante|Nocturno|
+Zombie Lóbrego|Nocturno|
+Liche|Nocturno|
+Fuego fatuo|Nocturno|
+Ely|Nocturno|
+Runa de la Cosecha||
+Runa de la Ruptura||
+Runa de la Vida||

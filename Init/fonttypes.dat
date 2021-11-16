@@ -1,0 +1,191 @@
+'Acá se guardan los datos de las fonttypes. Si no sabés que es no lo modifiques desde acá.
+'FORMATO: R-G-B-Bold-Italic-Console-Filter
+'CONSOLE: 0-4 (0 es Chat, 1 es Combate, 2 es Global, 3 es Faccionario, 4 es Forzado (Siempre se muestra))
+'FILTER: Indica si será filtrado por el cliente
+
+[INIT]
+
+NumFonts=61
+
+'Talk (Usado para RMSG y MMSG)
+1=255~255~255~0~0~4~0
+
+'Combate
+2=255~0~0~1~0~1~0
+
+'Advertencia (Errores en acciones)
+3=32~51~223~1~1~4~0
+
+'Mensaje general (Skill mejorado / requerido)
+4=65~190~156~0~0~4~0
+
+'Veneno
+5=0~255~0~0~0~1~0
+
+'Mensajes del sistema de Clanes
+6=255~255~255~1~0~4~0
+
+'Chat normal
+7=255~255~255~0~1~0~1
+
+'Mensaje del servidor
+8=0~185~0~0~0~4~0
+
+'MOTD
+9=251~251~0~0~0~4~0
+
+'Fuego
+10=255~0~0~0~0~1~0
+
+'Oro
+11=204~193~115~1~0~1~0
+
+'Mensajes informativos
+12=204~193~115~0~1~4~0
+
+'Experiencia
+13=51~183~247~1~0~1~0
+
+'Advertencia (Modo guerra, etc.)
+14=61~142~36~1~1~4~0
+
+'Familiar
+15=132~219~130~1~0~4~0
+
+'Artes
+16=124~167~166~1~0~1~0
+
+'Chat de clan
+17=228~199~27~0~0~0~1
+
+'Casamiento
+18=171~214~205~1~0~2~0
+
+'Veneno Grande
+19=0~255~0~1~0~4~0
+
+'Mensajes del sistema de Party
+20=0~128~128~1~0~4~0
+
+'Chat de grupo
+21=0~128~128~0~0~0~1
+
+'Mensaje Privado
+22=182~226~29~0~0~0~1
+
+'Chat global
+23=139~248~244~0~1~2~1
+
+'Chat de facción
+24=230~173~117~0~0~3~1
+
+'Chat gritar
+25=191~6~6~0~0~0~1
+
+'Combate (azul, para curación de HP)
+26=28~119~138~1~0~1~0
+
+'Chat amigos
+27=255~140~0~0~0~4~1
+
+'Chat RPG
+28=192~174~50~0~0~4~1
+
+'Chat de DM
+29=2~162~38~0~1~4~1
+
+'Indicación de acción (Haz click en...)
+30=100~100~120~0~0~4~0
+
+'STATUS: Imperial
+31=27~67~170~1~0~4~0
+
+'STATUS: Renegado
+32=115~115~115~1~0~4~0
+
+'STATUS: Caos
+33=179~0~4~1~0~4~0
+
+'STATUS: Armada
+34=31~139~139~1~0~4~0
+
+'STATUS: Republicano
+35=240~150~0~1~0~4~0
+
+'STATUS: Milicia
+36=190~95~10~1~0~4~0
+    
+'STATUS: DM
+37=2~162~38~1~0~4~0
+
+'Publicidad
+38=139~248~244~1~0~4~0
+
+'Mensaje de conteo de cierre del juego / duelo
+39=255~255~255~0~1~4~0
+
+'Subastas
+40=0~190~190~1~0~2~1
+
+'Chat amigos (Privado)
+41=251~96~68~0~0~4~1
+
+'STATUS: RM
+42=218~165~32~1~0~4~0
+
+'STATUS: GM
+43=0~191~255~1~0~4~0
+
+'Chat de RM
+44=218~165~32~0~1~4~1
+
+'Chat de GM
+45=0~191~255~0~1~4~1
+
+'Battlegrounds (General)
+46=125~193~249~1~0~4~0
+
+'Battlegrounds (Kills)
+47=210~0~5~1~0~4~0
+
+'Cofres
+48=206~129~23~1~0~4~0
+
+'Quests
+49=30~176~158~1~0~4~0
+
+'BattleLevel
+50=244~129~51~1~0~4~0
+
+'BattleLevel Exp
+51=244~129~51~0~0~1~0
+
+'Shop
+52=213~202~4~1~0~4~0
+
+'Team Violeta
+53=160,64,176~1~0~4~0
+
+'Team Amarillo
+54=160~138~51~1~0~4~0
+
+'Team Gris
+55=108~114~104~1~0~4~0
+
+'Team Rosa
+56=220~84~235~1~0~4~0
+
+'Neutral
+57=255~255~255~1~0~4~0
+
+'Investigar
+58=255~255~255~1~0~4~0
+
+'BG Info (Click)
+59=160,138,51~1~0~4~0
+
+'Battlegrounds (Announces)
+60=255~255~255~1~0~4~0
+
+'Advertencia (Drop)
+61=213~0~0~1~1~4~0

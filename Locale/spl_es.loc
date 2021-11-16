@@ -1,0 +1,182 @@
+Curar Veneno|Cura el envenenamiento.|Has curado a | te ha curado del envenenamiento.|Te has curado del envenenamiento.|NIHIL VED
+Proyectil Mágico|Causa 2 a 7 puntos de daño a la víctima.|Has lanzado Proyectil Mágico sobre | ha lanzado Proyectil Mágico sobre ti.||Rah'Za'Lu
+Curar Heridas Leves|Restaura entre 1 y 5 puntos de salud.|Has sanado a | te ha curado algunas heridas|Te has curado algunas heridas.|CORP SANC
+Envenenar|Provoca la muerte si no se contrarresta a tiempo con un antídoto.|Has envenenado a | te ha envenenado.|Te has envenenado.|SERP XON IN
+Curar Heridas Graves|Restaura entre 15 y 25 puntos de salud.|Has curado a | te ha curado.|Te has curado.|EN CORP SANCTIS
+Saeta Ígnea|Causa 8 a 14 puntos de daño a la víctima.|Has lanzado Saeta Ígnea sobre | ha lanzado Saeta Ígnea sobre ti|Has lanzado Saeta Ígnea sobre ti.|Fogûs Saex
+Proyectil Eléctrico|Causa 16 a 22 puntos de daño a la víctima.|Has lanzado Proyectil Eléctrico sobre | ha lanzado Proyectil Eléctrico sobre ti.|Has lanzado Proyectil Eléctrico sobre ti.|SUN VAP
+Bomba Mágica|Causa 20 a 30 puntos de daño en un área de dos tiles.|Has lanzado Bomba Mágica sobre | ha lanzado Bomba Mágica sobre ti|Has lanzado Bomba Mágica sobre ti.|DRAC NE R 
+Paralizar|Detiene totalmente las acciones de las criaturas o impide el movimiento de los personajes.|Has paralizado a | te ha paralizado.|Te has paralizado.|HOAX VORP
+Remover Parálisis|Remueve la parálisis de los personajes.|Le has removido la parálisis a | te ha removido la parálisis.|Te has removido la parálisis.|AN HOAX VORP
+Resucitar|Resucita a un personaje muerto.|Has resucitado a | te ha resucitado.|Te has resucitado.|AHIL KNÄ XÄR
+Grito de Igôr|Aumenta críticamente la fuerza.|Le has lanzado Grito de Igôr a | te ha lanzado el hechizo Grito de Igôr.|Te has lanzado el hechizo Grito de Igôr.|ÔL HÀX
+Furia de Uhkrul|Aumenta la fuerza y la agilidad del objetivo críticamente.|Le has lanzado Furia de Uhkrul a | te ha lanzado Furia de Uhkrul.|Te has lanzado Furia de Uhkrul.|ÛX'ÔL'HIC
+Invisibilidad|Vuelve invisible al objetivo. Efecto temporal.|Has lanzado Invisibilidad sobre | ha lanzado Invisibilidad sobre ti.||
+Tormenta de Fuego|Causa 35 a 50 puntos de daño en un área de tres tiles.|Has lanzado Tormenta de Fuego sobre | ha lanzado Tormenta de Fuego sobre ti.|Has lanzado Tormenta de Fuego sobre ti.|RAX IN ZAR
+Llamado Musical|Un bardo acudirá en tu ayuda.|Has invocado un bardo.|||Impendere et worg
+Llamado a la Naturaleza|Invoca un lobo que ayudará en tu causa.|Has invocado un lobo.|||Lupos Arcessere
+Celeridad|Aumenta la agilidad del personaje objetivo.|Has lanzado Celeridad sobre | ha lanzado Celeridad sobre ti.|Has lanzado Celeridad sobre ti.|YUP A'INC
+Torpeza|Reduce la agilidad del personaje objetivo.|Has lanzado Torpeza sobre | ha lanzado Torpeza sobre ti.|Has lanzado Torpeza sobre ti.|ASYNC YUP A'INC
+Fuerza|Aumenta la fuerza del personaje objetivo.|Has lanzado Fuerza sobre | ha lanzado Fuerza sobre ti.|Has lanzado Fuerza sobre ti.|Ar A'kron
+Debilidad|Reduce la fuerza del personaje objetivo.|Has lanzado Debilidad sobre | ha lanzado Debilidad sobre ti.|Has lanzado Debilidad sobre ti.|ASYNC AR A'KRON
+Desencantar|Remueve todo efecto mágico del personaje que lo conjure.|Has lanzado Desencantar sobre | ha lanzado Desencantar sobre ti.|Has lanzado Desencantar sobre ti.|Nequita
+Corriente Eléctrica|Causa 40 a 55 puntos de daño en un área de dos tiles.|Has lanzado Corriente Eléctrica sobre | ha lanzado Corriente Eléctrica sobre ti.|Has lanzado Corriente Eléctrica sobre ti.|T'HY KOOOL
+Inmovilizar|Impide el movimiento de la víctima.|Has inmovilizado a | te ha inmovilizado.|Te has inmovilizado.|Är Prop s'uo
+Apocalipsis|Causa 102 a 124 puntos de daño a la víctima.|Has lanzado Apocalipsis sobre | ha lanzado Apocalipsis sobre ti|Has lanzado Apocalipsis sobre ti.|Rahma Nañarak O'al
+Invocar Elemental de Fuego|Invoca un elemental de fuego.|Has invocado un Elemental de Fuego.|||Yur'rax
+Invocar Elemental de Agua|Invoca un elemental de agua.|Has invocado un Elemental de Agua.|||Mantra'rax
+Invocar Elemental de Tierra|Invoca un elemental de tierra|Has invocado un Elemental de Tierra.|||Gor'rax
+Implorar Ayuda|Implora ayuda a los dioses, los cuales traen un Fuego Fatuo para luchar a tu lado.|¡Has implorado ayuda a los dioses! ¡Un Fuego Fatuo se ha unido a tu batalla!|||Ar'Cor'rax
+Ceguera|Ceguera|Has cegado a | te ha cegado.|Te has cegado.|Non vides
+Estupidez|Hace que el objetivo se mueva sin control y de forma errática.|Has lanzado Estupidez sobre | ha lanzado Estupidez sobre ti.|Has lanzado Estupidez sobre ti.|OBSTUPEFACIO
+Sanar|Restaura entre 50 y 70 de vida al personaje y remueve todos los efectos negativos que éste pueda tener.|Has sanado a | te ha sanado|Te has sanado.|Nihil Vitae
+Desatar la Ira|Reduce la fuerza y la agilidad del personaje críticamente.|Has desatado la ira de | te ha desatado la ira.|Te has desatado la ira.|Irascor
+Implosión|Causa 128 a 136 puntos de daño a la víctima|Has lanzado Implosión sobre | ha lanzado Implosión sobre ti|Has lanzado Implosión sobre ti|Nihil Mortem
+Lluvia de Mosquitos|Los insectos paralizarán y dejarán ciega a la víctima.|Has lanzado Lluvia de Mosquitos sobre | ha lanzado Lluvia de Mosquitos sobre ti.|Has lanzado Lluvia de Mosquitos sobre ti.|Hut Inefectus
+Tormenta de Fuego (Elemental de Fuego)||| ha lanzado Tormenta de Fuego sobre ti||RAX IN ZAR
+||| ha lanzado una Flecha sobre ti|
+Metamorfosis: Gólem|Transforma al personaje en un Gólem. Efecto temporal. Las criaturas no te atacarán si aparentas ser más poderoso que ellas, y obtendrás un bonificador en tu ataque y defensa.|Has transformado en un Gólem a | te ha transformado en un Gólem.|Te has transformado en un Gólem.|
+Metamorfosis: Dragón|Transforma al usuario en un Dragón. Efecto temporal. Las criaturas no te atacarán si aparentas ser más poderoso que ellas, y obtendrás un bonificador en tu ataque y defensa.|Has transformado en un Dragón a | te ha transformado en Dragón.|Te has transformado en un Dragón.|
+Metamorfosis: Lobo|Transforma al usuario en un Lobo. Efecto temporal. Las criaturas no te atacarán si aparentas ser más poderoso que ellas, y obtendrás un bonificador en tu ataque y defensa.|Has transformado en un Lobo a | te ha transformado en un Lobo.|Te has transformado en un Lobo.|
+Metamorfosis: Ogro|Transforma al usuario en un Ogro. Efecto temporal. Las criaturas no te atacarán si aparentas ser más poderoso que ellas, y obtendrás un bonificador en tu ataque y defensa.|Has transformado en un Ogro a | te ha transformado en un Ogro.|Te has transformado en un Ogro.
+Metamorfosis: Jabalí|Transforma al usuario en un Jabalí. Efecto temporal. Las criaturas no te atacarán si aparentas ser más poderoso que ellas, y obtendrás un bonificador en tu ataque y defensa.|Has transformado en un Jabalí a | te ha transformado en un Jabalí.|Te has transformado en un Jabalí.
+Metamorfosis: Árbol|Transforma al usuario en un Árbol. Efecto temporal. Las criaturas no te atacarán si aparentas ser más poderoso que ellas, y obtendrás un bonificador en tu ataque y defensa.|Has transformado en un Árbol a | te ha transformado en un Árbol.|Te has transformado en un Árbol.
+Metamorfosis: Oso Pardo|Transforma al usuario en un Oso Pardo. Efecto temporal. Las criaturas no te atacarán si aparentas ser más poderoso que ellas, y obtendrás un bonificador en tu ataque y defensa.|Has transformado en un Oso Pardo a | te ha transformado en un Oso Pardo.|Te has transformado en un Oso Pardo.|
+Metamorfosis: Tortuga|Transforma al usuario en una Tortuga. Efecto temporal. Las criaturas no te atacarán si aparentas ser más poderoso que ellas, y obtendrás un bonificador en tu ataque y defensa.|Has transformado en un Tortuga a | te ha transformado en una Tortuga.|Te has transformado en una Tortuga.|
+Metamorfosis: Araña|Transforma al usuario en una Araña. Efecto temporal. Las criaturas no te atacarán si aparentas ser más poderoso que ellas, y obtendrás un bonificador en tu ataque y defensa.|Has transformado en una Araña a | te ha transformado en una Araña.|Te has transformado en una Araña.|
+Metamorfosis: Demonio|Transforma al usuario en un Demonio. Efecto temporal. Las criaturas no te atacarán si aparentas ser más poderoso que ellas, y obtendrás un bonificador en tu ataque y defensa.|Has transformado en un Demonio a | te ha transformado en un Demonio.|Te has transformado en un Demonio.|
+Metamorfosis: Serpiente|Transforma al usuario en una Serpiente. Efecto temporal. Las criaturas no te atacarán si aparentas ser más poderoso que ellas, y obtendrás un bonificador en tu ataque y defensa.|Has transformado en una Serpiente a | te ha transformado en una Serpiente.|Te has transformado en una Serpiente.|
+Metamorfosis: Murciélago|Transforma al usuario en un Murciélago. Efecto temporal. Las criaturas no te atacarán si aparentas ser más poderoso que ellas, y obtendrás un bonificador en tu ataque y defensa.|Has transformado en un Murciélago a | te ha transformado en un Murciélago.|Te has transformado en un Murciélago.|
+Metamorfosis: Tigre|Transforma al usuario en un Tigre. Efecto temporal. Las criaturas no te atacarán si aparentas ser más poderoso que ellas, y obtendrás un bonificador en tu ataque y defensa.|Has transformado en un Tigre a | te ha transformado en un Tigre.|Te has transformado en un Tigre.|
+Descarga Eléctrica (Fatuo)||| ha lanzado Descarga Eléctrica sobre ti||T'HY KOOOL
+Juicio Final|Causa 142 a 150 puntos de daño a la víctima|Has lanzado Juicio Final sobre | ha lanzado Juicio Final sobre ti|Has lanzado Juicio Final sobre ti.|Finis Mortem
+Portal Planar|Crea un teleport hacia Intermundia.|Has creado un Portal Planar.|||Opercure Dimentia
+Resurrección|Revive a un personaje con todos sus puntos de salud.|Has revivido a | te ha revivido.|Te has revivido.|HÏC KNÄ XÄR
+Materializar: Comida|Los hechizos de materialización convierten magia en materia. Este hechizo puede crear comida a partir de su lanzamiento.|Has creado algo de comida.|||Alimentis Sunt
+Incinerar|Una llamarada incinerará al objetivo, causando un daño por segundo considerable mientras las llamas arden.Enfriamiento 9,2 segundos.|Has incinerado a | te ha incinerado.|Te has incinerado.|INCENDERE
+Tormenta Ácida|Causa 40 a 50 puntos de daño y envenena en un área de tres tiles.|Has lanzado Tormenta Ácida sobre | ha lanzado Tormenta Ácida sobre ti|Has lanzado Tormenta Ácida sobre ti.|VAX IN XORP
+Maldición|Impide que la víctima ataque.|Has maldecido a | te ha maldecido.|Te has maldecido.|Mallum Est
+Llamado al Familiar|Llama o retira a tu familiar.||||Familiare Asimis
+Materializar: Bebida|Los hechizos de materialización convierten magia en materia. Este hechizo puede crear bebida a partir de su lanzamiento.|Has materializado algo para beber.|||Aquae Sunt
+Señal a tu Mascota|Llama o retira tu mascota.||||Pet Ad Signum
+Detectar Invisibilidad|Detecta todo personaje invisible en el rango de visión del personaje que lanza el hechizo.|Te concentras para detectar presencias invisibles.|||Fant Visiblî
+Lamento de la Banshee|Causa 132 a 145 puntos de daño y atraviesa la RM del objetivo. Ignora el Daño Mágico adicional.|Has lanzado Lamento de la Banshee sobre | ha lanzado Lamento de la Banshee sobre ti|Has lanzado Lamento de la Banshee sobre ti.|V R NI MÉS
+Veneno Crítico|Provoca la muerte rápidamente si no se contrarresta con un antídoto.|Has envenenado críticamente a | te ha envenenado críticamente.|Te has envenenado críticamente.|Pestis Xôn In
+Tornado|Paraliza las víctimas que se encuentren en un área de dos tiles.|Has paralizado a | te ha paralizado.|Te has paralizado.|Turbinis Vasti
+Resurreción (Sacerdote)||| te ha revivido.||HÏC KNÄ XÄR
+Curar Heridas Críticas|Restaura entre 45 y 55 puntos de salud.|Has curado críticamente a | te ha curado críticamente|Te has curado críticamente.|Sum Corp Sanctis
+Palabra Sagrada|La palabra sagrada paraliza y debilita al objetivo.|Has lanzado Palabra Sagrada sobre | te ha lanzado Palabra Sagrada.|Te has lanzado Palabra Sagrada.|Feresdeth Averin
+Tempestad|Castiga al enemigo con el poder de los cielos y los mares, causando entre 108 y 124 puntos de daño|Has lanzado Tempestad sobre | te ha lanzado Tempestad.|Te has lanzado Tempestad.|Tempestatem aquae
+Aura Sagrada|Los dioses te resguardan por medio de un aura protectora.|||Un aura te protege.|Elinethik
+Pregonar la Palabra de Dios|Cura entre 70 y 80 puntos de vida en un área de 5 tiles.|La Palabra de Dios cura y fortalece a | te ha curado con la Palabra de Dios.|Te has curado.|Uere Ferethiele
+Golpe Certero|El receptor no fallará el próximo golpe.|Has lanzado Golpe Certero sobre | te ha lanzado Golpe Certero.|¡Tu próximo golpe no fallará!|Ar'Sen Benerim
+Poder Divino|El poder del receptor aumenta considerablemente.|Has lanzado Poder Divino sobre | te ha lanzado Poder Divino.|Te sientes más fuerte.|Anath Ekelnar
+Animar a la Naturaleza|Le da vida momentáneamente a un árbol.|La naturaleza te protege.|||In amari sÖpra T'ai
+Círculo Curativo|Restaura entre 45 y 50 puntos de salud en un área de 3 tiles.|Has lanzado Círculo Curativo sobre | te ha curado.|Te has curado |AMAÏRI SANCTIS
+Semillas de Fuego|Bellotas y bayas se convierten en bolas de fuego, causando 105 a 118 puntos de daño.|Has lanzado Semillas de Fuego sobre | ha lanzado Semillas de Fuego sobre ti.|Has lanzado Semillas de Fuego sobre ti.|Samarin Tar
+Rayo Solar|Haz de luz que causa 92 a 108 puntos de daño, cegando a la víctima.|Has lanzado Rayo Solar sobre | ha lanzado Rayo Solar sobre ti.|Has lanzado Rayo Solar sobre ti.|Alata AÜre
+Terremoto|Causa entre 50 y 65 puntos de daño en un área de 4 tiles.|Has creado un terremoto.| te ha atrapado en un terremoto.|Te has atrapado en un terremoto.|Undume Ken
+Resucitar familiar o mascota|Resucita el familiar o mascota del objetivo.|| ha resucitado tu familiar.|Has resucitado tu familiar.|Nature X r
+Sirviente Invisible||Has invocado un sirviente invisible.||Invisibilia Servus
+Mirada Penetrante||Has lanzado una Mirada Penetrante a | te ha lanzado una Mirada Penetrante.|Te has paralizado.|Fulgor
+Intimidar al Espíritu|Intimidas al objetivo, reduciendo su fuerza y defensa.|Has intimidado a | te ha intimidado.|Te has intimidado.|Espiritus Exterrere
+Cobijo Seguro de Leomund|Una fuerza invisible te otorga defensa.|||Te sientes protegido.|Uelare cum Uireso
+Lamento de las Almas|Causa entre 108 y 120 puntos de daño.|Has lanzado Lamento de las Almas sobre | ha lanzado Lamento de las Almas sobre ti.|Has lanzado Lamento de las Almas sobre ti.|Uita Subtrahere
+Inspiración|Una fuente de inspiración te cura malos estados y aumenta tu agilidad.|Has inspirado a | te ha inspirado.|Te has inspirado.|Mussas Apello
+Asistencia Divina||Dos ángeles han acudido en tu ayuda.||Divinum Auxilium
+Castigo Divino|Causa de 80 a 95 puntos de daño|Has lanzado Castigo Divino sobre | ha lanzado Castigo Divino sobre ti.|Has lanzado Castigo Divino sobre ti.|Ekelnar Menie
+Fuente de Vida|Cura entre 30 y 45 puntos de daño al objetivo.|Has lanzado Fuente de Vida sobre | ha lanzado Fuente de Vida sobre ti.|Has lanzado Fuente de Vida sobre ti.|Kelne Benath
+Honor del Paladín|Los dioses te bendicen aumentando tu potencial.|||Te sientes más fuerte.|Migen Kaeltar
+Prevención del Mal||| te ha atacado.|El sigilo será tu arma.
+Arma Mágica|Las fuerzas divinas te otorgarán un arma mágica temporalmente.|||Un Arma Mágica se blande en tu mano.|Lure Xil
+Misil Mágico|Causa 25 a 35 puntos de daño a la víctima.|Has lanzado Misil Mágico sobre | ha lanzado Misil Mágico sobre ti.|Has lanzado Misil Mágico sobre ti.|INX TO R 
+Descarga Eléctrica|Causa 60 a 70 puntos de daño a la víctima.|Has lanzado Descarga Eléctrica sobre | ha lanzado Descarga Eléctrica sobre ti.|Has lanzado Descarga Eléctrica sobre ti.|T'HY KOOOL
+Ráfaga Ígnea|Causa 88 a 102 puntos de daño a la víctima.|Has lanzado Ráfaga Ígnea sobre | ha lanzado Ráfaga Ígnea sobre ti.|Has lanzado Ráfaga Ígnea sobre ti.|IGNÏS XAR
+Invocar Esqueleto|Un esqueleto acudirá en tu ayuda.|Has invocado un esqueleto.|||MoÏ cÔrps
+Invocar Zombie|Pide ayuda a los muertos. Un zombie se presentará para asistirte.|Has invocado un zombie.|||MoÏ cámus
+Sanar||| te ha sanado||Nihil Vitae
+||| ha lanzado un Arpón Incendiario sobre ti.|
+Adivinación|Detecta todo usuario invisible en el rango de visión de quien lo conjure.|Has lanzado Adivinación.|||Vothaler Visibili
+Lamento Final|Hechizo de Administrador. Le hace tanto daño a alguien que no sabemos como el servidor no crashea.|Has lanzado Lamento Final sobre | ha lanzado Lamento Final sobre ti.|Has lanzado Lamento Final sobre ti.|Finis V R NI MÉS
+Lamento Final (Directo)|Hechizo de Administrador. Le hace tanto daño a alguien que no sabemos como el servidor no crashea.|Has lanzado Lamento Final sobre | ha lanzado Lamento Final sobre ti.|Por alguna razón has lanzado Lamento Final sobre ti.|Finis V R NI MÉS
+Espíritu de Leviatán|Eleva tus atributos.|||El espíritu de la bestia fluye por tu cuerpo.|Spiritus Draconis
+Temple|Aumenta tu defensa física, pierdes potencial de ataque.|||Te concentras y fortaleces tus defensas.|Restinguendam
+Plegaria|Recupera salud a costa de tus habilidades.|||Los dioses sanan tus heridas.|Orationis
+Sacrificio Impío|Concentras todo tu poder en atacar, dejándote muy vulnerable.|||¡Tu ira se focaliza en tu próximo ataque!|Impius Sacrificium
+Metamorfosis: Ent|Transforma al usuario en un Ent. Efecto temporal.|Has transformado en un Ent a | te ha transformado en un Ent.|Te has transformado en un Ent.|
+Metamorfosis: Águila|Transforma al usuario en un Águila. Efecto temporal.|Has transformado en un Águila a | te ha transformado en un Águila.|Te has transformado en un Águila.|
+||| ha lanzado Flama Elemental sobre ti.||
+Furia de Éter||| ha lanzado Furia de Éter sobre ti.||Aether'Für
+Azote Lóbrego||| ha lanzado Azote Lóbrego sobre ti.||Supplicium Câligo
+Sollozo Espectral||| ha lanzado Sollozo Espectral sobre ti.||Complorâtus esprectâ
+Castigo Ilusorio||| ha lanzado Castigo Ilusorio sobre ti.||Poenâ'captiö
+Remordimiento||| ha lanzado Remordimiento sobre ti.||Dêc'um Äcêms
+Hipnosis||| ha lanzado una Hipnosis paralizante sobre ti.||Sômnus
+Tempestad||| ha lanzado Tempestad sobre ti.||Tempestâtis
+Llamarada||| ha lanzado Llamarada sobre ti.||Flâmmaë
+Seísmo||| ha lanzado Seísmo sobre ti.|| ndamë K'unhs
+Torrente||| ha lanzado Torrente sobre ti.||Fluentëm  he'rüs
+Profecia Divina||| ha lanzado Profecia divina sobre ti.||Pröeftus Divein
+Furor Ígneo|Acelera tu poder de ataque a costa de tu salud.|||¡Un poder oculto incrementa tu velocidad de ataque!|Furorem Igneous
+Remover Ceguera|Remueve el efecto ceguera del personaje.|Le has removido la ceguera a | te ha removido la ceguera.|Te has removido la ceguera.|An Vides
+Sanar familiar o mascota|Sanar o resucita el familiar o mascota del objetivo.|| ha sanado tu familiar.|Has sanado tu familiar.|Nature X r
+Rayo Arcano|Causa 40 a 55 puntos de daño a la víctima.|Has lanzado Rayo Arcano sobre | ha lanzado Rayo Arcano sobre ti.|Has lanzado Rayo Arcano sobre ti.|X R NÏ RÔ
+Metamorfosis: Santa|Transforma al usuario en un Santa. Efecto temporal. Las criaturas no te atacarán si aparentas ser más poderoso que ellas, y obtendrás un bonificador en tu ataque y defensa.|Has transformado en Santa a | te ha transformado en Santa.|Te has transformado en Santa.|¡Ho Ho Ho Ho Ho!
+Plano Etéreo|Transporta al usuario al Plano Etéreo, haciéndolo totalmente invisible del Plano de los Vivos. Cualquier ataque cancelará este efecto. Efecto temporal.|Has pasado al Plano Etéreo a | te ha enviado al Plano Etéreo.|Has pasado al Plano Etéreo.|Aeris
+Rugido Flamígero||| ha lanzado Rugido Flamígero sobre ti.||Fremitu Mortem
+Soplo Abrasivo||| ha lanzado Soplo Abrasivo sobre ti.||Abrasive Halitus
+Alud Llameante||| ha lanzado Alud Llameante sobre ti||Damnum Flammeus
+Castigo Crepitante||| ha lanzado Castigo Crepitante sobre ti||Crepitantibus Supliccium
+Metamorfosis: Jinete sin Cabeza|Transforma al usuario en un Jinete sin Cabeza. Efecto temporal. Las criaturas no te atacarán si aparentas ser más poderoso que ellas, y obtendrás un bonificador en tu ataque y defensa.|Has transformado en un Jinete sin Cabeza a | te ha transformado en un Jinete sin Cabeza.|Te has transformado en un Jinete sin Cabeza.|J R ZHA NI
+Runa de Teletransportación|Te regresa a tu hogar. Puedes hablar con cualquier Sacerdote de una ciudad neutral o de tu facción y escribiendo /HOGAR cambiarás tu hogar.|||Vuelves a tu hogar.|Runa de Teletransportación
+Runa de Hogar|Te lleva dentro de tu casa. Debes tener una para usar este objeto.|||Has sido transportado a tu casa.|Runa de Hogar
+Runa de Escape|Te regresa a tu hogar. Puedes hablar con cualquier Sacerdote de una ciudad neutral o de tu facción y escribiendo /HOGAR cambiarás tu hogar.|||Vuelves a tu hogar.|Runa de Escape
+Telaraña|Impide el movimiento de la víctima.|Has atrapado a | te ha atrapado en su telaraña.|Te has atrapado.|Tar Nï'Xar
+Escudo Mágico||||Te proteges del ataque de tus enemigos.|Magicae Clypeus
+Lamento del Mar||| ha lanzado Lamento del Mar sobre ti||Obscura Mortum
+Metamorfosis: ¡Hombre de Nieve!|Transforma al usuario en un Hombre de Nieve. Efecto temporal. Las criaturas no te atacarán si aparentas ser más poderoso que ellas, y obtendrás un bonificador en tu ataque y defensa.|Has transformado en Hombre de Nieve a | te ha transformado en Hombre de Nieve.|Te has transformado en Hombre de Nieve.|¡Ho Ho Ho Ho Ho!
+Metamorfosis: ¡Fango!|Transforma al usuario en un Fango. Efecto temporal. Las criaturas no te atacarán si aparentas ser más poderoso que ellas, y obtendrás un bonificador en tu ataque y defensa.|Has transformado en Fango a | te ha transformado en Fango.|Te has transformado en Fango.|
+Veneno Letal||| ha lanzado Veneno Letal sobre ti.||Lethal Ostium
+Invisibilidad Superior|Vuelve invisible al objetivo de forma más eficiente utilizando menos recursos. Efecto temporal.|Has lanzado Invisibilidad Superior sobre | ha lanzado Invisibilidad Superior sobre ti.||
+Supernova||| ha lanzado Supernova sobre ti.||Hyacintho Stella
+Metamorfosis: ¡Hombre Lobo!|Transforma al usuario en un Hombre Lobo. Efecto temporal. Las criaturas no te atacarán si aparentas ser más poderoso que ellas, y obtendrás un bonificador en tu ataque y defensa.|Has transformado en Hombre Lobo a | te ha transformado en Hombre Lobo.|Te has transformado en Hombre Lobo.|
+Metamorfosis: ¡Vampiro!|Transforma al usuario en un Vampiro. Efecto temporal. Las criaturas no te atacarán si aparentas ser más poderoso que ellas, y obtendrás un bonificador en tu ataque y defensa.|Has transformado en Vampiro a | te ha transformado en Vampiro.|Te has transformado en Vampiro.|
+Metamorfosis: ¡Vampiresa!|Transforma al usuario en un Vampiresa. Efecto temporal. Las criaturas no te atacarán si aparentas ser más poderoso que ellas, y obtendrás un bonificador en tu ataque y defensa.|Has transformado en Vampiresa a | te ha transformado en Vampiresa.|Te has transformado en Vampiresa.|
+Metamorfosis: ¡Demonio!|Transforma al usuario en un Demonio. Efecto temporal. Las criaturas no te atacarán si aparentas ser más poderoso que ellas, y obtendrás un bonificador en tu ataque y defensa.|Has transformado en Demonio a | te ha transformado en Demonio.|Te has transformado en Demonio.|
+Metamorfosis: ¡Alma Cautiva!|Transforma al usuario en un Alma Cautiva. Efecto temporal. Las criaturas no te atacarán si aparentas ser más poderoso que ellas, y obtendrás un bonificador en tu ataque y defensa.|Has transformado en Alma Cautiva a | te ha transformado en Alma Cautiva.|Te has transformado en Alma cautiva.|
+Metamorfosis: ¡Fantasma!|Transforma al usuario en un Fantasma. Efecto temporal. Las criaturas no te atacarán si aparentas ser más poderoso que ellas, y obtendrás un bonificador en tu ataque y defensa.|Has transformado en Fantasma a | te ha transformado en Fantasma.|Te has transformado en Fantasma.| ¡BOO!
+Anillo de Agilidad||||Aumentas tu agilidad.|
+Botas de Celeridad||||Aumentas tu agilidad.|
+Anillo del Ocultismo||||Te vuelves invisible.|
+Anillo de Regeneración||||Un escudo de vida te protege.|
+Anillo del Guerrero||||Te sientes más fuerte.|
+Pendiente del Asesino||||Acelera tu velocidad de ataque a costa de tu salud.|
+Pendiente del Arquero||||¡Tu próximo golpe no fallará!|
+Anillo de Bardo||||Se refuerza tu armadura.|
+Nudillos||||Aumenta tu fuerza.|
+Anillo del Guerrero||||Te sientes más fuerte.|
+Aullido Atronador|Remueve la parálisis del personaje.| has lanzado Aullido Atronador sobre | ha lanzado Aullido Atronador sobre ti.|Lanzas un aullido que resquebraja la tierra y remueve tus ataduras.|ÿrum Raeeeeeeeel
+Ira Desatada|Te remueve la parálisis.| Has lanzado Ira Desatada sobre| ha lanzado Ira Desatada sobre ti.|La ira desatada remueve tus ataduras.|¡¡¡ARGHHHHH!!!
+Trueno|Causa 85 a 95 puntos de daño a la víctima.| has lanzado Rayo Tronador sobre | ha lanzado Rayo Tronador sobre ti|Has lanzado Rayo Tronador sobre ti|Arnak Sulum
+Poder Ancestral|Te otorga 25 de fuerza y 25 de agilidad.| has lanzado Poder Ancestral sobre | ha lanzado Poder Ancestral sobre ti.|El poder ancestral de los Dioses te envuelve.|Valhum Rashir
+Frenesí|Aumenta la velocidad de tu ataque durante 6 segundos.| has lanzado Frenesí sobre | ha lanzado Frenesí sobre ti.|El Frenesí te consume y arrasas con todo a tu paso.|¡¡¡ARRGHHHH!!!
+Combustión|Causa 140 a 150 puntos de daño a la víctima.| has lanzado Combustión sobre | ha lanzado Combustión sobre ti.|Has lanzado Combustión sobre ti.|Räkarlifûr
+Llamado a las Crías|||||Vocavit Pullorum Grypium
+Aliento Abrasador|||||Spiritus Calidus
+Descarga Ancestral|Causa 65 a 75 puntos de daño a la víctima.|Has lanzado Descarga Ancestral sobre | ha lanzado Descarga Ancestral sobre ti.|Has lanzado Descarga Ancestral sobre ti.|Aertikün
+Ignición|Causa 90 a 105 puntos de daño a la víctima.|Has lanzado Ignición sobre | ha lanzado Ignición sobre ti|Has lanzado Ignición sobre ti.|Blurtarashk
+Tormento Ígneo|Causa 110 a 130 puntos de daño a la víctima.|Has lanzado Tormento Ígneo sobre | ha lanzado Tormento Ígneo sobre ti.|Has lanzado Tormento Ígneo sobre ti.|Ignuris Sinsi
+Vórtice Atávico|Causa 85 a 90 puntos de daño e inmoviliza a la víctima.|Has lanzado Vórtice Atávico sobre | ha lanzado Vórtice Atávico sobre ti.|Has lanzado Vórtice Atávico sobre ti.|Hoax Morten
+Cañonazo|Causa 70 a 110 puntos de daño al objetivo.|Has lanzado Cañonazo sobre | ha lanzado Cañonazo sobre ti.|Has lanzado Cañonazo sobre ti|¡BOOM!
+Plano Imaginaerum||||Cambias de plano. Todo se vuelve raro y misterioso. Nadie parece ver lo que haces...|Imaginaerum
+Metamorfosis: ¡Duende Navideño!|Transforma al usuario en un Duende Navideño. Efecto temporal. Las criaturas no te atacarán si aparentas ser más poderoso que ellas, y obtendrás un bonificador en tu ataque y defensa.|Has transformado en Duende Navideño a | te ha transformado en Duende Navideño.|Te has transformado en Duende Navideño.|¡Ji Ji Ji!
+Tolerancia 0||| ha lanzado Tolerancia 0 sobre ti.||¡Baneado!
+Runa de Marfil|Apto para celebrar el cumpleaños Nº 14 de ImperiumAO.|||Conjuras una poderosa runa mágica con la cual celebras los 14 años de ImperiumAO.|¡14 años!
+Llamado a los Refuerzos|||||¡Soldados! ¡Aquí!
+Runa de Marfil|Apto para celebrar el cumpleaños Nº 15 de ImperiumAO.|||Conjuras una poderosa runa mágica con la cual celebras los 15 años de ImperiumAO.|¡15 años!
+Metamorfosis: ¡Conejo!|Transforma al usuario en un Conejo. Efecto temporal. Las criaturas no te atacarán si aparentas ser más poderoso que ellas, y obtendrás un bonificador en tu ataque y defensa ¡Felices Pascuas!|Has transformado en Conejo a | te ha transformado en Conejo.|Te has transformado en Conejo ¡Felices Pascuas!|
+Meditar|||||
+Destello Primigenio|Causa 115 a 130 puntos de daño a la víctima.|Has lanzado Destello Primigenio sobre | ha lanzado Destello Primigenio sobre ti|Has lanzado Destello Primigenio sobre ti.|Fulgur Veteris
+Invocar Sombra del Inframundo|Invoca un sirviente del Inframundo|Has invocado un sirviente del inframundo.|||Gor'Shad
+Sentencia de la Muerte|Causa 95 a 105 puntos de daño a la víctima.|Has lanzado Sentencia de la muerte sobre | ha lanzado Sentencia de la muerte sobre ti.|Has lanzado Sentencia de la muerte sobre ti.|Damnationem Mortem
+Fuego Fatuo Luz|||||Ignis
